@@ -1,0 +1,509 @@
+﻿
+@{
+    
+}
+@{
+    ViewData["Title"] = "Trang chủ";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+<table class="table">
+    <thead>
+        <tr>
+            <th>ID</th>
+            <th>Category ID</th>
+            <th>Code</th>
+            <th>Slug</th>
+            <th>Name</th>
+            <th>Introduce</th>
+            <th>Quantity</th>
+            <th>Price</th>
+            <th>Discount</th>
+            <th>Promotion End</th>
+            <th>Created Date</th>
+            <th>View Count</th>
+            <th>Is Visible</th>
+        </tr>
+    </thead>
+    <tbody>
+        @{
+            var products = ViewBag.Message;
+        }
+        @foreach (var product in products)
+        {
+            <tr>
+                <td>@product.ID</td>
+                <td>@product.CategoryID</td>
+                <td>@product.Code</td>
+                <td>@product.Slug</td>
+                <td>@product.Name</td>
+                <td>@product.Introduce</td>
+                <td>@product.Quantity</td>
+                <td>@product.Price</td>
+                <td>@product.Discount</td>
+                <td>@product.PromotionEnd</td>
+                <td>@product.CreatedDate</td>
+                <td>@product.ViewCount</td>
+                <td>@(product.IsVisible ? "Yes" : "No")</td>
+            </tr>
+        }
+    </tbody>
+</table>
+
+<section id="slider" class="p-0">
+    <div id="home-carousel" class="carousel slide d-none d-xl-block" data-bs-ride="carousel">
+        <div class="carousel-inner">
+            <div class="carousel-item" style="background-image: url('/media/Images/Slider/Slide 1.jpg')"></div>
+            <div class="carousel-item active" style="background-image: url('/media/Images/Slider/4.jpg')"></div>
+            <div class="carousel-item" style="background-image: url('/media/Images/Slider/Slide 3.jpg')"></div>
+        </div>
+        <button class="carousel-control-prev" type="button" data-bs-target="#home-carousel" data-bs-slide="prev">
+            <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+            <span class="visually-hidden">Previous</span>
+        </button>
+        <button class="carousel-control-next" type="button" data-bs-target="#home-carousel" data-bs-slide="next">
+            <span class="carousel-control-next-icon" aria-hidden="true"></span>
+            <span class="visually-hidden">Next</span>
+        </button>
+    </div>
+</section>
+
+<header>
+
+</header>
+
+<div class=" my-1">
+    <div class=" container">
+        <div class="row">
+            <div class="col-md-12">
+                <div class="progress-bar"></div>
+                <h4 class="text-left p-2">Thực phẩm</h4>
+            </div>
+        </div>
+    </div>
+</div>
+
+<div class="my-2">
+    <div class="container">
+        <div class="row">
+            <div class="col-md-2 mb-4">
+                <div class="product">
+                    <img src="./media/Images/Product/1.jpg" alt="Product 1" class="img-rounded" alt="Cinque Terre" width="100%" height="200">
+                    <div class="product-info">
+                        <div class="title text-center green-bean"><b>RƯỢU ĐINH LĂNG NGỌC HÂN  </b></div>
+                    </div>
+                    <div class="product-info1">
+                        <div class="title text-center"><b>GIÁ: LIÊN HỆ </b></div>
+                    </div>
+                </div>
+            </div>
+
+            <div class="col-md-2 mb-4">
+                <div class="product">
+                    <img src="./media/Images/Product/2.jpg" alt="Product 1" class="img-rounded" alt="Cinque Terre" width="100%" height="200">
+                    <div class="product-info">
+                        <div class="title text-center"><b> NHÃN XUỒNG    </b></div>
+                    </div>
+                    <div class="product-info1">
+                        <div class="title text-center"><b>GIÁ: LIÊN HỆ </b></div>
+                    </div>
+                </div>
+            </div>
+            <div class="col-md-2 mb-4">
+                <div class="product">
+                    <img src="./media/Images/Product/3.jpg" alt="Product 1" class="img-rounded" alt="Cinque Terre" width="100%" height="200">
+                    <div class="product-info">
+                        <div class="title text-center"><b>MẬT ONG</b></div>
+                    </div>
+                    <div class="product-info1">
+                        <div class="title text-center"><b>GIÁ: LIÊN HỆ </b></div>
+                    </div>
+                </div>
+            </div>
+            <div class="col-md-2 mb-4">
+                <div class="product">
+                    <img src="./media/Images/Product/4.jpg" alt="Product 1" class="img-rounded" alt="Cinque Terre"  width="100%" height="200">
+                    <div class="product-info">
+                        <div class="title text-center"><b> XOÀI CÁT HÒA LỘC SẤY DẺO</b></div>
+                    </div>
+                    <div class="product-info1">
+                        <div class="title text-center"><b>GIÁ: LIÊN HỆ </b></div>
+                    </div>
+                </div>
+            </div>
+            <div class="col-md-2 mb-4">
+                <div class="product">
+                    <img src="./media/Images/Product/5.jpg" alt="Product 1" class="img-rounded" alt="Cinque Terre" width="100%" height="200">
+                    <div class="product-info">
+                        <div class="title text-center"><b> BƯỞI DA XANH </b></div>
+                    </div>
+                    <div class="product-info1">
+                        <div class="title text-center"><b>GIÁ: LIÊN HỆ </b></div>
+                    </div>
+                </div>
+            </div>
+            <div class="col-md-2 mb-4">
+                <div class="product">
+                    <img src="./media/Images/Product/6.jpg" alt="Product 1" class="img-rounded" alt="Cinque Terre" width="100%" height="200">
+                    <div class="product-info">
+                        <div class="title text-center"><b>TRÁI CÂY SẤY </b></div>
+                    </div>
+                    <div class="product-info1">
+                        <div class="title text-center"><b>GIÁ: LIÊN HỆ </b></div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+<div class="my-1">
+    <div class="container">
+        <div class="row">
+            <div class="col-md-12">
+                <div class="progress-bar"></div>
+                <span1 class="text-left p-2"> Tiểu Thủ Công Nghiệp </span1>
+            </div>
+        </div>
+    </div>
+</div>
+
+<div class="my-2">
+    <div class="container">
+        <div class="row">
+            <div class="col-md-2 mb-4">
+                <div class="product">
+                    <img src="./media/Images/Product/7.jpg" alt="Product 1" class="img-rounded" alt="Cinque Terre" width="100%" height="200">
+                    <div class="product-info">
+                        <div class="title text-center green-bean"><b> MÍT SẤY  </b></div>
+                    </div>
+                    <div class="product-info1">
+                        <div class="title text-center"><b>GIÁ: LIÊN HỆ </b></div>
+                    </div>
+                </div>
+            </div>
+            <div class="col-md-2 mb-4">
+                <div class="product">
+                    <img src="./media/Images/Product/8.jpg" alt="Product 1" class="img-rounded" alt="Cinque Terre" width="100%" height="200">
+                    <div class="product-info">
+                        <div class="title text-center"><b>  CHUỐI SẤY   </b></div>
+                    </div>
+                    <div class="product-info1">
+                        <div class="title text-center"><b>GIÁ: LIÊN HỆ </b></div>
+                    </div>
+                </div>
+            </div>
+            <div class="col-md-2 mb-4">
+                <div class="product">
+                    <img src="./media/Images/Product/9.jpg" alt="Product 1" class="img-rounded" alt="Cinque Terre" width="100%" height="200">
+                    <div class="product-info">
+                        <div class="title text-center"><b>KHOAI MÔN</b></div>
+                    </div>
+                    <div class="product-info1">
+                        <div class="title text-center"><b>GIÁ: LIÊN HỆ </b></div>
+                    </div>
+                </div>
+            </div>
+            <div class="col-md-2 mb-4">
+                <div class="product">
+                    <img src="./media/Images/Product/10.jpg" alt="Product 1" class="img-rounded" alt="Cinque Terre" width="100%" height="200">
+                    <div class="product-info">
+                        <div class="title text-center"><b> NƯỚC MẮM CÁ LINH</b></div>
+                    </div>
+                    <div class="product-info1">
+                        <div class="title text-center"><b>GIÁ: LIÊN HỆ </b></div>
+                    </div>
+                </div>
+            </div>
+            <div class="col-md-2 mb-4">
+                <div class="product">
+                    <img src="./media/Images/Product/11.jpg" alt="Product 1" class="img-rounded" alt="Cinque Terre" width="100%" height="200">
+                    <div class="product-info">
+                        <div class="title text-center"><b> KHÔ CÁ TRA PHỒNG </b></div>
+                    </div>
+                    <div class="product-info1">
+                        <div class="title text-center"><b>GIÁ: LIÊN HỆ </b></div>
+                    </div>
+                </div>
+            </div>
+            <div class="col-md-2 mb-4">
+                <div class="product">
+                    <img src="./media/Images/Product/13.jpg" alt="Product 1" class="img-rounded" alt="Cinque Terre" width="100%" height="200">
+                    <div class="product-info">
+                        <div class="title text-center"><b> KHÔ ẾCH MỘT NẮNG </b></div>
+                    </div>
+                    <div class="product-info1">
+                        <div class="title text-center"><b>GIÁ: LIÊN HỆ </b></div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+<div class=" my-1">
+    <div class=" container">
+        <div class="row">
+            <div class="col-md-12">
+                <div class="progress-bar"></div>
+                <h6 class="text-left p-2"> Nông Sản</h6>
+            </div>
+        </div>
+    </div>
+</div>
+
+<div class="my-2">
+    <div class="container">
+        <div class="row">
+            <div class="col-md-2 mb-4">
+                <div class="product">
+                    <img src="./img/14.jpg" alt="Product 1" class="img-rounded" alt="Cinque Terre" width="100%" height="200">
+                    <div class="product-info">
+                        <div class="title text-center green-bean"><b> Nấm Bào ngư xám </b></div>
+                    </div>
+                    <div class="product-info1">
+                        <div class="title text-center"><b>GIÁ: LIÊN HỆ </b></div>
+                    </div>
+                </div>
+            </div>
+            <div class="col-md-2 mb-4">
+                <div class="product">
+                    <img src="./img/15.jpg" alt="Product 1" class="img-rounded" alt="Cinque Terre" width="100%" height="200">
+                    <div class="product-info">
+                        <div class="title text-center"><b> Khoai môn </b></div>
+                    </div>
+                    <div class="product-info1">
+                        <div class="title text-center"><b>GIÁ: LIÊN HỆ </b></div>
+                    </div>
+                </div>
+            </div>
+            <div class="col-md-2 mb-4">
+                <div class="product">
+                    <img src="./img/16.jpg" alt="Product 1" class="img-rounded" alt="Cinque Terre" width="100%" height="200">
+                    <div class="product-info">
+                        <div class="title text-center"><b>Gừng</b></div>
+                    </div>
+                    <div class="product-info1">
+                        <div class="title text-center"><b>GIÁ: LIÊN HỆ </b></div>
+                    </div>
+                </div>
+            </div>
+            <div class="col-md-2 mb-4">
+                <div class="product">
+                    <img src="./img/17.jpg" alt="Product 1" class="img-rounded" alt="Cinque Terre" width="100%" height="200">
+                    <div class="product-info">
+                        <div class="title text-center"><b>Ấu</b></div>
+                    </div>
+                    <div class="product-info1">
+                        <div class="title text-center"><b>GIÁ: LIÊN HỆ </b></div>
+                    </div>
+                </div>
+            </div>
+            <div class="col-md-2 mb-4">
+                <div class="product">
+                    <img src="./img/18.jpg" alt="Product 1" class="img-rounded" alt="Cinque Terre" width="100%" height="200">
+                    <div class="product-info">
+                        <div class="title text-center"><b>Cải tàu xại </b></div>
+                    </div>
+                    <div class="product-info1">
+                        <div class="title text-center"><b>GIÁ: LIÊN HỆ </b></div>
+                    </div>
+                </div>
+            </div>
+            <div class="col-md-2 mb-4">
+                <div class="product">
+                    <img src="./img/19.jpg" alt="Product 1" class="img-rounded" alt="Cinque Terre" width="100%" height="200">
+                    <div class="product-info">
+                        <div class="title text-center"><b> Củ cải trắng </b></div>
+                    </div>
+                    <div class="product-info1">
+                        <div class="title text-center"><b>GIÁ: LIÊN HỆ </b></div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+<div class="my-1">
+    <div class="container">
+        <div class="row">
+            <div class="col-md-12">
+                <div class="progress-bar"></div>
+                <h3 class="text-center p-2">Sản phẩm mới</h3>
+            </div>
+        </div>
+    </div>
+</div>
+
+<div class="my-2">
+    <div class="container">
+        <div class="row">
+            <div class="col-md-2 mb-4">
+                <div class="product">
+                    <img src="./img/20.jpg" alt="Product 1" class="img-rounded" alt="Cinque Terre" width="100%" height="200">
+                    <div class="product-info">
+                        <div class="title text-center green-bean"><b> Trà Túi Lọc Rau Đắng Biển </b></div>
+                    </div>
+                    <div class="product-info1">
+                        <div class="title text-center"><b>GIÁ: LIÊN HỆ </b></div>
+                    </div>
+                </div>
+            </div>
+            <div class="col-md-2 mb-4">
+                <div class="product">
+                    <img src="./img/21.png" alt="Product 1" class="img-rounded" alt="Cinque Terre" width="100%" height="200">
+                    <div class="product-info">
+                        <div class="title text-center"><b>Thanh gạo lứt ngũ cốc Nguyệt My </b></div>
+                    </div>
+                    <div class="product-info1">
+                        <div class="title text-center"><b>GIÁ: LIÊN HỆ </b></div>
+                    </div>
+                </div>
+            </div>
+            <div class="col-md-2 mb-4">
+                <div class="product">
+                    <img src="./img/22.jpg" alt="Product 1" class="img-rounded" alt="Cinque Terre" width="100%" height="200">
+                    <div class="product-info">
+                        <div class="title text-center"><b>Mứt Me Khải Di</b></div>
+                    </div>
+                    <div class="product-info1">
+                        <div class="title text-center"><b>GIÁ: LIÊN HỆ </b></div>
+                    </div>
+                </div>
+            </div>
+            <div class="col-md-2 mb-4">
+                <div class="product">
+                    <img src="./img/23.jpg" alt="Product 1" class="img-rounded" alt="Cinque Terre" width="100%" height="200">
+                    <div class="product-info">
+                        <div class="title text-center"><b>Xoài sấy dẻo – HTX Trái cây Gap Chợ Mới</b></div>
+                    </div>
+                    <div class="product-info1">
+                        <div class="title text-center"><b>GIÁ: LIÊN HỆ </b></div>
+                    </div>
+                </div>
+            </div>
+            <div class="col-md-2 mb-4">
+                <div class="product">
+                    <img src="./img/24.jpg" alt="Product 1" class="img-rounded" alt="Cinque Terre" width="100%" height="200">
+                    <div class="product-info">
+                        <div class="title text-center"><b>Nấm Bào ngư xám </b></div>
+                    </div>
+                    <div class="product-info1">
+                        <div class="title text-center"><b>GIÁ: LIÊN HỆ </b></div>
+                    </div>
+                </div>
+            </div>
+            <div class="col-md-2 mb-4">
+                <div class="product">
+                    <img src="./img/25.jpg" alt="Product 1" class="img-rounded" alt="Cinque Terre" width="100%" height="200">
+                    <div class="product-info">
+                        <div class="title text-center"><b> Cửa hàng đồ gỗ Đại Toàn Nhân </b></div>
+                    </div>
+                    <div class="product-info1">
+                        <div class="title text-center"><b>GIÁ: LIÊN HỆ </b></div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+<div class="my-1">
+    <div class="container">
+        <div class="row">
+            <div class="col-md-12">
+                <div class="progress-bar"></div>
+                <h3 class="text-center p-2" style="text-align: left; border-bottom: 2px solid #454545; padding-bottom: 5px;">Tin Tức Nổi Bật</h3>
+            </div>
+        </div>
+    </div>
+</div>
+
+<div class="my-2">
+    <div class="container">
+        <div class="row">
+            <div class="col-6">
+                <div class="product">
+                    <div class="product-info d-flex align-items-center">
+                        <img src="./img/26.jpg" alt="Product 1" class="img-rounded" alt="Cinque Terre" style="width: 100px; height: 100px; margin-right: 10px; margin-bottom: 10px">
+                        <div class="title text-center green-bean">
+                            <b>
+                                Sản phẩm OCOP thúc đẩy kinh tế nông thôn phát triển
+                            </b>
+                        </div>
+                    </div>
+                    <div class="product-info1">
+                        <div class="title text-center"></div>
+                    </div>
+                </div>
+                <div class="product">
+                    <div class="product-info d-flex align-items-center">
+                        <img src="./img/27.jpg" alt="Product 1" class="img-rounded" alt="Cinque Terre" style="width: 100px; height: 100px; margin-right: 10px; margin-bottom: 10px">
+                        <div class="title text-center green-bean">
+                            <b>
+                                Làng nghề trăm năm
+                            </b>
+                        </div>
+                    </div>
+                    <div class="product-info1">
+                        <div class="title text-center"></div>
+                    </div>
+                </div>
+            </div>
+            <div class="col-6">
+                <div class="product">
+                    <div class="product-info d-flex align-items-center">
+                        <img src="./img/30.jpg" alt="Product 1" class="img-rounded" alt="Cinque Terre" style="width: 100px; height: 100px; margin-right: 10px; margin-bottom: 10px">
+                        <div class="title text-center green-bean">
+                            <b>
+                                Du Xuân tại Khu Du lịch sinh thái cồn Én và Điểm Du lịch Mỹ Luông
+                            </b>
+                        </div>
+                    </div>
+                    <div class="product-info1">
+                        <div class="title text-center"></div>
+                    </div>
+                </div>
+            </div>
+            <div class="col-6">
+                <div class="product">
+                    <div class="product-info d-flex align-items-center">
+                        <img src="./img/28.jpg" alt="Product 1" class="img-rounded" alt="Cinque Terre" style="width: 100px; height: 100px; margin-right: 10px; margin-bottom: 10px">
+                        <div class="title text-center green-bean">
+                            <b>
+                                Sức mua tết Giáp Thìn tăng 10% so với cùng kỳ
+                            </b>
+                        </div>
+                    </div>
+                    <div class="product-info1">
+                        <div class="title text-center"></div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>   
+
+<div class="center-form">
+    <form>
+        <div class="form">
+            <div class="text-center"><b>ĐĂNG KÝ SẢN PHẨM</b></div>
+            <div class="form-group">
+                <label for="exampleInputEmail1">Email</label>
+                <input type="email" class="form-control" id="exampleInputEmail1" aria-describedby="emailHelp" placeholder="Nhập email">
+                <small id="emailHelp" class="form-text text-muted">Chúng tôi sẽ không chia sẻ mail này với bất kì ai</small>
+            </div>
+            <div class="form-group">
+                <label for="exampleInputLocation1">Địa chỉ</label>
+                <input type="Location" class="form-control" id="exampleInputPassword1" placeholder="Nhập địa chỉ">
+            </div>
+            <div class="form-group">
+                <label for="exampleInputSdt1">Số điện thoại</label>
+                <input type="password" class="form-control" id="exampleInputPassword1" placeholder="Nhập số">
+            </div>
+            <div class="text-center p-2" style="text-align: left" style="margin-top: 10px;">
+                <button type="submit" class="btn btn-primary">Gửi</button>
+            </div> 
+        </div>
+    </form>
+</div>

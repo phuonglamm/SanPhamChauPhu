@@ -1,0 +1,2893 @@
+{
+  "Files": [
+    {
+      "Id": "D:\\SanPhamChauPhu\\SanPhamChauPhu\\wwwroot\\css\\_variable.css",
+      "PackagePath": "staticwebassets\\css\\_variable.css"
+    },
+    {
+      "Id": "D:\\SanPhamChauPhu\\SanPhamChauPhu\\wwwroot\\css\\_variable.min.css",
+      "PackagePath": "staticwebassets\\css\\_variable.min.css"
+    },
+    {
+      "Id": "D:\\SanPhamChauPhu\\SanPhamChauPhu\\wwwroot\\css\\_variable.scss",
+      "PackagePath": "staticwebassets\\css\\_variable.scss"
+    },
+    {
+      "Id": "D:\\SanPhamChauPhu\\SanPhamChauPhu\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "D:\\SanPhamChauPhu\\SanPhamChauPhu\\wwwroot\\css\\site.min.css",
+      "PackagePath": "staticwebassets\\css\\site.min.css"
+    },
+    {
+      "Id": "D:\\SanPhamChauPhu\\SanPhamChauPhu\\wwwroot\\css\\site.scss",
+      "PackagePath": "staticwebassets\\css\\site.scss"
+    },
+    {
+      "Id": "D:\\SanPhamChauPhu\\SanPhamChauPhu\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "D:\\SanPhamChauPhu\\SanPhamChauPhu\\wwwroot\\img\\12.jpg",
+      "PackagePath": "staticwebassets\\img\\12.jpg"
+    },
+    {
+      "Id": "D:\\SanPhamChauPhu\\SanPhamChauPhu\\wwwroot\\img\\14.jpg",
+      "PackagePath": "staticwebassets\\img\\14.jpg"
+    },
+    {
+      "Id": "D:\\SanPhamChauPhu\\SanPhamChauPhu\\wwwroot\\img\\15.jpg",
+      "PackagePath": "staticwebassets\\img\\15.jpg"
+    },
+    {
+      "Id": "D:\\SanPhamChauPhu\\SanPhamChauPhu\\wwwroot\\img\\16.jpg",
+      "PackagePath": "staticwebassets\\img\\16.jpg"
+    },
+    {
+      "Id": "D:\\SanPhamChauPhu\\SanPhamChauPhu\\wwwroot\\img\\17.jpg",
+      "PackagePath": "staticwebassets\\img\\17.jpg"
+    },
+    {
+      "Id": "D:\\SanPhamChauPhu\\SanPhamChauPhu\\wwwroot\\img\\18.jpg",
+      "PackagePath": "staticwebassets\\img\\18.jpg"
+    },
+    {
+      "Id": "D:\\SanPhamChauPhu\\SanPhamChauPhu\\wwwroot\\img\\19.jpg",
+      "PackagePath": "staticwebassets\\img\\19.jpg"
+    },
+    {
+      "Id": "D:\\SanPhamChauPhu\\SanPhamChauPhu\\wwwroot\\img\\20.jpg",
+      "PackagePath": "staticwebassets\\img\\20.jpg"
+    },
+    {
+      "Id": "D:\\SanPhamChauPhu\\SanPhamChauPhu\\wwwroot\\img\\21.png",
+      "PackagePath": "staticwebassets\\img\\21.png"
+    },
+    {
+      "Id": "D:\\SanPhamChauPhu\\SanPhamChauPhu\\wwwroot\\img\\22.jpg",
+      "PackagePath": "staticwebassets\\img\\22.jpg"
+    },
+    {
+      "Id": "D:\\SanPhamChauPhu\\SanPhamChauPhu\\wwwroot\\img\\23.jpg",
+      "PackagePath": "staticwebassets\\img\\23.jpg"
+    },
+    {
+      "Id": "D:\\SanPhamChauPhu\\SanPhamChauPhu\\wwwroot\\img\\24.jpg",
+      "PackagePath": "staticwebassets\\img\\24.jpg"
+    },
+    {
+      "Id": "D:\\SanPhamChauPhu\\SanPhamChauPhu\\wwwroot\\img\\25.jpg",
+      "PackagePath": "staticwebassets\\img\\25.jpg"
+    },
+    {
+      "Id": "D:\\SanPhamChauPhu\\SanPhamChauPhu\\wwwroot\\img\\26.jpg",
+      "PackagePath": "staticwebassets\\img\\26.jpg"
+    },
+    {
+      "Id": "D:\\SanPhamChauPhu\\SanPhamChauPhu\\wwwroot\\img\\27.jpg",
+      "PackagePath": "staticwebassets\\img\\27.jpg"
+    },
+    {
+      "Id": "D:\\SanPhamChauPhu\\SanPhamChauPhu\\wwwroot\\img\\28.jpg",
+      "PackagePath": "staticwebassets\\img\\28.jpg"
+    },
+    {
+      "Id": "D:\\SanPhamChauPhu\\SanPhamChauPhu\\wwwroot\\img\\29.jpg",
+      "PackagePath": "staticwebassets\\img\\29.jpg"
+    },
+    {
+      "Id": "D:\\SanPhamChauPhu\\SanPhamChauPhu\\wwwroot\\img\\30.jpg",
+      "PackagePath": "staticwebassets\\img\\30.jpg"
+    },
+    {
+      "Id": "D:\\SanPhamChauPhu\\SanPhamChauPhu\\wwwroot\\img\\logo.png",
+      "PackagePath": "staticwebassets\\img\\logo.png"
+    },
+    {
+      "Id": "D:\\SanPhamChauPhu\\SanPhamChauPhu\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "D:\\SanPhamChauPhu\\SanPhamChauPhu\\wwwroot\\lib\\bootstrap-datepicker\\css\\bootstrap-datepicker.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap-datepicker\\css\\bootstrap-datepicker.css"
+    },
+    {
+      "Id": "D:\\SanPhamChauPhu\\SanPhamChauPhu\\wwwroot\\lib\\bootstrap-datepicker\\css\\bootstrap-datepicker.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap-datepicker\\css\\bootstrap-datepicker.css.map"
+    },
+    {
+      "Id": "D:\\SanPhamChauPhu\\SanPhamChauPhu\\wwwroot\\lib\\bootstrap-datepicker\\css\\bootstrap-datepicker.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap-datepicker\\css\\bootstrap-datepicker.min.css"
+    },
+    {
+      "Id": "D:\\SanPhamChauPhu\\SanPhamChauPhu\\wwwroot\\lib\\bootstrap-datepicker\\css\\bootstrap-datepicker.standalone.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap-datepicker\\css\\bootstrap-datepicker.standalone.css"
+    },
+    {
+      "Id": "D:\\SanPhamChauPhu\\SanPhamChauPhu\\wwwroot\\lib\\bootstrap-datepicker\\css\\bootstrap-datepicker.standalone.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap-datepicker\\css\\bootstrap-datepicker.standalone.css.map"
+    },
+    {
+      "Id": "D:\\SanPhamChauPhu\\SanPhamChauPhu\\wwwroot\\lib\\bootstrap-datepicker\\css\\bootstrap-datepicker.standalone.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap-datepicker\\css\\bootstrap-datepicker.standalone.min.css"
+    },
+    {
+      "Id": "D:\\SanPhamChauPhu\\SanPhamChauPhu\\wwwroot\\lib\\bootstrap-datepicker\\css\\bootstrap-datepicker3.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap-datepicker\\css\\bootstrap-datepicker3.css"
+    },
+    {
+      "Id": "D:\\SanPhamChauPhu\\SanPhamChauPhu\\wwwroot\\lib\\bootstrap-datepicker\\css\\bootstrap-datepicker3.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap-datepicker\\css\\bootstrap-datepicker3.css.map"
+    },
+    {
+      "Id": "D:\\SanPhamChauPhu\\SanPhamChauPhu\\wwwroot\\lib\\bootstrap-datepicker\\css\\bootstrap-datepicker3.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap-datepicker\\css\\bootstrap-datepicker3.min.css"
+    },
+    {
+      "Id": "D:\\SanPhamChauPhu\\SanPhamChauPhu\\wwwroot\\lib\\bootstrap-datepicker\\css\\bootstrap-datepicker3.standalone.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap-datepicker\\css\\bootstrap-datepicker3.standalone.css"
+    },
+    {
+      "Id": "D:\\SanPhamChauPhu\\SanPhamChauPhu\\wwwroot\\lib\\bootstrap-datepicker\\css\\bootstrap-datepicker3.standalone.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap-datepicker\\css\\bootstrap-datepicker3.standalone.css.map"
+    },
+    {
+      "Id": "D:\\SanPhamChauPhu\\SanPhamChauPhu\\wwwroot\\lib\\bootstrap-datepicker\\css\\bootstrap-datepicker3.standalone.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap-datepicker\\css\\bootstrap-datepicker3.standalone.min.css"
+    },
+    {
+      "Id": "D:\\SanPhamChauPhu\\SanPhamChauPhu\\wwwroot\\lib\\bootstrap-datepicker\\js\\bootstrap-datepicker.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap-datepicker\\js\\bootstrap-datepicker.js"
+    },
+    {
+      "Id": "D:\\SanPhamChauPhu\\SanPhamChauPhu\\wwwroot\\lib\\bootstrap-datepicker\\js\\bootstrap-datepicker.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap-datepicker\\js\\bootstrap-datepicker.min.js"
+    },
+    {
+      "Id": "D:\\SanPhamChauPhu\\SanPhamChauPhu\\wwwroot\\lib\\bootstrap-datepicker\\locales\\bootstrap-datepicker-en-CA.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap-datepicker\\locales\\bootstrap-datepicker-en-CA.min.js"
+    },
+    {
+      "Id": "D:\\SanPhamChauPhu\\SanPhamChauPhu\\wwwroot\\lib\\bootstrap-datepicker\\locales\\bootstrap-datepicker.ar-tn.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap-datepicker\\locales\\bootstrap-datepicker.ar-tn.min.js"
+    },
+    {
+      "Id": "D:\\SanPhamChauPhu\\SanPhamChauPhu\\wwwroot\\lib\\bootstrap-datepicker\\locales\\bootstrap-datepicker.ar.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap-datepicker\\locales\\bootstrap-datepicker.ar.min.js"
+    },
+    {
+      "Id": "D:\\SanPhamChauPhu\\SanPhamChauPhu\\wwwroot\\lib\\bootstrap-datepicker\\locales\\bootstrap-datepicker.az.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap-datepicker\\locales\\bootstrap-datepicker.az.min.js"
+    },
+    {
+      "Id": "D:\\SanPhamChauPhu\\SanPhamChauPhu\\wwwroot\\lib\\bootstrap-datepicker\\locales\\bootstrap-datepicker.bg.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap-datepicker\\locales\\bootstrap-datepicker.bg.min.js"
+    },
+    {
+      "Id": "D:\\SanPhamChauPhu\\SanPhamChauPhu\\wwwroot\\lib\\bootstrap-datepicker\\locales\\bootstrap-datepicker.bm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap-datepicker\\locales\\bootstrap-datepicker.bm.min.js"
+    },
+    {
+      "Id": "D:\\SanPhamChauPhu\\SanPhamChauPhu\\wwwroot\\lib\\bootstrap-datepicker\\locales\\bootstrap-datepicker.bn.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap-datepicker\\locales\\bootstrap-datepicker.bn.min.js"
+    },
+    {
+      "Id": "D:\\SanPhamChauPhu\\SanPhamChauPhu\\wwwroot\\lib\\bootstrap-datepicker\\locales\\bootstrap-datepicker.br.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap-datepicker\\locales\\bootstrap-datepicker.br.min.js"
+    },
+    {
+      "Id": "D:\\SanPhamChauPhu\\SanPhamChauPhu\\wwwroot\\lib\\bootstrap-datepicker\\locales\\bootstrap-datepicker.bs.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap-datepicker\\locales\\bootstrap-datepicker.bs.min.js"
+    },
+    {
+      "Id": "D:\\SanPhamChauPhu\\SanPhamChauPhu\\wwwroot\\lib\\bootstrap-datepicker\\locales\\bootstrap-datepicker.ca.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap-datepicker\\locales\\bootstrap-datepicker.ca.min.js"
+    },
+    {
+      "Id": "D:\\SanPhamChauPhu\\SanPhamChauPhu\\wwwroot\\lib\\bootstrap-datepicker\\locales\\bootstrap-datepicker.cs.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap-datepicker\\locales\\bootstrap-datepicker.cs.min.js"
+    },
+    {
+      "Id": "D:\\SanPhamChauPhu\\SanPhamChauPhu\\wwwroot\\lib\\bootstrap-datepicker\\locales\\bootstrap-datepicker.cy.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap-datepicker\\locales\\bootstrap-datepicker.cy.min.js"
+    },
+    {
+      "Id": "D:\\SanPhamChauPhu\\SanPhamChauPhu\\wwwroot\\lib\\bootstrap-datepicker\\locales\\bootstrap-datepicker.da.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap-datepicker\\locales\\bootstrap-datepicker.da.min.js"
+    },
+    {
+      "Id": "D:\\SanPhamChauPhu\\SanPhamChauPhu\\wwwroot\\lib\\bootstrap-datepicker\\locales\\bootstrap-datepicker.de.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap-datepicker\\locales\\bootstrap-datepicker.de.min.js"
+    },
+    {
+      "Id": "D:\\SanPhamChauPhu\\SanPhamChauPhu\\wwwroot\\lib\\bootstrap-datepicker\\locales\\bootstrap-datepicker.el.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap-datepicker\\locales\\bootstrap-datepicker.el.min.js"
+    },
+    {
+      "Id": "D:\\SanPhamChauPhu\\SanPhamChauPhu\\wwwroot\\lib\\bootstrap-datepicker\\locales\\bootstrap-datepicker.en-AU.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap-datepicker\\locales\\bootstrap-datepicker.en-AU.min.js"
+    },
+    {
+      "Id": "D:\\SanPhamChauPhu\\SanPhamChauPhu\\wwwroot\\lib\\bootstrap-datepicker\\locales\\bootstrap-datepicker.en-CA.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap-datepicker\\locales\\bootstrap-datepicker.en-CA.min.js"
+    },
+    {
+      "Id": "D:\\SanPhamChauPhu\\SanPhamChauPhu\\wwwroot\\lib\\bootstrap-datepicker\\locales\\bootstrap-datepicker.en-GB.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap-datepicker\\locales\\bootstrap-datepicker.en-GB.min.js"
+    },
+    {
+      "Id": "D:\\SanPhamChauPhu\\SanPhamChauPhu\\wwwroot\\lib\\bootstrap-datepicker\\locales\\bootstrap-datepicker.en-IE.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap-datepicker\\locales\\bootstrap-datepicker.en-IE.min.js"
+    },
+    {
+      "Id": "D:\\SanPhamChauPhu\\SanPhamChauPhu\\wwwroot\\lib\\bootstrap-datepicker\\locales\\bootstrap-datepicker.en-NZ.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap-datepicker\\locales\\bootstrap-datepicker.en-NZ.min.js"
+    },
+    {
+      "Id": "D:\\SanPhamChauPhu\\SanPhamChauPhu\\wwwroot\\lib\\bootstrap-datepicker\\locales\\bootstrap-datepicker.en-ZA.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap-datepicker\\locales\\bootstrap-datepicker.en-ZA.min.js"
+    },
+    {
+      "Id": "D:\\SanPhamChauPhu\\SanPhamChauPhu\\wwwroot\\lib\\bootstrap-datepicker\\locales\\bootstrap-datepicker.eo.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap-datepicker\\locales\\bootstrap-datepicker.eo.min.js"
+    },
+    {
+      "Id": "D:\\SanPhamChauPhu\\SanPhamChauPhu\\wwwroot\\lib\\bootstrap-datepicker\\locales\\bootstrap-datepicker.es.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap-datepicker\\locales\\bootstrap-datepicker.es.min.js"
+    },
+    {
+      "Id": "D:\\SanPhamChauPhu\\SanPhamChauPhu\\wwwroot\\lib\\bootstrap-datepicker\\locales\\bootstrap-datepicker.et.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap-datepicker\\locales\\bootstrap-datepicker.et.min.js"
+    },
+    {
+      "Id": "D:\\SanPhamChauPhu\\SanPhamChauPhu\\wwwroot\\lib\\bootstrap-datepicker\\locales\\bootstrap-datepicker.eu.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap-datepicker\\locales\\bootstrap-datepicker.eu.min.js"
+    },
+    {
+      "Id": "D:\\SanPhamChauPhu\\SanPhamChauPhu\\wwwroot\\lib\\bootstrap-datepicker\\locales\\bootstrap-datepicker.fa.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap-datepicker\\locales\\bootstrap-datepicker.fa.min.js"
+    },
+    {
+      "Id": "D:\\SanPhamChauPhu\\SanPhamChauPhu\\wwwroot\\lib\\bootstrap-datepicker\\locales\\bootstrap-datepicker.fi.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap-datepicker\\locales\\bootstrap-datepicker.fi.min.js"
+    },
+    {
+      "Id": "D:\\SanPhamChauPhu\\SanPhamChauPhu\\wwwroot\\lib\\bootstrap-datepicker\\locales\\bootstrap-datepicker.fo.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap-datepicker\\locales\\bootstrap-datepicker.fo.min.js"
+    },
+    {
+      "Id": "D:\\SanPhamChauPhu\\SanPhamChauPhu\\wwwroot\\lib\\bootstrap-datepicker\\locales\\bootstrap-datepicker.fr-CH.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap-datepicker\\locales\\bootstrap-datepicker.fr-CH.min.js"
+    },
+    {
+      "Id": "D:\\SanPhamChauPhu\\SanPhamChauPhu\\wwwroot\\lib\\bootstrap-datepicker\\locales\\bootstrap-datepicker.fr.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap-datepicker\\locales\\bootstrap-datepicker.fr.min.js"
+    },
+    {
+      "Id": "D:\\SanPhamChauPhu\\SanPhamChauPhu\\wwwroot\\lib\\bootstrap-datepicker\\locales\\bootstrap-datepicker.gl.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap-datepicker\\locales\\bootstrap-datepicker.gl.min.js"
+    },
+    {
+      "Id": "D:\\SanPhamChauPhu\\SanPhamChauPhu\\wwwroot\\lib\\bootstrap-datepicker\\locales\\bootstrap-datepicker.he.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap-datepicker\\locales\\bootstrap-datepicker.he.min.js"
+    },
+    {
+      "Id": "D:\\SanPhamChauPhu\\SanPhamChauPhu\\wwwroot\\lib\\bootstrap-datepicker\\locales\\bootstrap-datepicker.hi.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap-datepicker\\locales\\bootstrap-datepicker.hi.min.js"
+    },
+    {
+      "Id": "D:\\SanPhamChauPhu\\SanPhamChauPhu\\wwwroot\\lib\\bootstrap-datepicker\\locales\\bootstrap-datepicker.hr.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap-datepicker\\locales\\bootstrap-datepicker.hr.min.js"
+    },
+    {
+      "Id": "D:\\SanPhamChauPhu\\SanPhamChauPhu\\wwwroot\\lib\\bootstrap-datepicker\\locales\\bootstrap-datepicker.hu.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap-datepicker\\locales\\bootstrap-datepicker.hu.min.js"
+    },
+    {
+      "Id": "D:\\SanPhamChauPhu\\SanPhamChauPhu\\wwwroot\\lib\\bootstrap-datepicker\\locales\\bootstrap-datepicker.hy.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap-datepicker\\locales\\bootstrap-datepicker.hy.min.js"
+    },
+    {
+      "Id": "D:\\SanPhamChauPhu\\SanPhamChauPhu\\wwwroot\\lib\\bootstrap-datepicker\\locales\\bootstrap-datepicker.id.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap-datepicker\\locales\\bootstrap-datepicker.id.min.js"
+    },
+    {
+      "Id": "D:\\SanPhamChauPhu\\SanPhamChauPhu\\wwwroot\\lib\\bootstrap-datepicker\\locales\\bootstrap-datepicker.is.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap-datepicker\\locales\\bootstrap-datepicker.is.min.js"
+    },
+    {
+      "Id": "D:\\SanPhamChauPhu\\SanPhamChauPhu\\wwwroot\\lib\\bootstrap-datepicker\\locales\\bootstrap-datepicker.it-CH.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap-datepicker\\locales\\bootstrap-datepicker.it-CH.min.js"
+    },
+    {
+      "Id": "D:\\SanPhamChauPhu\\SanPhamChauPhu\\wwwroot\\lib\\bootstrap-datepicker\\locales\\bootstrap-datepicker.it.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap-datepicker\\locales\\bootstrap-datepicker.it.min.js"
+    },
+    {
+      "Id": "D:\\SanPhamChauPhu\\SanPhamChauPhu\\wwwroot\\lib\\bootstrap-datepicker\\locales\\bootstrap-datepicker.ja.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap-datepicker\\locales\\bootstrap-datepicker.ja.min.js"
+    },
+    {
+      "Id": "D:\\SanPhamChauPhu\\SanPhamChauPhu\\wwwroot\\lib\\bootstrap-datepicker\\locales\\bootstrap-datepicker.ka.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap-datepicker\\locales\\bootstrap-datepicker.ka.min.js"
+    },
+    {
+      "Id": "D:\\SanPhamChauPhu\\SanPhamChauPhu\\wwwroot\\lib\\bootstrap-datepicker\\locales\\bootstrap-datepicker.kh.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap-datepicker\\locales\\bootstrap-datepicker.kh.min.js"
+    },
+    {
+      "Id": "D:\\SanPhamChauPhu\\SanPhamChauPhu\\wwwroot\\lib\\bootstrap-datepicker\\locales\\bootstrap-datepicker.kk.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap-datepicker\\locales\\bootstrap-datepicker.kk.min.js"
+    },
+    {
+      "Id": "D:\\SanPhamChauPhu\\SanPhamChauPhu\\wwwroot\\lib\\bootstrap-datepicker\\locales\\bootstrap-datepicker.km.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap-datepicker\\locales\\bootstrap-datepicker.km.min.js"
+    },
+    {
+      "Id": "D:\\SanPhamChauPhu\\SanPhamChauPhu\\wwwroot\\lib\\bootstrap-datepicker\\locales\\bootstrap-datepicker.ko.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap-datepicker\\locales\\bootstrap-datepicker.ko.min.js"
+    },
+    {
+      "Id": "D:\\SanPhamChauPhu\\SanPhamChauPhu\\wwwroot\\lib\\bootstrap-datepicker\\locales\\bootstrap-datepicker.kr.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap-datepicker\\locales\\bootstrap-datepicker.kr.min.js"
+    },
+    {
+      "Id": "D:\\SanPhamChauPhu\\SanPhamChauPhu\\wwwroot\\lib\\bootstrap-datepicker\\locales\\bootstrap-datepicker.lt.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap-datepicker\\locales\\bootstrap-datepicker.lt.min.js"
+    },
+    {
+      "Id": "D:\\SanPhamChauPhu\\SanPhamChauPhu\\wwwroot\\lib\\bootstrap-datepicker\\locales\\bootstrap-datepicker.lv.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap-datepicker\\locales\\bootstrap-datepicker.lv.min.js"
+    },
+    {
+      "Id": "D:\\SanPhamChauPhu\\SanPhamChauPhu\\wwwroot\\lib\\bootstrap-datepicker\\locales\\bootstrap-datepicker.me.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap-datepicker\\locales\\bootstrap-datepicker.me.min.js"
+    },
+    {
+      "Id": "D:\\SanPhamChauPhu\\SanPhamChauPhu\\wwwroot\\lib\\bootstrap-datepicker\\locales\\bootstrap-datepicker.mk.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap-datepicker\\locales\\bootstrap-datepicker.mk.min.js"
+    },
+    {
+      "Id": "D:\\SanPhamChauPhu\\SanPhamChauPhu\\wwwroot\\lib\\bootstrap-datepicker\\locales\\bootstrap-datepicker.mn.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap-datepicker\\locales\\bootstrap-datepicker.mn.min.js"
+    },
+    {
+      "Id": "D:\\SanPhamChauPhu\\SanPhamChauPhu\\wwwroot\\lib\\bootstrap-datepicker\\locales\\bootstrap-datepicker.ms.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap-datepicker\\locales\\bootstrap-datepicker.ms.min.js"
+    },
+    {
+      "Id": "D:\\SanPhamChauPhu\\SanPhamChauPhu\\wwwroot\\lib\\bootstrap-datepicker\\locales\\bootstrap-datepicker.nl-BE.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap-datepicker\\locales\\bootstrap-datepicker.nl-BE.min.js"
+    },
+    {
+      "Id": "D:\\SanPhamChauPhu\\SanPhamChauPhu\\wwwroot\\lib\\bootstrap-datepicker\\locales\\bootstrap-datepicker.nl.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap-datepicker\\locales\\bootstrap-datepicker.nl.min.js"
+    },
+    {
+      "Id": "D:\\SanPhamChauPhu\\SanPhamChauPhu\\wwwroot\\lib\\bootstrap-datepicker\\locales\\bootstrap-datepicker.no.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap-datepicker\\locales\\bootstrap-datepicker.no.min.js"
+    },
+    {
+      "Id": "D:\\SanPhamChauPhu\\SanPhamChauPhu\\wwwroot\\lib\\bootstrap-datepicker\\locales\\bootstrap-datepicker.oc.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap-datepicker\\locales\\bootstrap-datepicker.oc.min.js"
+    },
+    {
+      "Id": "D:\\SanPhamChauPhu\\SanPhamChauPhu\\wwwroot\\lib\\bootstrap-datepicker\\locales\\bootstrap-datepicker.pl.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap-datepicker\\locales\\bootstrap-datepicker.pl.min.js"
+    },
+    {
+      "Id": "D:\\SanPhamChauPhu\\SanPhamChauPhu\\wwwroot\\lib\\bootstrap-datepicker\\locales\\bootstrap-datepicker.pt-BR.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap-datepicker\\locales\\bootstrap-datepicker.pt-BR.min.js"
+    },
+    {
+      "Id": "D:\\SanPhamChauPhu\\SanPhamChauPhu\\wwwroot\\lib\\bootstrap-datepicker\\locales\\bootstrap-datepicker.pt.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap-datepicker\\locales\\bootstrap-datepicker.pt.min.js"
+    },
+    {
+      "Id": "D:\\SanPhamChauPhu\\SanPhamChauPhu\\wwwroot\\lib\\bootstrap-datepicker\\locales\\bootstrap-datepicker.ro.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap-datepicker\\locales\\bootstrap-datepicker.ro.min.js"
+    },
+    {
+      "Id": "D:\\SanPhamChauPhu\\SanPhamChauPhu\\wwwroot\\lib\\bootstrap-datepicker\\locales\\bootstrap-datepicker.rs-latin.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap-datepicker\\locales\\bootstrap-datepicker.rs-latin.min.js"
+    },
+    {
+      "Id": "D:\\SanPhamChauPhu\\SanPhamChauPhu\\wwwroot\\lib\\bootstrap-datepicker\\locales\\bootstrap-datepicker.rs.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap-datepicker\\locales\\bootstrap-datepicker.rs.min.js"
+    },
+    {
+      "Id": "D:\\SanPhamChauPhu\\SanPhamChauPhu\\wwwroot\\lib\\bootstrap-datepicker\\locales\\bootstrap-datepicker.ru.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap-datepicker\\locales\\bootstrap-datepicker.ru.min.js"
+    },
+    {
+      "Id": "D:\\SanPhamChauPhu\\SanPhamChauPhu\\wwwroot\\lib\\bootstrap-datepicker\\locales\\bootstrap-datepicker.si.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap-datepicker\\locales\\bootstrap-datepicker.si.min.js"
+    },
+    {
+      "Id": "D:\\SanPhamChauPhu\\SanPhamChauPhu\\wwwroot\\lib\\bootstrap-datepicker\\locales\\bootstrap-datepicker.sk.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap-datepicker\\locales\\bootstrap-datepicker.sk.min.js"
+    },
+    {
+      "Id": "D:\\SanPhamChauPhu\\SanPhamChauPhu\\wwwroot\\lib\\bootstrap-datepicker\\locales\\bootstrap-datepicker.sl.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap-datepicker\\locales\\bootstrap-datepicker.sl.min.js"
+    },
+    {
+      "Id": "D:\\SanPhamChauPhu\\SanPhamChauPhu\\wwwroot\\lib\\bootstrap-datepicker\\locales\\bootstrap-datepicker.sq.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap-datepicker\\locales\\bootstrap-datepicker.sq.min.js"
+    },
+    {
+      "Id": "D:\\SanPhamChauPhu\\SanPhamChauPhu\\wwwroot\\lib\\bootstrap-datepicker\\locales\\bootstrap-datepicker.sr-latin.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap-datepicker\\locales\\bootstrap-datepicker.sr-latin.min.js"
+    },
+    {
+      "Id": "D:\\SanPhamChauPhu\\SanPhamChauPhu\\wwwroot\\lib\\bootstrap-datepicker\\locales\\bootstrap-datepicker.sr.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap-datepicker\\locales\\bootstrap-datepicker.sr.min.js"
+    },
+    {
+      "Id": "D:\\SanPhamChauPhu\\SanPhamChauPhu\\wwwroot\\lib\\bootstrap-datepicker\\locales\\bootstrap-datepicker.sv.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap-datepicker\\locales\\bootstrap-datepicker.sv.min.js"
+    },
+    {
+      "Id": "D:\\SanPhamChauPhu\\SanPhamChauPhu\\wwwroot\\lib\\bootstrap-datepicker\\locales\\bootstrap-datepicker.sw.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap-datepicker\\locales\\bootstrap-datepicker.sw.min.js"
+    },
+    {
+      "Id": "D:\\SanPhamChauPhu\\SanPhamChauPhu\\wwwroot\\lib\\bootstrap-datepicker\\locales\\bootstrap-datepicker.ta.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap-datepicker\\locales\\bootstrap-datepicker.ta.min.js"
+    },
+    {
+      "Id": "D:\\SanPhamChauPhu\\SanPhamChauPhu\\wwwroot\\lib\\bootstrap-datepicker\\locales\\bootstrap-datepicker.tg.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap-datepicker\\locales\\bootstrap-datepicker.tg.min.js"
+    },
+    {
+      "Id": "D:\\SanPhamChauPhu\\SanPhamChauPhu\\wwwroot\\lib\\bootstrap-datepicker\\locales\\bootstrap-datepicker.th.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap-datepicker\\locales\\bootstrap-datepicker.th.min.js"
+    },
+    {
+      "Id": "D:\\SanPhamChauPhu\\SanPhamChauPhu\\wwwroot\\lib\\bootstrap-datepicker\\locales\\bootstrap-datepicker.tk.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap-datepicker\\locales\\bootstrap-datepicker.tk.min.js"
+    },
+    {
+      "Id": "D:\\SanPhamChauPhu\\SanPhamChauPhu\\wwwroot\\lib\\bootstrap-datepicker\\locales\\bootstrap-datepicker.tr.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap-datepicker\\locales\\bootstrap-datepicker.tr.min.js"
+    },
+    {
+      "Id": "D:\\SanPhamChauPhu\\SanPhamChauPhu\\wwwroot\\lib\\bootstrap-datepicker\\locales\\bootstrap-datepicker.uk.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap-datepicker\\locales\\bootstrap-datepicker.uk.min.js"
+    },
+    {
+      "Id": "D:\\SanPhamChauPhu\\SanPhamChauPhu\\wwwroot\\lib\\bootstrap-datepicker\\locales\\bootstrap-datepicker.uz-cyrl.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap-datepicker\\locales\\bootstrap-datepicker.uz-cyrl.min.js"
+    },
+    {
+      "Id": "D:\\SanPhamChauPhu\\SanPhamChauPhu\\wwwroot\\lib\\bootstrap-datepicker\\locales\\bootstrap-datepicker.uz-latn.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap-datepicker\\locales\\bootstrap-datepicker.uz-latn.min.js"
+    },
+    {
+      "Id": "D:\\SanPhamChauPhu\\SanPhamChauPhu\\wwwroot\\lib\\bootstrap-datepicker\\locales\\bootstrap-datepicker.vi.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap-datepicker\\locales\\bootstrap-datepicker.vi.min.js"
+    },
+    {
+      "Id": "D:\\SanPhamChauPhu\\SanPhamChauPhu\\wwwroot\\lib\\bootstrap-datepicker\\locales\\bootstrap-datepicker.zh-CN.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap-datepicker\\locales\\bootstrap-datepicker.zh-CN.min.js"
+    },
+    {
+      "Id": "D:\\SanPhamChauPhu\\SanPhamChauPhu\\wwwroot\\lib\\bootstrap-datepicker\\locales\\bootstrap-datepicker.zh-TW.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap-datepicker\\locales\\bootstrap-datepicker.zh-TW.min.js"
+    },
+    {
+      "Id": "D:\\SanPhamChauPhu\\SanPhamChauPhu\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "D:\\SanPhamChauPhu\\SanPhamChauPhu\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "D:\\SanPhamChauPhu\\SanPhamChauPhu\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "D:\\SanPhamChauPhu\\SanPhamChauPhu\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "D:\\SanPhamChauPhu\\SanPhamChauPhu\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "D:\\SanPhamChauPhu\\SanPhamChauPhu\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "D:\\SanPhamChauPhu\\SanPhamChauPhu\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "D:\\SanPhamChauPhu\\SanPhamChauPhu\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "D:\\SanPhamChauPhu\\SanPhamChauPhu\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\SanPhamChauPhu\\SanPhamChauPhu\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "D:\\SanPhamChauPhu\\SanPhamChauPhu\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "D:\\SanPhamChauPhu\\SanPhamChauPhu\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "D:\\SanPhamChauPhu\\SanPhamChauPhu\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "D:\\SanPhamChauPhu\\SanPhamChauPhu\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "D:\\SanPhamChauPhu\\SanPhamChauPhu\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "D:\\SanPhamChauPhu\\SanPhamChauPhu\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "D:\\SanPhamChauPhu\\SanPhamChauPhu\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\SanPhamChauPhu\\SanPhamChauPhu\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "D:\\SanPhamChauPhu\\SanPhamChauPhu\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "D:\\SanPhamChauPhu\\SanPhamChauPhu\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "D:\\SanPhamChauPhu\\SanPhamChauPhu\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "D:\\SanPhamChauPhu\\SanPhamChauPhu\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "D:\\SanPhamChauPhu\\SanPhamChauPhu\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "D:\\SanPhamChauPhu\\SanPhamChauPhu\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "D:\\SanPhamChauPhu\\SanPhamChauPhu\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\SanPhamChauPhu\\SanPhamChauPhu\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "D:\\SanPhamChauPhu\\SanPhamChauPhu\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "D:\\SanPhamChauPhu\\SanPhamChauPhu\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "D:\\SanPhamChauPhu\\SanPhamChauPhu\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "D:\\SanPhamChauPhu\\SanPhamChauPhu\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "D:\\SanPhamChauPhu\\SanPhamChauPhu\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "D:\\SanPhamChauPhu\\SanPhamChauPhu\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "D:\\SanPhamChauPhu\\SanPhamChauPhu\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\SanPhamChauPhu\\SanPhamChauPhu\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "D:\\SanPhamChauPhu\\SanPhamChauPhu\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "D:\\SanPhamChauPhu\\SanPhamChauPhu\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "D:\\SanPhamChauPhu\\SanPhamChauPhu\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "D:\\SanPhamChauPhu\\SanPhamChauPhu\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "D:\\SanPhamChauPhu\\SanPhamChauPhu\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "D:\\SanPhamChauPhu\\SanPhamChauPhu\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "D:\\SanPhamChauPhu\\SanPhamChauPhu\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "D:\\SanPhamChauPhu\\SanPhamChauPhu\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "D:\\SanPhamChauPhu\\SanPhamChauPhu\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "D:\\SanPhamChauPhu\\SanPhamChauPhu\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "D:\\SanPhamChauPhu\\SanPhamChauPhu\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "D:\\SanPhamChauPhu\\SanPhamChauPhu\\wwwroot\\lib\\boxicons\\css\\animations.css",
+      "PackagePath": "staticwebassets\\lib\\boxicons\\css\\animations.css"
+    },
+    {
+      "Id": "D:\\SanPhamChauPhu\\SanPhamChauPhu\\wwwroot\\lib\\boxicons\\css\\boxicons.css",
+      "PackagePath": "staticwebassets\\lib\\boxicons\\css\\boxicons.css"
+    },
+    {
+      "Id": "D:\\SanPhamChauPhu\\SanPhamChauPhu\\wwwroot\\lib\\boxicons\\css\\boxicons.min.css",
+      "PackagePath": "staticwebassets\\lib\\boxicons\\css\\boxicons.min.css"
+    },
+    {
+      "Id": "D:\\SanPhamChauPhu\\SanPhamChauPhu\\wwwroot\\lib\\boxicons\\css\\transformations.css",
+      "PackagePath": "staticwebassets\\lib\\boxicons\\css\\transformations.css"
+    },
+    {
+      "Id": "D:\\SanPhamChauPhu\\SanPhamChauPhu\\wwwroot\\lib\\boxicons\\fonts\\boxicons.eot",
+      "PackagePath": "staticwebassets\\lib\\boxicons\\fonts\\boxicons.eot"
+    },
+    {
+      "Id": "D:\\SanPhamChauPhu\\SanPhamChauPhu\\wwwroot\\lib\\boxicons\\fonts\\boxicons.svg",
+      "PackagePath": "staticwebassets\\lib\\boxicons\\fonts\\boxicons.svg"
+    },
+    {
+      "Id": "D:\\SanPhamChauPhu\\SanPhamChauPhu\\wwwroot\\lib\\boxicons\\fonts\\boxicons.ttf",
+      "PackagePath": "staticwebassets\\lib\\boxicons\\fonts\\boxicons.ttf"
+    },
+    {
+      "Id": "D:\\SanPhamChauPhu\\SanPhamChauPhu\\wwwroot\\lib\\boxicons\\fonts\\boxicons.woff",
+      "PackagePath": "staticwebassets\\lib\\boxicons\\fonts\\boxicons.woff"
+    },
+    {
+      "Id": "D:\\SanPhamChauPhu\\SanPhamChauPhu\\wwwroot\\lib\\boxicons\\fonts\\boxicons.woff2",
+      "PackagePath": "staticwebassets\\lib\\boxicons\\fonts\\boxicons.woff2"
+    },
+    {
+      "Id": "D:\\SanPhamChauPhu\\SanPhamChauPhu\\wwwroot\\lib\\ckeditor\\CHANGES.md",
+      "PackagePath": "staticwebassets\\lib\\ckeditor\\CHANGES.md"
+    },
+    {
+      "Id": "D:\\SanPhamChauPhu\\SanPhamChauPhu\\wwwroot\\lib\\ckeditor\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\ckeditor\\LICENSE.md"
+    },
+    {
+      "Id": "D:\\SanPhamChauPhu\\SanPhamChauPhu\\wwwroot\\lib\\ckeditor\\README.md",
+      "PackagePath": "staticwebassets\\lib\\ckeditor\\README.md"
+    },
+    {
+      "Id": "D:\\SanPhamChauPhu\\SanPhamChauPhu\\wwwroot\\lib\\ckeditor\\adapters\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\ckeditor\\adapters\\jquery.js"
+    },
+    {
+      "Id": "D:\\SanPhamChauPhu\\SanPhamChauPhu\\wwwroot\\lib\\ckeditor\\build-config.js",
+      "PackagePath": "staticwebassets\\lib\\ckeditor\\build-config.js"
+    },
+    {
+      "Id": "D:\\SanPhamChauPhu\\SanPhamChauPhu\\wwwroot\\lib\\ckeditor\\ckeditor.js",
+      "PackagePath": "staticwebassets\\lib\\ckeditor\\ckeditor.js"
+    },
+    {
+      "Id": "D:\\SanPhamChauPhu\\SanPhamChauPhu\\wwwroot\\lib\\ckeditor\\config.js",
+      "PackagePath": "staticwebassets\\lib\\ckeditor\\config.js"
+    },
+    {
+      "Id": "D:\\SanPhamChauPhu\\SanPhamChauPhu\\wwwroot\\lib\\ckeditor\\contents.css",
+      "PackagePath": "staticwebassets\\lib\\ckeditor\\contents.css"
+    },
+    {
+      "Id": "D:\\SanPhamChauPhu\\SanPhamChauPhu\\wwwroot\\lib\\ckeditor\\lang\\af.js",
+      "PackagePath": "staticwebassets\\lib\\ckeditor\\lang\\af.js"
+    },
+    {
+      "Id": "D:\\SanPhamChauPhu\\SanPhamChauPhu\\wwwroot\\lib\\ckeditor\\lang\\ar.js",
+      "PackagePath": "staticwebassets\\lib\\ckeditor\\lang\\ar.js"
+    },
+    {
+      "Id": "D:\\SanPhamChauPhu\\SanPhamChauPhu\\wwwroot\\lib\\ckeditor\\lang\\az.js",
+      "PackagePath": "staticwebassets\\lib\\ckeditor\\lang\\az.js"
+    },
+    {
+      "Id": "D:\\SanPhamChauPhu\\SanPhamChauPhu\\wwwroot\\lib\\ckeditor\\lang\\bg.js",
+      "PackagePath": "staticwebassets\\lib\\ckeditor\\lang\\bg.js"
+    },
+    {
+      "Id": "D:\\SanPhamChauPhu\\SanPhamChauPhu\\wwwroot\\lib\\ckeditor\\lang\\bn.js",
+      "PackagePath": "staticwebassets\\lib\\ckeditor\\lang\\bn.js"
+    },
+    {
+      "Id": "D:\\SanPhamChauPhu\\SanPhamChauPhu\\wwwroot\\lib\\ckeditor\\lang\\bs.js",
+      "PackagePath": "staticwebassets\\lib\\ckeditor\\lang\\bs.js"
+    },
+    {
+      "Id": "D:\\SanPhamChauPhu\\SanPhamChauPhu\\wwwroot\\lib\\ckeditor\\lang\\ca.js",
+      "PackagePath": "staticwebassets\\lib\\ckeditor\\lang\\ca.js"
+    },
+    {
+      "Id": "D:\\SanPhamChauPhu\\SanPhamChauPhu\\wwwroot\\lib\\ckeditor\\lang\\cs.js",
+      "PackagePath": "staticwebassets\\lib\\ckeditor\\lang\\cs.js"
+    },
+    {
+      "Id": "D:\\SanPhamChauPhu\\SanPhamChauPhu\\wwwroot\\lib\\ckeditor\\lang\\cy.js",
+      "PackagePath": "staticwebassets\\lib\\ckeditor\\lang\\cy.js"
+    },
+    {
+      "Id": "D:\\SanPhamChauPhu\\SanPhamChauPhu\\wwwroot\\lib\\ckeditor\\lang\\da.js",
+      "PackagePath": "staticwebassets\\lib\\ckeditor\\lang\\da.js"
+    },
+    {
+      "Id": "D:\\SanPhamChauPhu\\SanPhamChauPhu\\wwwroot\\lib\\ckeditor\\lang\\de-ch.js",
+      "PackagePath": "staticwebassets\\lib\\ckeditor\\lang\\de-ch.js"
+    },
+    {
+      "Id": "D:\\SanPhamChauPhu\\SanPhamChauPhu\\wwwroot\\lib\\ckeditor\\lang\\de.js",
+      "PackagePath": "staticwebassets\\lib\\ckeditor\\lang\\de.js"
+    },
+    {
+      "Id": "D:\\SanPhamChauPhu\\SanPhamChauPhu\\wwwroot\\lib\\ckeditor\\lang\\el.js",
+      "PackagePath": "staticwebassets\\lib\\ckeditor\\lang\\el.js"
+    },
+    {
+      "Id": "D:\\SanPhamChauPhu\\SanPhamChauPhu\\wwwroot\\lib\\ckeditor\\lang\\en-au.js",
+      "PackagePath": "staticwebassets\\lib\\ckeditor\\lang\\en-au.js"
+    },
+    {
+      "Id": "D:\\SanPhamChauPhu\\SanPhamChauPhu\\wwwroot\\lib\\ckeditor\\lang\\en-ca.js",
+      "PackagePath": "staticwebassets\\lib\\ckeditor\\lang\\en-ca.js"
+    },
+    {
+      "Id": "D:\\SanPhamChauPhu\\SanPhamChauPhu\\wwwroot\\lib\\ckeditor\\lang\\en-gb.js",
+      "PackagePath": "staticwebassets\\lib\\ckeditor\\lang\\en-gb.js"
+    },
+    {
+      "Id": "D:\\SanPhamChauPhu\\SanPhamChauPhu\\wwwroot\\lib\\ckeditor\\lang\\en.js",
+      "PackagePath": "staticwebassets\\lib\\ckeditor\\lang\\en.js"
+    },
+    {
+      "Id": "D:\\SanPhamChauPhu\\SanPhamChauPhu\\wwwroot\\lib\\ckeditor\\lang\\eo.js",
+      "PackagePath": "staticwebassets\\lib\\ckeditor\\lang\\eo.js"
+    },
+    {
+      "Id": "D:\\SanPhamChauPhu\\SanPhamChauPhu\\wwwroot\\lib\\ckeditor\\lang\\es-mx.js",
+      "PackagePath": "staticwebassets\\lib\\ckeditor\\lang\\es-mx.js"
+    },
+    {
+      "Id": "D:\\SanPhamChauPhu\\SanPhamChauPhu\\wwwroot\\lib\\ckeditor\\lang\\es.js",
+      "PackagePath": "staticwebassets\\lib\\ckeditor\\lang\\es.js"
+    },
+    {
+      "Id": "D:\\SanPhamChauPhu\\SanPhamChauPhu\\wwwroot\\lib\\ckeditor\\lang\\et.js",
+      "PackagePath": "staticwebassets\\lib\\ckeditor\\lang\\et.js"
+    },
+    {
+      "Id": "D:\\SanPhamChauPhu\\SanPhamChauPhu\\wwwroot\\lib\\ckeditor\\lang\\eu.js",
+      "PackagePath": "staticwebassets\\lib\\ckeditor\\lang\\eu.js"
+    },
+    {
+      "Id": "D:\\SanPhamChauPhu\\SanPhamChauPhu\\wwwroot\\lib\\ckeditor\\lang\\fa.js",
+      "PackagePath": "staticwebassets\\lib\\ckeditor\\lang\\fa.js"
+    },
+    {
+      "Id": "D:\\SanPhamChauPhu\\SanPhamChauPhu\\wwwroot\\lib\\ckeditor\\lang\\fi.js",
+      "PackagePath": "staticwebassets\\lib\\ckeditor\\lang\\fi.js"
+    },
+    {
+      "Id": "D:\\SanPhamChauPhu\\SanPhamChauPhu\\wwwroot\\lib\\ckeditor\\lang\\fo.js",
+      "PackagePath": "staticwebassets\\lib\\ckeditor\\lang\\fo.js"
+    },
+    {
+      "Id": "D:\\SanPhamChauPhu\\SanPhamChauPhu\\wwwroot\\lib\\ckeditor\\lang\\fr-ca.js",
+      "PackagePath": "staticwebassets\\lib\\ckeditor\\lang\\fr-ca.js"
+    },
+    {
+      "Id": "D:\\SanPhamChauPhu\\SanPhamChauPhu\\wwwroot\\lib\\ckeditor\\lang\\fr.js",
+      "PackagePath": "staticwebassets\\lib\\ckeditor\\lang\\fr.js"
+    },
+    {
+      "Id": "D:\\SanPhamChauPhu\\SanPhamChauPhu\\wwwroot\\lib\\ckeditor\\lang\\gl.js",
+      "PackagePath": "staticwebassets\\lib\\ckeditor\\lang\\gl.js"
+    },
+    {
+      "Id": "D:\\SanPhamChauPhu\\SanPhamChauPhu\\wwwroot\\lib\\ckeditor\\lang\\gu.js",
+      "PackagePath": "staticwebassets\\lib\\ckeditor\\lang\\gu.js"
+    },
+    {
+      "Id": "D:\\SanPhamChauPhu\\SanPhamChauPhu\\wwwroot\\lib\\ckeditor\\lang\\he.js",
+      "PackagePath": "staticwebassets\\lib\\ckeditor\\lang\\he.js"
+    },
+    {
+      "Id": "D:\\SanPhamChauPhu\\SanPhamChauPhu\\wwwroot\\lib\\ckeditor\\lang\\hi.js",
+      "PackagePath": "staticwebassets\\lib\\ckeditor\\lang\\hi.js"
+    },
+    {
+      "Id": "D:\\SanPhamChauPhu\\SanPhamChauPhu\\wwwroot\\lib\\ckeditor\\lang\\hr.js",
+      "PackagePath": "staticwebassets\\lib\\ckeditor\\lang\\hr.js"
+    },
+    {
+      "Id": "D:\\SanPhamChauPhu\\SanPhamChauPhu\\wwwroot\\lib\\ckeditor\\lang\\hu.js",
+      "PackagePath": "staticwebassets\\lib\\ckeditor\\lang\\hu.js"
+    },
+    {
+      "Id": "D:\\SanPhamChauPhu\\SanPhamChauPhu\\wwwroot\\lib\\ckeditor\\lang\\id.js",
+      "PackagePath": "staticwebassets\\lib\\ckeditor\\lang\\id.js"
+    },
+    {
+      "Id": "D:\\SanPhamChauPhu\\SanPhamChauPhu\\wwwroot\\lib\\ckeditor\\lang\\is.js",
+      "PackagePath": "staticwebassets\\lib\\ckeditor\\lang\\is.js"
+    },
+    {
+      "Id": "D:\\SanPhamChauPhu\\SanPhamChauPhu\\wwwroot\\lib\\ckeditor\\lang\\it.js",
+      "PackagePath": "staticwebassets\\lib\\ckeditor\\lang\\it.js"
+    },
+    {
+      "Id": "D:\\SanPhamChauPhu\\SanPhamChauPhu\\wwwroot\\lib\\ckeditor\\lang\\ja.js",
+      "PackagePath": "staticwebassets\\lib\\ckeditor\\lang\\ja.js"
+    },
+    {
+      "Id": "D:\\SanPhamChauPhu\\SanPhamChauPhu\\wwwroot\\lib\\ckeditor\\lang\\ka.js",
+      "PackagePath": "staticwebassets\\lib\\ckeditor\\lang\\ka.js"
+    },
+    {
+      "Id": "D:\\SanPhamChauPhu\\SanPhamChauPhu\\wwwroot\\lib\\ckeditor\\lang\\km.js",
+      "PackagePath": "staticwebassets\\lib\\ckeditor\\lang\\km.js"
+    },
+    {
+      "Id": "D:\\SanPhamChauPhu\\SanPhamChauPhu\\wwwroot\\lib\\ckeditor\\lang\\ko.js",
+      "PackagePath": "staticwebassets\\lib\\ckeditor\\lang\\ko.js"
+    },
+    {
+      "Id": "D:\\SanPhamChauPhu\\SanPhamChauPhu\\wwwroot\\lib\\ckeditor\\lang\\ku.js",
+      "PackagePath": "staticwebassets\\lib\\ckeditor\\lang\\ku.js"
+    },
+    {
+      "Id": "D:\\SanPhamChauPhu\\SanPhamChauPhu\\wwwroot\\lib\\ckeditor\\lang\\lt.js",
+      "PackagePath": "staticwebassets\\lib\\ckeditor\\lang\\lt.js"
+    },
+    {
+      "Id": "D:\\SanPhamChauPhu\\SanPhamChauPhu\\wwwroot\\lib\\ckeditor\\lang\\lv.js",
+      "PackagePath": "staticwebassets\\lib\\ckeditor\\lang\\lv.js"
+    },
+    {
+      "Id": "D:\\SanPhamChauPhu\\SanPhamChauPhu\\wwwroot\\lib\\ckeditor\\lang\\mk.js",
+      "PackagePath": "staticwebassets\\lib\\ckeditor\\lang\\mk.js"
+    },
+    {
+      "Id": "D:\\SanPhamChauPhu\\SanPhamChauPhu\\wwwroot\\lib\\ckeditor\\lang\\mn.js",
+      "PackagePath": "staticwebassets\\lib\\ckeditor\\lang\\mn.js"
+    },
+    {
+      "Id": "D:\\SanPhamChauPhu\\SanPhamChauPhu\\wwwroot\\lib\\ckeditor\\lang\\ms.js",
+      "PackagePath": "staticwebassets\\lib\\ckeditor\\lang\\ms.js"
+    },
+    {
+      "Id": "D:\\SanPhamChauPhu\\SanPhamChauPhu\\wwwroot\\lib\\ckeditor\\lang\\nb.js",
+      "PackagePath": "staticwebassets\\lib\\ckeditor\\lang\\nb.js"
+    },
+    {
+      "Id": "D:\\SanPhamChauPhu\\SanPhamChauPhu\\wwwroot\\lib\\ckeditor\\lang\\nl.js",
+      "PackagePath": "staticwebassets\\lib\\ckeditor\\lang\\nl.js"
+    },
+    {
+      "Id": "D:\\SanPhamChauPhu\\SanPhamChauPhu\\wwwroot\\lib\\ckeditor\\lang\\no.js",
+      "PackagePath": "staticwebassets\\lib\\ckeditor\\lang\\no.js"
+    },
+    {
+      "Id": "D:\\SanPhamChauPhu\\SanPhamChauPhu\\wwwroot\\lib\\ckeditor\\lang\\oc.js",
+      "PackagePath": "staticwebassets\\lib\\ckeditor\\lang\\oc.js"
+    },
+    {
+      "Id": "D:\\SanPhamChauPhu\\SanPhamChauPhu\\wwwroot\\lib\\ckeditor\\lang\\pl.js",
+      "PackagePath": "staticwebassets\\lib\\ckeditor\\lang\\pl.js"
+    },
+    {
+      "Id": "D:\\SanPhamChauPhu\\SanPhamChauPhu\\wwwroot\\lib\\ckeditor\\lang\\pt-br.js",
+      "PackagePath": "staticwebassets\\lib\\ckeditor\\lang\\pt-br.js"
+    },
+    {
+      "Id": "D:\\SanPhamChauPhu\\SanPhamChauPhu\\wwwroot\\lib\\ckeditor\\lang\\pt.js",
+      "PackagePath": "staticwebassets\\lib\\ckeditor\\lang\\pt.js"
+    },
+    {
+      "Id": "D:\\SanPhamChauPhu\\SanPhamChauPhu\\wwwroot\\lib\\ckeditor\\lang\\ro.js",
+      "PackagePath": "staticwebassets\\lib\\ckeditor\\lang\\ro.js"
+    },
+    {
+      "Id": "D:\\SanPhamChauPhu\\SanPhamChauPhu\\wwwroot\\lib\\ckeditor\\lang\\ru.js",
+      "PackagePath": "staticwebassets\\lib\\ckeditor\\lang\\ru.js"
+    },
+    {
+      "Id": "D:\\SanPhamChauPhu\\SanPhamChauPhu\\wwwroot\\lib\\ckeditor\\lang\\si.js",
+      "PackagePath": "staticwebassets\\lib\\ckeditor\\lang\\si.js"
+    },
+    {
+      "Id": "D:\\SanPhamChauPhu\\SanPhamChauPhu\\wwwroot\\lib\\ckeditor\\lang\\sk.js",
+      "PackagePath": "staticwebassets\\lib\\ckeditor\\lang\\sk.js"
+    },
+    {
+      "Id": "D:\\SanPhamChauPhu\\SanPhamChauPhu\\wwwroot\\lib\\ckeditor\\lang\\sl.js",
+      "PackagePath": "staticwebassets\\lib\\ckeditor\\lang\\sl.js"
+    },
+    {
+      "Id": "D:\\SanPhamChauPhu\\SanPhamChauPhu\\wwwroot\\lib\\ckeditor\\lang\\sq.js",
+      "PackagePath": "staticwebassets\\lib\\ckeditor\\lang\\sq.js"
+    },
+    {
+      "Id": "D:\\SanPhamChauPhu\\SanPhamChauPhu\\wwwroot\\lib\\ckeditor\\lang\\sr-latn.js",
+      "PackagePath": "staticwebassets\\lib\\ckeditor\\lang\\sr-latn.js"
+    },
+    {
+      "Id": "D:\\SanPhamChauPhu\\SanPhamChauPhu\\wwwroot\\lib\\ckeditor\\lang\\sr.js",
+      "PackagePath": "staticwebassets\\lib\\ckeditor\\lang\\sr.js"
+    },
+    {
+      "Id": "D:\\SanPhamChauPhu\\SanPhamChauPhu\\wwwroot\\lib\\ckeditor\\lang\\sv.js",
+      "PackagePath": "staticwebassets\\lib\\ckeditor\\lang\\sv.js"
+    },
+    {
+      "Id": "D:\\SanPhamChauPhu\\SanPhamChauPhu\\wwwroot\\lib\\ckeditor\\lang\\th.js",
+      "PackagePath": "staticwebassets\\lib\\ckeditor\\lang\\th.js"
+    },
+    {
+      "Id": "D:\\SanPhamChauPhu\\SanPhamChauPhu\\wwwroot\\lib\\ckeditor\\lang\\tr.js",
+      "PackagePath": "staticwebassets\\lib\\ckeditor\\lang\\tr.js"
+    },
+    {
+      "Id": "D:\\SanPhamChauPhu\\SanPhamChauPhu\\wwwroot\\lib\\ckeditor\\lang\\tt.js",
+      "PackagePath": "staticwebassets\\lib\\ckeditor\\lang\\tt.js"
+    },
+    {
+      "Id": "D:\\SanPhamChauPhu\\SanPhamChauPhu\\wwwroot\\lib\\ckeditor\\lang\\ug.js",
+      "PackagePath": "staticwebassets\\lib\\ckeditor\\lang\\ug.js"
+    },
+    {
+      "Id": "D:\\SanPhamChauPhu\\SanPhamChauPhu\\wwwroot\\lib\\ckeditor\\lang\\uk.js",
+      "PackagePath": "staticwebassets\\lib\\ckeditor\\lang\\uk.js"
+    },
+    {
+      "Id": "D:\\SanPhamChauPhu\\SanPhamChauPhu\\wwwroot\\lib\\ckeditor\\lang\\vi.js",
+      "PackagePath": "staticwebassets\\lib\\ckeditor\\lang\\vi.js"
+    },
+    {
+      "Id": "D:\\SanPhamChauPhu\\SanPhamChauPhu\\wwwroot\\lib\\ckeditor\\lang\\zh-cn.js",
+      "PackagePath": "staticwebassets\\lib\\ckeditor\\lang\\zh-cn.js"
+    },
+    {
+      "Id": "D:\\SanPhamChauPhu\\SanPhamChauPhu\\wwwroot\\lib\\ckeditor\\lang\\zh.js",
+      "PackagePath": "staticwebassets\\lib\\ckeditor\\lang\\zh.js"
+    },
+    {
+      "Id": "D:\\SanPhamChauPhu\\SanPhamChauPhu\\wwwroot\\lib\\ckeditor\\plugins\\a11yhelp\\dialogs\\a11yhelp.js",
+      "PackagePath": "staticwebassets\\lib\\ckeditor\\plugins\\a11yhelp\\dialogs\\a11yhelp.js"
+    },
+    {
+      "Id": "D:\\SanPhamChauPhu\\SanPhamChauPhu\\wwwroot\\lib\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\_translationstatus.txt",
+      "PackagePath": "staticwebassets\\lib\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\_translationstatus.txt"
+    },
+    {
+      "Id": "D:\\SanPhamChauPhu\\SanPhamChauPhu\\wwwroot\\lib\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\af.js",
+      "PackagePath": "staticwebassets\\lib\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\af.js"
+    },
+    {
+      "Id": "D:\\SanPhamChauPhu\\SanPhamChauPhu\\wwwroot\\lib\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\ar.js",
+      "PackagePath": "staticwebassets\\lib\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\ar.js"
+    },
+    {
+      "Id": "D:\\SanPhamChauPhu\\SanPhamChauPhu\\wwwroot\\lib\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\az.js",
+      "PackagePath": "staticwebassets\\lib\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\az.js"
+    },
+    {
+      "Id": "D:\\SanPhamChauPhu\\SanPhamChauPhu\\wwwroot\\lib\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\bg.js",
+      "PackagePath": "staticwebassets\\lib\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\bg.js"
+    },
+    {
+      "Id": "D:\\SanPhamChauPhu\\SanPhamChauPhu\\wwwroot\\lib\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\ca.js",
+      "PackagePath": "staticwebassets\\lib\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\ca.js"
+    },
+    {
+      "Id": "D:\\SanPhamChauPhu\\SanPhamChauPhu\\wwwroot\\lib\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\cs.js",
+      "PackagePath": "staticwebassets\\lib\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\cs.js"
+    },
+    {
+      "Id": "D:\\SanPhamChauPhu\\SanPhamChauPhu\\wwwroot\\lib\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\cy.js",
+      "PackagePath": "staticwebassets\\lib\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\cy.js"
+    },
+    {
+      "Id": "D:\\SanPhamChauPhu\\SanPhamChauPhu\\wwwroot\\lib\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\da.js",
+      "PackagePath": "staticwebassets\\lib\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\da.js"
+    },
+    {
+      "Id": "D:\\SanPhamChauPhu\\SanPhamChauPhu\\wwwroot\\lib\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\de-ch.js",
+      "PackagePath": "staticwebassets\\lib\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\de-ch.js"
+    },
+    {
+      "Id": "D:\\SanPhamChauPhu\\SanPhamChauPhu\\wwwroot\\lib\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\de.js",
+      "PackagePath": "staticwebassets\\lib\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\de.js"
+    },
+    {
+      "Id": "D:\\SanPhamChauPhu\\SanPhamChauPhu\\wwwroot\\lib\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\el.js",
+      "PackagePath": "staticwebassets\\lib\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\el.js"
+    },
+    {
+      "Id": "D:\\SanPhamChauPhu\\SanPhamChauPhu\\wwwroot\\lib\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\en-au.js",
+      "PackagePath": "staticwebassets\\lib\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\en-au.js"
+    },
+    {
+      "Id": "D:\\SanPhamChauPhu\\SanPhamChauPhu\\wwwroot\\lib\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\en-gb.js",
+      "PackagePath": "staticwebassets\\lib\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\en-gb.js"
+    },
+    {
+      "Id": "D:\\SanPhamChauPhu\\SanPhamChauPhu\\wwwroot\\lib\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\en.js",
+      "PackagePath": "staticwebassets\\lib\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\en.js"
+    },
+    {
+      "Id": "D:\\SanPhamChauPhu\\SanPhamChauPhu\\wwwroot\\lib\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\eo.js",
+      "PackagePath": "staticwebassets\\lib\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\eo.js"
+    },
+    {
+      "Id": "D:\\SanPhamChauPhu\\SanPhamChauPhu\\wwwroot\\lib\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\es-mx.js",
+      "PackagePath": "staticwebassets\\lib\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\es-mx.js"
+    },
+    {
+      "Id": "D:\\SanPhamChauPhu\\SanPhamChauPhu\\wwwroot\\lib\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\es.js",
+      "PackagePath": "staticwebassets\\lib\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\es.js"
+    },
+    {
+      "Id": "D:\\SanPhamChauPhu\\SanPhamChauPhu\\wwwroot\\lib\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\et.js",
+      "PackagePath": "staticwebassets\\lib\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\et.js"
+    },
+    {
+      "Id": "D:\\SanPhamChauPhu\\SanPhamChauPhu\\wwwroot\\lib\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\eu.js",
+      "PackagePath": "staticwebassets\\lib\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\eu.js"
+    },
+    {
+      "Id": "D:\\SanPhamChauPhu\\SanPhamChauPhu\\wwwroot\\lib\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\fa.js",
+      "PackagePath": "staticwebassets\\lib\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\fa.js"
+    },
+    {
+      "Id": "D:\\SanPhamChauPhu\\SanPhamChauPhu\\wwwroot\\lib\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\fi.js",
+      "PackagePath": "staticwebassets\\lib\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\fi.js"
+    },
+    {
+      "Id": "D:\\SanPhamChauPhu\\SanPhamChauPhu\\wwwroot\\lib\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\fo.js",
+      "PackagePath": "staticwebassets\\lib\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\fo.js"
+    },
+    {
+      "Id": "D:\\SanPhamChauPhu\\SanPhamChauPhu\\wwwroot\\lib\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\fr-ca.js",
+      "PackagePath": "staticwebassets\\lib\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\fr-ca.js"
+    },
+    {
+      "Id": "D:\\SanPhamChauPhu\\SanPhamChauPhu\\wwwroot\\lib\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\fr.js",
+      "PackagePath": "staticwebassets\\lib\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\fr.js"
+    },
+    {
+      "Id": "D:\\SanPhamChauPhu\\SanPhamChauPhu\\wwwroot\\lib\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\gl.js",
+      "PackagePath": "staticwebassets\\lib\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\gl.js"
+    },
+    {
+      "Id": "D:\\SanPhamChauPhu\\SanPhamChauPhu\\wwwroot\\lib\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\gu.js",
+      "PackagePath": "staticwebassets\\lib\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\gu.js"
+    },
+    {
+      "Id": "D:\\SanPhamChauPhu\\SanPhamChauPhu\\wwwroot\\lib\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\he.js",
+      "PackagePath": "staticwebassets\\lib\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\he.js"
+    },
+    {
+      "Id": "D:\\SanPhamChauPhu\\SanPhamChauPhu\\wwwroot\\lib\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\hi.js",
+      "PackagePath": "staticwebassets\\lib\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\hi.js"
+    },
+    {
+      "Id": "D:\\SanPhamChauPhu\\SanPhamChauPhu\\wwwroot\\lib\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\hr.js",
+      "PackagePath": "staticwebassets\\lib\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\hr.js"
+    },
+    {
+      "Id": "D:\\SanPhamChauPhu\\SanPhamChauPhu\\wwwroot\\lib\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\hu.js",
+      "PackagePath": "staticwebassets\\lib\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\hu.js"
+    },
+    {
+      "Id": "D:\\SanPhamChauPhu\\SanPhamChauPhu\\wwwroot\\lib\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\id.js",
+      "PackagePath": "staticwebassets\\lib\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\id.js"
+    },
+    {
+      "Id": "D:\\SanPhamChauPhu\\SanPhamChauPhu\\wwwroot\\lib\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\it.js",
+      "PackagePath": "staticwebassets\\lib\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\it.js"
+    },
+    {
+      "Id": "D:\\SanPhamChauPhu\\SanPhamChauPhu\\wwwroot\\lib\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\ja.js",
+      "PackagePath": "staticwebassets\\lib\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\ja.js"
+    },
+    {
+      "Id": "D:\\SanPhamChauPhu\\SanPhamChauPhu\\wwwroot\\lib\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\km.js",
+      "PackagePath": "staticwebassets\\lib\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\km.js"
+    },
+    {
+      "Id": "D:\\SanPhamChauPhu\\SanPhamChauPhu\\wwwroot\\lib\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\ko.js",
+      "PackagePath": "staticwebassets\\lib\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\ko.js"
+    },
+    {
+      "Id": "D:\\SanPhamChauPhu\\SanPhamChauPhu\\wwwroot\\lib\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\ku.js",
+      "PackagePath": "staticwebassets\\lib\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\ku.js"
+    },
+    {
+      "Id": "D:\\SanPhamChauPhu\\SanPhamChauPhu\\wwwroot\\lib\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\lt.js",
+      "PackagePath": "staticwebassets\\lib\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\lt.js"
+    },
+    {
+      "Id": "D:\\SanPhamChauPhu\\SanPhamChauPhu\\wwwroot\\lib\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\lv.js",
+      "PackagePath": "staticwebassets\\lib\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\lv.js"
+    },
+    {
+      "Id": "D:\\SanPhamChauPhu\\SanPhamChauPhu\\wwwroot\\lib\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\mk.js",
+      "PackagePath": "staticwebassets\\lib\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\mk.js"
+    },
+    {
+      "Id": "D:\\SanPhamChauPhu\\SanPhamChauPhu\\wwwroot\\lib\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\mn.js",
+      "PackagePath": "staticwebassets\\lib\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\mn.js"
+    },
+    {
+      "Id": "D:\\SanPhamChauPhu\\SanPhamChauPhu\\wwwroot\\lib\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\nb.js",
+      "PackagePath": "staticwebassets\\lib\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\nb.js"
+    },
+    {
+      "Id": "D:\\SanPhamChauPhu\\SanPhamChauPhu\\wwwroot\\lib\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\nl.js",
+      "PackagePath": "staticwebassets\\lib\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\nl.js"
+    },
+    {
+      "Id": "D:\\SanPhamChauPhu\\SanPhamChauPhu\\wwwroot\\lib\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\no.js",
+      "PackagePath": "staticwebassets\\lib\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\no.js"
+    },
+    {
+      "Id": "D:\\SanPhamChauPhu\\SanPhamChauPhu\\wwwroot\\lib\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\oc.js",
+      "PackagePath": "staticwebassets\\lib\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\oc.js"
+    },
+    {
+      "Id": "D:\\SanPhamChauPhu\\SanPhamChauPhu\\wwwroot\\lib\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\pl.js",
+      "PackagePath": "staticwebassets\\lib\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\pl.js"
+    },
+    {
+      "Id": "D:\\SanPhamChauPhu\\SanPhamChauPhu\\wwwroot\\lib\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\pt-br.js",
+      "PackagePath": "staticwebassets\\lib\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\pt-br.js"
+    },
+    {
+      "Id": "D:\\SanPhamChauPhu\\SanPhamChauPhu\\wwwroot\\lib\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\pt.js",
+      "PackagePath": "staticwebassets\\lib\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\pt.js"
+    },
+    {
+      "Id": "D:\\SanPhamChauPhu\\SanPhamChauPhu\\wwwroot\\lib\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\ro.js",
+      "PackagePath": "staticwebassets\\lib\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\ro.js"
+    },
+    {
+      "Id": "D:\\SanPhamChauPhu\\SanPhamChauPhu\\wwwroot\\lib\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\ru.js",
+      "PackagePath": "staticwebassets\\lib\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\ru.js"
+    },
+    {
+      "Id": "D:\\SanPhamChauPhu\\SanPhamChauPhu\\wwwroot\\lib\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\si.js",
+      "PackagePath": "staticwebassets\\lib\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\si.js"
+    },
+    {
+      "Id": "D:\\SanPhamChauPhu\\SanPhamChauPhu\\wwwroot\\lib\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\sk.js",
+      "PackagePath": "staticwebassets\\lib\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\sk.js"
+    },
+    {
+      "Id": "D:\\SanPhamChauPhu\\SanPhamChauPhu\\wwwroot\\lib\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\sl.js",
+      "PackagePath": "staticwebassets\\lib\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\sl.js"
+    },
+    {
+      "Id": "D:\\SanPhamChauPhu\\SanPhamChauPhu\\wwwroot\\lib\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\sq.js",
+      "PackagePath": "staticwebassets\\lib\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\sq.js"
+    },
+    {
+      "Id": "D:\\SanPhamChauPhu\\SanPhamChauPhu\\wwwroot\\lib\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\sr-latn.js",
+      "PackagePath": "staticwebassets\\lib\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\sr-latn.js"
+    },
+    {
+      "Id": "D:\\SanPhamChauPhu\\SanPhamChauPhu\\wwwroot\\lib\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\sr.js",
+      "PackagePath": "staticwebassets\\lib\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\sr.js"
+    },
+    {
+      "Id": "D:\\SanPhamChauPhu\\SanPhamChauPhu\\wwwroot\\lib\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\sv.js",
+      "PackagePath": "staticwebassets\\lib\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\sv.js"
+    },
+    {
+      "Id": "D:\\SanPhamChauPhu\\SanPhamChauPhu\\wwwroot\\lib\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\th.js",
+      "PackagePath": "staticwebassets\\lib\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\th.js"
+    },
+    {
+      "Id": "D:\\SanPhamChauPhu\\SanPhamChauPhu\\wwwroot\\lib\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\tr.js",
+      "PackagePath": "staticwebassets\\lib\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\tr.js"
+    },
+    {
+      "Id": "D:\\SanPhamChauPhu\\SanPhamChauPhu\\wwwroot\\lib\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\tt.js",
+      "PackagePath": "staticwebassets\\lib\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\tt.js"
+    },
+    {
+      "Id": "D:\\SanPhamChauPhu\\SanPhamChauPhu\\wwwroot\\lib\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\ug.js",
+      "PackagePath": "staticwebassets\\lib\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\ug.js"
+    },
+    {
+      "Id": "D:\\SanPhamChauPhu\\SanPhamChauPhu\\wwwroot\\lib\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\uk.js",
+      "PackagePath": "staticwebassets\\lib\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\uk.js"
+    },
+    {
+      "Id": "D:\\SanPhamChauPhu\\SanPhamChauPhu\\wwwroot\\lib\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\vi.js",
+      "PackagePath": "staticwebassets\\lib\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\vi.js"
+    },
+    {
+      "Id": "D:\\SanPhamChauPhu\\SanPhamChauPhu\\wwwroot\\lib\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\zh-cn.js",
+      "PackagePath": "staticwebassets\\lib\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\zh-cn.js"
+    },
+    {
+      "Id": "D:\\SanPhamChauPhu\\SanPhamChauPhu\\wwwroot\\lib\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\zh.js",
+      "PackagePath": "staticwebassets\\lib\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\zh.js"
+    },
+    {
+      "Id": "D:\\SanPhamChauPhu\\SanPhamChauPhu\\wwwroot\\lib\\ckeditor\\plugins\\about\\dialogs\\about.js",
+      "PackagePath": "staticwebassets\\lib\\ckeditor\\plugins\\about\\dialogs\\about.js"
+    },
+    {
+      "Id": "D:\\SanPhamChauPhu\\SanPhamChauPhu\\wwwroot\\lib\\ckeditor\\plugins\\about\\dialogs\\hidpi\\logo_ckeditor.png",
+      "PackagePath": "staticwebassets\\lib\\ckeditor\\plugins\\about\\dialogs\\hidpi\\logo_ckeditor.png"
+    },
+    {
+      "Id": "D:\\SanPhamChauPhu\\SanPhamChauPhu\\wwwroot\\lib\\ckeditor\\plugins\\about\\dialogs\\logo_ckeditor.png",
+      "PackagePath": "staticwebassets\\lib\\ckeditor\\plugins\\about\\dialogs\\logo_ckeditor.png"
+    },
+    {
+      "Id": "D:\\SanPhamChauPhu\\SanPhamChauPhu\\wwwroot\\lib\\ckeditor\\plugins\\clipboard\\dialogs\\paste.js",
+      "PackagePath": "staticwebassets\\lib\\ckeditor\\plugins\\clipboard\\dialogs\\paste.js"
+    },
+    {
+      "Id": "D:\\SanPhamChauPhu\\SanPhamChauPhu\\wwwroot\\lib\\ckeditor\\plugins\\colordialog\\dialogs\\colordialog.css",
+      "PackagePath": "staticwebassets\\lib\\ckeditor\\plugins\\colordialog\\dialogs\\colordialog.css"
+    },
+    {
+      "Id": "D:\\SanPhamChauPhu\\SanPhamChauPhu\\wwwroot\\lib\\ckeditor\\plugins\\colordialog\\dialogs\\colordialog.js",
+      "PackagePath": "staticwebassets\\lib\\ckeditor\\plugins\\colordialog\\dialogs\\colordialog.js"
+    },
+    {
+      "Id": "D:\\SanPhamChauPhu\\SanPhamChauPhu\\wwwroot\\lib\\ckeditor\\plugins\\copyformatting\\cursors\\cursor-disabled.svg",
+      "PackagePath": "staticwebassets\\lib\\ckeditor\\plugins\\copyformatting\\cursors\\cursor-disabled.svg"
+    },
+    {
+      "Id": "D:\\SanPhamChauPhu\\SanPhamChauPhu\\wwwroot\\lib\\ckeditor\\plugins\\copyformatting\\cursors\\cursor.svg",
+      "PackagePath": "staticwebassets\\lib\\ckeditor\\plugins\\copyformatting\\cursors\\cursor.svg"
+    },
+    {
+      "Id": "D:\\SanPhamChauPhu\\SanPhamChauPhu\\wwwroot\\lib\\ckeditor\\plugins\\copyformatting\\styles\\copyformatting.css",
+      "PackagePath": "staticwebassets\\lib\\ckeditor\\plugins\\copyformatting\\styles\\copyformatting.css"
+    },
+    {
+      "Id": "D:\\SanPhamChauPhu\\SanPhamChauPhu\\wwwroot\\lib\\ckeditor\\plugins\\dialog\\dialogDefinition.js",
+      "PackagePath": "staticwebassets\\lib\\ckeditor\\plugins\\dialog\\dialogDefinition.js"
+    },
+    {
+      "Id": "D:\\SanPhamChauPhu\\SanPhamChauPhu\\wwwroot\\lib\\ckeditor\\plugins\\dialog\\styles\\dialog.css",
+      "PackagePath": "staticwebassets\\lib\\ckeditor\\plugins\\dialog\\styles\\dialog.css"
+    },
+    {
+      "Id": "D:\\SanPhamChauPhu\\SanPhamChauPhu\\wwwroot\\lib\\ckeditor\\plugins\\div\\dialogs\\div.js",
+      "PackagePath": "staticwebassets\\lib\\ckeditor\\plugins\\div\\dialogs\\div.js"
+    },
+    {
+      "Id": "D:\\SanPhamChauPhu\\SanPhamChauPhu\\wwwroot\\lib\\ckeditor\\plugins\\find\\dialogs\\find.js",
+      "PackagePath": "staticwebassets\\lib\\ckeditor\\plugins\\find\\dialogs\\find.js"
+    },
+    {
+      "Id": "D:\\SanPhamChauPhu\\SanPhamChauPhu\\wwwroot\\lib\\ckeditor\\plugins\\flash\\dialogs\\flash.js",
+      "PackagePath": "staticwebassets\\lib\\ckeditor\\plugins\\flash\\dialogs\\flash.js"
+    },
+    {
+      "Id": "D:\\SanPhamChauPhu\\SanPhamChauPhu\\wwwroot\\lib\\ckeditor\\plugins\\flash\\images\\placeholder.png",
+      "PackagePath": "staticwebassets\\lib\\ckeditor\\plugins\\flash\\images\\placeholder.png"
+    },
+    {
+      "Id": "D:\\SanPhamChauPhu\\SanPhamChauPhu\\wwwroot\\lib\\ckeditor\\plugins\\forms\\dialogs\\button.js",
+      "PackagePath": "staticwebassets\\lib\\ckeditor\\plugins\\forms\\dialogs\\button.js"
+    },
+    {
+      "Id": "D:\\SanPhamChauPhu\\SanPhamChauPhu\\wwwroot\\lib\\ckeditor\\plugins\\forms\\dialogs\\checkbox.js",
+      "PackagePath": "staticwebassets\\lib\\ckeditor\\plugins\\forms\\dialogs\\checkbox.js"
+    },
+    {
+      "Id": "D:\\SanPhamChauPhu\\SanPhamChauPhu\\wwwroot\\lib\\ckeditor\\plugins\\forms\\dialogs\\form.js",
+      "PackagePath": "staticwebassets\\lib\\ckeditor\\plugins\\forms\\dialogs\\form.js"
+    },
+    {
+      "Id": "D:\\SanPhamChauPhu\\SanPhamChauPhu\\wwwroot\\lib\\ckeditor\\plugins\\forms\\dialogs\\hiddenfield.js",
+      "PackagePath": "staticwebassets\\lib\\ckeditor\\plugins\\forms\\dialogs\\hiddenfield.js"
+    },
+    {
+      "Id": "D:\\SanPhamChauPhu\\SanPhamChauPhu\\wwwroot\\lib\\ckeditor\\plugins\\forms\\dialogs\\radio.js",
+      "PackagePath": "staticwebassets\\lib\\ckeditor\\plugins\\forms\\dialogs\\radio.js"
+    },
+    {
+      "Id": "D:\\SanPhamChauPhu\\SanPhamChauPhu\\wwwroot\\lib\\ckeditor\\plugins\\forms\\dialogs\\select.js",
+      "PackagePath": "staticwebassets\\lib\\ckeditor\\plugins\\forms\\dialogs\\select.js"
+    },
+    {
+      "Id": "D:\\SanPhamChauPhu\\SanPhamChauPhu\\wwwroot\\lib\\ckeditor\\plugins\\forms\\dialogs\\textarea.js",
+      "PackagePath": "staticwebassets\\lib\\ckeditor\\plugins\\forms\\dialogs\\textarea.js"
+    },
+    {
+      "Id": "D:\\SanPhamChauPhu\\SanPhamChauPhu\\wwwroot\\lib\\ckeditor\\plugins\\forms\\dialogs\\textfield.js",
+      "PackagePath": "staticwebassets\\lib\\ckeditor\\plugins\\forms\\dialogs\\textfield.js"
+    },
+    {
+      "Id": "D:\\SanPhamChauPhu\\SanPhamChauPhu\\wwwroot\\lib\\ckeditor\\plugins\\forms\\images\\hiddenfield.gif",
+      "PackagePath": "staticwebassets\\lib\\ckeditor\\plugins\\forms\\images\\hiddenfield.gif"
+    },
+    {
+      "Id": "D:\\SanPhamChauPhu\\SanPhamChauPhu\\wwwroot\\lib\\ckeditor\\plugins\\icons.png",
+      "PackagePath": "staticwebassets\\lib\\ckeditor\\plugins\\icons.png"
+    },
+    {
+      "Id": "D:\\SanPhamChauPhu\\SanPhamChauPhu\\wwwroot\\lib\\ckeditor\\plugins\\icons_hidpi.png",
+      "PackagePath": "staticwebassets\\lib\\ckeditor\\plugins\\icons_hidpi.png"
+    },
+    {
+      "Id": "D:\\SanPhamChauPhu\\SanPhamChauPhu\\wwwroot\\lib\\ckeditor\\plugins\\iframe\\dialogs\\iframe.js",
+      "PackagePath": "staticwebassets\\lib\\ckeditor\\plugins\\iframe\\dialogs\\iframe.js"
+    },
+    {
+      "Id": "D:\\SanPhamChauPhu\\SanPhamChauPhu\\wwwroot\\lib\\ckeditor\\plugins\\iframe\\images\\placeholder.png",
+      "PackagePath": "staticwebassets\\lib\\ckeditor\\plugins\\iframe\\images\\placeholder.png"
+    },
+    {
+      "Id": "D:\\SanPhamChauPhu\\SanPhamChauPhu\\wwwroot\\lib\\ckeditor\\plugins\\image\\dialogs\\image.js",
+      "PackagePath": "staticwebassets\\lib\\ckeditor\\plugins\\image\\dialogs\\image.js"
+    },
+    {
+      "Id": "D:\\SanPhamChauPhu\\SanPhamChauPhu\\wwwroot\\lib\\ckeditor\\plugins\\image\\images\\noimage.png",
+      "PackagePath": "staticwebassets\\lib\\ckeditor\\plugins\\image\\images\\noimage.png"
+    },
+    {
+      "Id": "D:\\SanPhamChauPhu\\SanPhamChauPhu\\wwwroot\\lib\\ckeditor\\plugins\\link\\dialogs\\anchor.js",
+      "PackagePath": "staticwebassets\\lib\\ckeditor\\plugins\\link\\dialogs\\anchor.js"
+    },
+    {
+      "Id": "D:\\SanPhamChauPhu\\SanPhamChauPhu\\wwwroot\\lib\\ckeditor\\plugins\\link\\dialogs\\link.js",
+      "PackagePath": "staticwebassets\\lib\\ckeditor\\plugins\\link\\dialogs\\link.js"
+    },
+    {
+      "Id": "D:\\SanPhamChauPhu\\SanPhamChauPhu\\wwwroot\\lib\\ckeditor\\plugins\\link\\images\\anchor.png",
+      "PackagePath": "staticwebassets\\lib\\ckeditor\\plugins\\link\\images\\anchor.png"
+    },
+    {
+      "Id": "D:\\SanPhamChauPhu\\SanPhamChauPhu\\wwwroot\\lib\\ckeditor\\plugins\\link\\images\\hidpi\\anchor.png",
+      "PackagePath": "staticwebassets\\lib\\ckeditor\\plugins\\link\\images\\hidpi\\anchor.png"
+    },
+    {
+      "Id": "D:\\SanPhamChauPhu\\SanPhamChauPhu\\wwwroot\\lib\\ckeditor\\plugins\\liststyle\\dialogs\\liststyle.js",
+      "PackagePath": "staticwebassets\\lib\\ckeditor\\plugins\\liststyle\\dialogs\\liststyle.js"
+    },
+    {
+      "Id": "D:\\SanPhamChauPhu\\SanPhamChauPhu\\wwwroot\\lib\\ckeditor\\plugins\\magicline\\images\\hidpi\\icon-rtl.png",
+      "PackagePath": "staticwebassets\\lib\\ckeditor\\plugins\\magicline\\images\\hidpi\\icon-rtl.png"
+    },
+    {
+      "Id": "D:\\SanPhamChauPhu\\SanPhamChauPhu\\wwwroot\\lib\\ckeditor\\plugins\\magicline\\images\\hidpi\\icon.png",
+      "PackagePath": "staticwebassets\\lib\\ckeditor\\plugins\\magicline\\images\\hidpi\\icon.png"
+    },
+    {
+      "Id": "D:\\SanPhamChauPhu\\SanPhamChauPhu\\wwwroot\\lib\\ckeditor\\plugins\\magicline\\images\\icon-rtl.png",
+      "PackagePath": "staticwebassets\\lib\\ckeditor\\plugins\\magicline\\images\\icon-rtl.png"
+    },
+    {
+      "Id": "D:\\SanPhamChauPhu\\SanPhamChauPhu\\wwwroot\\lib\\ckeditor\\plugins\\magicline\\images\\icon.png",
+      "PackagePath": "staticwebassets\\lib\\ckeditor\\plugins\\magicline\\images\\icon.png"
+    },
+    {
+      "Id": "D:\\SanPhamChauPhu\\SanPhamChauPhu\\wwwroot\\lib\\ckeditor\\plugins\\pagebreak\\images\\pagebreak.gif",
+      "PackagePath": "staticwebassets\\lib\\ckeditor\\plugins\\pagebreak\\images\\pagebreak.gif"
+    },
+    {
+      "Id": "D:\\SanPhamChauPhu\\SanPhamChauPhu\\wwwroot\\lib\\ckeditor\\plugins\\pastefromgdocs\\filter\\default.js",
+      "PackagePath": "staticwebassets\\lib\\ckeditor\\plugins\\pastefromgdocs\\filter\\default.js"
+    },
+    {
+      "Id": "D:\\SanPhamChauPhu\\SanPhamChauPhu\\wwwroot\\lib\\ckeditor\\plugins\\pastefromword\\filter\\default.js",
+      "PackagePath": "staticwebassets\\lib\\ckeditor\\plugins\\pastefromword\\filter\\default.js"
+    },
+    {
+      "Id": "D:\\SanPhamChauPhu\\SanPhamChauPhu\\wwwroot\\lib\\ckeditor\\plugins\\pastetools\\filter\\common.js",
+      "PackagePath": "staticwebassets\\lib\\ckeditor\\plugins\\pastetools\\filter\\common.js"
+    },
+    {
+      "Id": "D:\\SanPhamChauPhu\\SanPhamChauPhu\\wwwroot\\lib\\ckeditor\\plugins\\pastetools\\filter\\image.js",
+      "PackagePath": "staticwebassets\\lib\\ckeditor\\plugins\\pastetools\\filter\\image.js"
+    },
+    {
+      "Id": "D:\\SanPhamChauPhu\\SanPhamChauPhu\\wwwroot\\lib\\ckeditor\\plugins\\preview\\images\\pagebreak.gif",
+      "PackagePath": "staticwebassets\\lib\\ckeditor\\plugins\\preview\\images\\pagebreak.gif"
+    },
+    {
+      "Id": "D:\\SanPhamChauPhu\\SanPhamChauPhu\\wwwroot\\lib\\ckeditor\\plugins\\preview\\preview.html",
+      "PackagePath": "staticwebassets\\lib\\ckeditor\\plugins\\preview\\preview.html"
+    },
+    {
+      "Id": "D:\\SanPhamChauPhu\\SanPhamChauPhu\\wwwroot\\lib\\ckeditor\\plugins\\preview\\styles\\screen.css",
+      "PackagePath": "staticwebassets\\lib\\ckeditor\\plugins\\preview\\styles\\screen.css"
+    },
+    {
+      "Id": "D:\\SanPhamChauPhu\\SanPhamChauPhu\\wwwroot\\lib\\ckeditor\\plugins\\scayt\\CHANGELOG.md",
+      "PackagePath": "staticwebassets\\lib\\ckeditor\\plugins\\scayt\\CHANGELOG.md"
+    },
+    {
+      "Id": "D:\\SanPhamChauPhu\\SanPhamChauPhu\\wwwroot\\lib\\ckeditor\\plugins\\scayt\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\ckeditor\\plugins\\scayt\\LICENSE.md"
+    },
+    {
+      "Id": "D:\\SanPhamChauPhu\\SanPhamChauPhu\\wwwroot\\lib\\ckeditor\\plugins\\scayt\\README.md",
+      "PackagePath": "staticwebassets\\lib\\ckeditor\\plugins\\scayt\\README.md"
+    },
+    {
+      "Id": "D:\\SanPhamChauPhu\\SanPhamChauPhu\\wwwroot\\lib\\ckeditor\\plugins\\scayt\\dialogs\\dialog.css",
+      "PackagePath": "staticwebassets\\lib\\ckeditor\\plugins\\scayt\\dialogs\\dialog.css"
+    },
+    {
+      "Id": "D:\\SanPhamChauPhu\\SanPhamChauPhu\\wwwroot\\lib\\ckeditor\\plugins\\scayt\\dialogs\\options.js",
+      "PackagePath": "staticwebassets\\lib\\ckeditor\\plugins\\scayt\\dialogs\\options.js"
+    },
+    {
+      "Id": "D:\\SanPhamChauPhu\\SanPhamChauPhu\\wwwroot\\lib\\ckeditor\\plugins\\scayt\\dialogs\\toolbar.css",
+      "PackagePath": "staticwebassets\\lib\\ckeditor\\plugins\\scayt\\dialogs\\toolbar.css"
+    },
+    {
+      "Id": "D:\\SanPhamChauPhu\\SanPhamChauPhu\\wwwroot\\lib\\ckeditor\\plugins\\scayt\\skins\\moono-lisa\\scayt.css",
+      "PackagePath": "staticwebassets\\lib\\ckeditor\\plugins\\scayt\\skins\\moono-lisa\\scayt.css"
+    },
+    {
+      "Id": "D:\\SanPhamChauPhu\\SanPhamChauPhu\\wwwroot\\lib\\ckeditor\\plugins\\showblocks\\images\\block_address.png",
+      "PackagePath": "staticwebassets\\lib\\ckeditor\\plugins\\showblocks\\images\\block_address.png"
+    },
+    {
+      "Id": "D:\\SanPhamChauPhu\\SanPhamChauPhu\\wwwroot\\lib\\ckeditor\\plugins\\showblocks\\images\\block_blockquote.png",
+      "PackagePath": "staticwebassets\\lib\\ckeditor\\plugins\\showblocks\\images\\block_blockquote.png"
+    },
+    {
+      "Id": "D:\\SanPhamChauPhu\\SanPhamChauPhu\\wwwroot\\lib\\ckeditor\\plugins\\showblocks\\images\\block_div.png",
+      "PackagePath": "staticwebassets\\lib\\ckeditor\\plugins\\showblocks\\images\\block_div.png"
+    },
+    {
+      "Id": "D:\\SanPhamChauPhu\\SanPhamChauPhu\\wwwroot\\lib\\ckeditor\\plugins\\showblocks\\images\\block_h1.png",
+      "PackagePath": "staticwebassets\\lib\\ckeditor\\plugins\\showblocks\\images\\block_h1.png"
+    },
+    {
+      "Id": "D:\\SanPhamChauPhu\\SanPhamChauPhu\\wwwroot\\lib\\ckeditor\\plugins\\showblocks\\images\\block_h2.png",
+      "PackagePath": "staticwebassets\\lib\\ckeditor\\plugins\\showblocks\\images\\block_h2.png"
+    },
+    {
+      "Id": "D:\\SanPhamChauPhu\\SanPhamChauPhu\\wwwroot\\lib\\ckeditor\\plugins\\showblocks\\images\\block_h3.png",
+      "PackagePath": "staticwebassets\\lib\\ckeditor\\plugins\\showblocks\\images\\block_h3.png"
+    },
+    {
+      "Id": "D:\\SanPhamChauPhu\\SanPhamChauPhu\\wwwroot\\lib\\ckeditor\\plugins\\showblocks\\images\\block_h4.png",
+      "PackagePath": "staticwebassets\\lib\\ckeditor\\plugins\\showblocks\\images\\block_h4.png"
+    },
+    {
+      "Id": "D:\\SanPhamChauPhu\\SanPhamChauPhu\\wwwroot\\lib\\ckeditor\\plugins\\showblocks\\images\\block_h5.png",
+      "PackagePath": "staticwebassets\\lib\\ckeditor\\plugins\\showblocks\\images\\block_h5.png"
+    },
+    {
+      "Id": "D:\\SanPhamChauPhu\\SanPhamChauPhu\\wwwroot\\lib\\ckeditor\\plugins\\showblocks\\images\\block_h6.png",
+      "PackagePath": "staticwebassets\\lib\\ckeditor\\plugins\\showblocks\\images\\block_h6.png"
+    },
+    {
+      "Id": "D:\\SanPhamChauPhu\\SanPhamChauPhu\\wwwroot\\lib\\ckeditor\\plugins\\showblocks\\images\\block_p.png",
+      "PackagePath": "staticwebassets\\lib\\ckeditor\\plugins\\showblocks\\images\\block_p.png"
+    },
+    {
+      "Id": "D:\\SanPhamChauPhu\\SanPhamChauPhu\\wwwroot\\lib\\ckeditor\\plugins\\showblocks\\images\\block_pre.png",
+      "PackagePath": "staticwebassets\\lib\\ckeditor\\plugins\\showblocks\\images\\block_pre.png"
+    },
+    {
+      "Id": "D:\\SanPhamChauPhu\\SanPhamChauPhu\\wwwroot\\lib\\ckeditor\\plugins\\smiley\\dialogs\\smiley.js",
+      "PackagePath": "staticwebassets\\lib\\ckeditor\\plugins\\smiley\\dialogs\\smiley.js"
+    },
+    {
+      "Id": "D:\\SanPhamChauPhu\\SanPhamChauPhu\\wwwroot\\lib\\ckeditor\\plugins\\smiley\\images\\angel_smile.gif",
+      "PackagePath": "staticwebassets\\lib\\ckeditor\\plugins\\smiley\\images\\angel_smile.gif"
+    },
+    {
+      "Id": "D:\\SanPhamChauPhu\\SanPhamChauPhu\\wwwroot\\lib\\ckeditor\\plugins\\smiley\\images\\angel_smile.png",
+      "PackagePath": "staticwebassets\\lib\\ckeditor\\plugins\\smiley\\images\\angel_smile.png"
+    },
+    {
+      "Id": "D:\\SanPhamChauPhu\\SanPhamChauPhu\\wwwroot\\lib\\ckeditor\\plugins\\smiley\\images\\angry_smile.gif",
+      "PackagePath": "staticwebassets\\lib\\ckeditor\\plugins\\smiley\\images\\angry_smile.gif"
+    },
+    {
+      "Id": "D:\\SanPhamChauPhu\\SanPhamChauPhu\\wwwroot\\lib\\ckeditor\\plugins\\smiley\\images\\angry_smile.png",
+      "PackagePath": "staticwebassets\\lib\\ckeditor\\plugins\\smiley\\images\\angry_smile.png"
+    },
+    {
+      "Id": "D:\\SanPhamChauPhu\\SanPhamChauPhu\\wwwroot\\lib\\ckeditor\\plugins\\smiley\\images\\broken_heart.gif",
+      "PackagePath": "staticwebassets\\lib\\ckeditor\\plugins\\smiley\\images\\broken_heart.gif"
+    },
+    {
+      "Id": "D:\\SanPhamChauPhu\\SanPhamChauPhu\\wwwroot\\lib\\ckeditor\\plugins\\smiley\\images\\broken_heart.png",
+      "PackagePath": "staticwebassets\\lib\\ckeditor\\plugins\\smiley\\images\\broken_heart.png"
+    },
+    {
+      "Id": "D:\\SanPhamChauPhu\\SanPhamChauPhu\\wwwroot\\lib\\ckeditor\\plugins\\smiley\\images\\confused_smile.gif",
+      "PackagePath": "staticwebassets\\lib\\ckeditor\\plugins\\smiley\\images\\confused_smile.gif"
+    },
+    {
+      "Id": "D:\\SanPhamChauPhu\\SanPhamChauPhu\\wwwroot\\lib\\ckeditor\\plugins\\smiley\\images\\confused_smile.png",
+      "PackagePath": "staticwebassets\\lib\\ckeditor\\plugins\\smiley\\images\\confused_smile.png"
+    },
+    {
+      "Id": "D:\\SanPhamChauPhu\\SanPhamChauPhu\\wwwroot\\lib\\ckeditor\\plugins\\smiley\\images\\cry_smile.gif",
+      "PackagePath": "staticwebassets\\lib\\ckeditor\\plugins\\smiley\\images\\cry_smile.gif"
+    },
+    {
+      "Id": "D:\\SanPhamChauPhu\\SanPhamChauPhu\\wwwroot\\lib\\ckeditor\\plugins\\smiley\\images\\cry_smile.png",
+      "PackagePath": "staticwebassets\\lib\\ckeditor\\plugins\\smiley\\images\\cry_smile.png"
+    },
+    {
+      "Id": "D:\\SanPhamChauPhu\\SanPhamChauPhu\\wwwroot\\lib\\ckeditor\\plugins\\smiley\\images\\devil_smile.gif",
+      "PackagePath": "staticwebassets\\lib\\ckeditor\\plugins\\smiley\\images\\devil_smile.gif"
+    },
+    {
+      "Id": "D:\\SanPhamChauPhu\\SanPhamChauPhu\\wwwroot\\lib\\ckeditor\\plugins\\smiley\\images\\devil_smile.png",
+      "PackagePath": "staticwebassets\\lib\\ckeditor\\plugins\\smiley\\images\\devil_smile.png"
+    },
+    {
+      "Id": "D:\\SanPhamChauPhu\\SanPhamChauPhu\\wwwroot\\lib\\ckeditor\\plugins\\smiley\\images\\embaressed_smile.gif",
+      "PackagePath": "staticwebassets\\lib\\ckeditor\\plugins\\smiley\\images\\embaressed_smile.gif"
+    },
+    {
+      "Id": "D:\\SanPhamChauPhu\\SanPhamChauPhu\\wwwroot\\lib\\ckeditor\\plugins\\smiley\\images\\embarrassed_smile.gif",
+      "PackagePath": "staticwebassets\\lib\\ckeditor\\plugins\\smiley\\images\\embarrassed_smile.gif"
+    },
+    {
+      "Id": "D:\\SanPhamChauPhu\\SanPhamChauPhu\\wwwroot\\lib\\ckeditor\\plugins\\smiley\\images\\embarrassed_smile.png",
+      "PackagePath": "staticwebassets\\lib\\ckeditor\\plugins\\smiley\\images\\embarrassed_smile.png"
+    },
+    {
+      "Id": "D:\\SanPhamChauPhu\\SanPhamChauPhu\\wwwroot\\lib\\ckeditor\\plugins\\smiley\\images\\envelope.gif",
+      "PackagePath": "staticwebassets\\lib\\ckeditor\\plugins\\smiley\\images\\envelope.gif"
+    },
+    {
+      "Id": "D:\\SanPhamChauPhu\\SanPhamChauPhu\\wwwroot\\lib\\ckeditor\\plugins\\smiley\\images\\envelope.png",
+      "PackagePath": "staticwebassets\\lib\\ckeditor\\plugins\\smiley\\images\\envelope.png"
+    },
+    {
+      "Id": "D:\\SanPhamChauPhu\\SanPhamChauPhu\\wwwroot\\lib\\ckeditor\\plugins\\smiley\\images\\heart.gif",
+      "PackagePath": "staticwebassets\\lib\\ckeditor\\plugins\\smiley\\images\\heart.gif"
+    },
+    {
+      "Id": "D:\\SanPhamChauPhu\\SanPhamChauPhu\\wwwroot\\lib\\ckeditor\\plugins\\smiley\\images\\heart.png",
+      "PackagePath": "staticwebassets\\lib\\ckeditor\\plugins\\smiley\\images\\heart.png"
+    },
+    {
+      "Id": "D:\\SanPhamChauPhu\\SanPhamChauPhu\\wwwroot\\lib\\ckeditor\\plugins\\smiley\\images\\kiss.gif",
+      "PackagePath": "staticwebassets\\lib\\ckeditor\\plugins\\smiley\\images\\kiss.gif"
+    },
+    {
+      "Id": "D:\\SanPhamChauPhu\\SanPhamChauPhu\\wwwroot\\lib\\ckeditor\\plugins\\smiley\\images\\kiss.png",
+      "PackagePath": "staticwebassets\\lib\\ckeditor\\plugins\\smiley\\images\\kiss.png"
+    },
+    {
+      "Id": "D:\\SanPhamChauPhu\\SanPhamChauPhu\\wwwroot\\lib\\ckeditor\\plugins\\smiley\\images\\lightbulb.gif",
+      "PackagePath": "staticwebassets\\lib\\ckeditor\\plugins\\smiley\\images\\lightbulb.gif"
+    },
+    {
+      "Id": "D:\\SanPhamChauPhu\\SanPhamChauPhu\\wwwroot\\lib\\ckeditor\\plugins\\smiley\\images\\lightbulb.png",
+      "PackagePath": "staticwebassets\\lib\\ckeditor\\plugins\\smiley\\images\\lightbulb.png"
+    },
+    {
+      "Id": "D:\\SanPhamChauPhu\\SanPhamChauPhu\\wwwroot\\lib\\ckeditor\\plugins\\smiley\\images\\omg_smile.gif",
+      "PackagePath": "staticwebassets\\lib\\ckeditor\\plugins\\smiley\\images\\omg_smile.gif"
+    },
+    {
+      "Id": "D:\\SanPhamChauPhu\\SanPhamChauPhu\\wwwroot\\lib\\ckeditor\\plugins\\smiley\\images\\omg_smile.png",
+      "PackagePath": "staticwebassets\\lib\\ckeditor\\plugins\\smiley\\images\\omg_smile.png"
+    },
+    {
+      "Id": "D:\\SanPhamChauPhu\\SanPhamChauPhu\\wwwroot\\lib\\ckeditor\\plugins\\smiley\\images\\regular_smile.gif",
+      "PackagePath": "staticwebassets\\lib\\ckeditor\\plugins\\smiley\\images\\regular_smile.gif"
+    },
+    {
+      "Id": "D:\\SanPhamChauPhu\\SanPhamChauPhu\\wwwroot\\lib\\ckeditor\\plugins\\smiley\\images\\regular_smile.png",
+      "PackagePath": "staticwebassets\\lib\\ckeditor\\plugins\\smiley\\images\\regular_smile.png"
+    },
+    {
+      "Id": "D:\\SanPhamChauPhu\\SanPhamChauPhu\\wwwroot\\lib\\ckeditor\\plugins\\smiley\\images\\sad_smile.gif",
+      "PackagePath": "staticwebassets\\lib\\ckeditor\\plugins\\smiley\\images\\sad_smile.gif"
+    },
+    {
+      "Id": "D:\\SanPhamChauPhu\\SanPhamChauPhu\\wwwroot\\lib\\ckeditor\\plugins\\smiley\\images\\sad_smile.png",
+      "PackagePath": "staticwebassets\\lib\\ckeditor\\plugins\\smiley\\images\\sad_smile.png"
+    },
+    {
+      "Id": "D:\\SanPhamChauPhu\\SanPhamChauPhu\\wwwroot\\lib\\ckeditor\\plugins\\smiley\\images\\shades_smile.gif",
+      "PackagePath": "staticwebassets\\lib\\ckeditor\\plugins\\smiley\\images\\shades_smile.gif"
+    },
+    {
+      "Id": "D:\\SanPhamChauPhu\\SanPhamChauPhu\\wwwroot\\lib\\ckeditor\\plugins\\smiley\\images\\shades_smile.png",
+      "PackagePath": "staticwebassets\\lib\\ckeditor\\plugins\\smiley\\images\\shades_smile.png"
+    },
+    {
+      "Id": "D:\\SanPhamChauPhu\\SanPhamChauPhu\\wwwroot\\lib\\ckeditor\\plugins\\smiley\\images\\teeth_smile.gif",
+      "PackagePath": "staticwebassets\\lib\\ckeditor\\plugins\\smiley\\images\\teeth_smile.gif"
+    },
+    {
+      "Id": "D:\\SanPhamChauPhu\\SanPhamChauPhu\\wwwroot\\lib\\ckeditor\\plugins\\smiley\\images\\teeth_smile.png",
+      "PackagePath": "staticwebassets\\lib\\ckeditor\\plugins\\smiley\\images\\teeth_smile.png"
+    },
+    {
+      "Id": "D:\\SanPhamChauPhu\\SanPhamChauPhu\\wwwroot\\lib\\ckeditor\\plugins\\smiley\\images\\thumbs_down.gif",
+      "PackagePath": "staticwebassets\\lib\\ckeditor\\plugins\\smiley\\images\\thumbs_down.gif"
+    },
+    {
+      "Id": "D:\\SanPhamChauPhu\\SanPhamChauPhu\\wwwroot\\lib\\ckeditor\\plugins\\smiley\\images\\thumbs_down.png",
+      "PackagePath": "staticwebassets\\lib\\ckeditor\\plugins\\smiley\\images\\thumbs_down.png"
+    },
+    {
+      "Id": "D:\\SanPhamChauPhu\\SanPhamChauPhu\\wwwroot\\lib\\ckeditor\\plugins\\smiley\\images\\thumbs_up.gif",
+      "PackagePath": "staticwebassets\\lib\\ckeditor\\plugins\\smiley\\images\\thumbs_up.gif"
+    },
+    {
+      "Id": "D:\\SanPhamChauPhu\\SanPhamChauPhu\\wwwroot\\lib\\ckeditor\\plugins\\smiley\\images\\thumbs_up.png",
+      "PackagePath": "staticwebassets\\lib\\ckeditor\\plugins\\smiley\\images\\thumbs_up.png"
+    },
+    {
+      "Id": "D:\\SanPhamChauPhu\\SanPhamChauPhu\\wwwroot\\lib\\ckeditor\\plugins\\smiley\\images\\tongue_smile.gif",
+      "PackagePath": "staticwebassets\\lib\\ckeditor\\plugins\\smiley\\images\\tongue_smile.gif"
+    },
+    {
+      "Id": "D:\\SanPhamChauPhu\\SanPhamChauPhu\\wwwroot\\lib\\ckeditor\\plugins\\smiley\\images\\tongue_smile.png",
+      "PackagePath": "staticwebassets\\lib\\ckeditor\\plugins\\smiley\\images\\tongue_smile.png"
+    },
+    {
+      "Id": "D:\\SanPhamChauPhu\\SanPhamChauPhu\\wwwroot\\lib\\ckeditor\\plugins\\smiley\\images\\tounge_smile.gif",
+      "PackagePath": "staticwebassets\\lib\\ckeditor\\plugins\\smiley\\images\\tounge_smile.gif"
+    },
+    {
+      "Id": "D:\\SanPhamChauPhu\\SanPhamChauPhu\\wwwroot\\lib\\ckeditor\\plugins\\smiley\\images\\whatchutalkingabout_smile.gif",
+      "PackagePath": "staticwebassets\\lib\\ckeditor\\plugins\\smiley\\images\\whatchutalkingabout_smile.gif"
+    },
+    {
+      "Id": "D:\\SanPhamChauPhu\\SanPhamChauPhu\\wwwroot\\lib\\ckeditor\\plugins\\smiley\\images\\whatchutalkingabout_smile.png",
+      "PackagePath": "staticwebassets\\lib\\ckeditor\\plugins\\smiley\\images\\whatchutalkingabout_smile.png"
+    },
+    {
+      "Id": "D:\\SanPhamChauPhu\\SanPhamChauPhu\\wwwroot\\lib\\ckeditor\\plugins\\smiley\\images\\wink_smile.gif",
+      "PackagePath": "staticwebassets\\lib\\ckeditor\\plugins\\smiley\\images\\wink_smile.gif"
+    },
+    {
+      "Id": "D:\\SanPhamChauPhu\\SanPhamChauPhu\\wwwroot\\lib\\ckeditor\\plugins\\smiley\\images\\wink_smile.png",
+      "PackagePath": "staticwebassets\\lib\\ckeditor\\plugins\\smiley\\images\\wink_smile.png"
+    },
+    {
+      "Id": "D:\\SanPhamChauPhu\\SanPhamChauPhu\\wwwroot\\lib\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\_translationstatus.txt",
+      "PackagePath": "staticwebassets\\lib\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\_translationstatus.txt"
+    },
+    {
+      "Id": "D:\\SanPhamChauPhu\\SanPhamChauPhu\\wwwroot\\lib\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\af.js",
+      "PackagePath": "staticwebassets\\lib\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\af.js"
+    },
+    {
+      "Id": "D:\\SanPhamChauPhu\\SanPhamChauPhu\\wwwroot\\lib\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\ar.js",
+      "PackagePath": "staticwebassets\\lib\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\ar.js"
+    },
+    {
+      "Id": "D:\\SanPhamChauPhu\\SanPhamChauPhu\\wwwroot\\lib\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\az.js",
+      "PackagePath": "staticwebassets\\lib\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\az.js"
+    },
+    {
+      "Id": "D:\\SanPhamChauPhu\\SanPhamChauPhu\\wwwroot\\lib\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\bg.js",
+      "PackagePath": "staticwebassets\\lib\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\bg.js"
+    },
+    {
+      "Id": "D:\\SanPhamChauPhu\\SanPhamChauPhu\\wwwroot\\lib\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\ca.js",
+      "PackagePath": "staticwebassets\\lib\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\ca.js"
+    },
+    {
+      "Id": "D:\\SanPhamChauPhu\\SanPhamChauPhu\\wwwroot\\lib\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\cs.js",
+      "PackagePath": "staticwebassets\\lib\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\cs.js"
+    },
+    {
+      "Id": "D:\\SanPhamChauPhu\\SanPhamChauPhu\\wwwroot\\lib\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\cy.js",
+      "PackagePath": "staticwebassets\\lib\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\cy.js"
+    },
+    {
+      "Id": "D:\\SanPhamChauPhu\\SanPhamChauPhu\\wwwroot\\lib\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\da.js",
+      "PackagePath": "staticwebassets\\lib\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\da.js"
+    },
+    {
+      "Id": "D:\\SanPhamChauPhu\\SanPhamChauPhu\\wwwroot\\lib\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\de-ch.js",
+      "PackagePath": "staticwebassets\\lib\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\de-ch.js"
+    },
+    {
+      "Id": "D:\\SanPhamChauPhu\\SanPhamChauPhu\\wwwroot\\lib\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\de.js",
+      "PackagePath": "staticwebassets\\lib\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\de.js"
+    },
+    {
+      "Id": "D:\\SanPhamChauPhu\\SanPhamChauPhu\\wwwroot\\lib\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\el.js",
+      "PackagePath": "staticwebassets\\lib\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\el.js"
+    },
+    {
+      "Id": "D:\\SanPhamChauPhu\\SanPhamChauPhu\\wwwroot\\lib\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\en-au.js",
+      "PackagePath": "staticwebassets\\lib\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\en-au.js"
+    },
+    {
+      "Id": "D:\\SanPhamChauPhu\\SanPhamChauPhu\\wwwroot\\lib\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\en-ca.js",
+      "PackagePath": "staticwebassets\\lib\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\en-ca.js"
+    },
+    {
+      "Id": "D:\\SanPhamChauPhu\\SanPhamChauPhu\\wwwroot\\lib\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\en-gb.js",
+      "PackagePath": "staticwebassets\\lib\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\en-gb.js"
+    },
+    {
+      "Id": "D:\\SanPhamChauPhu\\SanPhamChauPhu\\wwwroot\\lib\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\en.js",
+      "PackagePath": "staticwebassets\\lib\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\en.js"
+    },
+    {
+      "Id": "D:\\SanPhamChauPhu\\SanPhamChauPhu\\wwwroot\\lib\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\eo.js",
+      "PackagePath": "staticwebassets\\lib\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\eo.js"
+    },
+    {
+      "Id": "D:\\SanPhamChauPhu\\SanPhamChauPhu\\wwwroot\\lib\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\es-mx.js",
+      "PackagePath": "staticwebassets\\lib\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\es-mx.js"
+    },
+    {
+      "Id": "D:\\SanPhamChauPhu\\SanPhamChauPhu\\wwwroot\\lib\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\es.js",
+      "PackagePath": "staticwebassets\\lib\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\es.js"
+    },
+    {
+      "Id": "D:\\SanPhamChauPhu\\SanPhamChauPhu\\wwwroot\\lib\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\et.js",
+      "PackagePath": "staticwebassets\\lib\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\et.js"
+    },
+    {
+      "Id": "D:\\SanPhamChauPhu\\SanPhamChauPhu\\wwwroot\\lib\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\eu.js",
+      "PackagePath": "staticwebassets\\lib\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\eu.js"
+    },
+    {
+      "Id": "D:\\SanPhamChauPhu\\SanPhamChauPhu\\wwwroot\\lib\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\fa.js",
+      "PackagePath": "staticwebassets\\lib\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\fa.js"
+    },
+    {
+      "Id": "D:\\SanPhamChauPhu\\SanPhamChauPhu\\wwwroot\\lib\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\fi.js",
+      "PackagePath": "staticwebassets\\lib\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\fi.js"
+    },
+    {
+      "Id": "D:\\SanPhamChauPhu\\SanPhamChauPhu\\wwwroot\\lib\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\fr-ca.js",
+      "PackagePath": "staticwebassets\\lib\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\fr-ca.js"
+    },
+    {
+      "Id": "D:\\SanPhamChauPhu\\SanPhamChauPhu\\wwwroot\\lib\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\fr.js",
+      "PackagePath": "staticwebassets\\lib\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\fr.js"
+    },
+    {
+      "Id": "D:\\SanPhamChauPhu\\SanPhamChauPhu\\wwwroot\\lib\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\gl.js",
+      "PackagePath": "staticwebassets\\lib\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\gl.js"
+    },
+    {
+      "Id": "D:\\SanPhamChauPhu\\SanPhamChauPhu\\wwwroot\\lib\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\he.js",
+      "PackagePath": "staticwebassets\\lib\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\he.js"
+    },
+    {
+      "Id": "D:\\SanPhamChauPhu\\SanPhamChauPhu\\wwwroot\\lib\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\hr.js",
+      "PackagePath": "staticwebassets\\lib\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\hr.js"
+    },
+    {
+      "Id": "D:\\SanPhamChauPhu\\SanPhamChauPhu\\wwwroot\\lib\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\hu.js",
+      "PackagePath": "staticwebassets\\lib\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\hu.js"
+    },
+    {
+      "Id": "D:\\SanPhamChauPhu\\SanPhamChauPhu\\wwwroot\\lib\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\id.js",
+      "PackagePath": "staticwebassets\\lib\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\id.js"
+    },
+    {
+      "Id": "D:\\SanPhamChauPhu\\SanPhamChauPhu\\wwwroot\\lib\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\it.js",
+      "PackagePath": "staticwebassets\\lib\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\it.js"
+    },
+    {
+      "Id": "D:\\SanPhamChauPhu\\SanPhamChauPhu\\wwwroot\\lib\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\ja.js",
+      "PackagePath": "staticwebassets\\lib\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\ja.js"
+    },
+    {
+      "Id": "D:\\SanPhamChauPhu\\SanPhamChauPhu\\wwwroot\\lib\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\km.js",
+      "PackagePath": "staticwebassets\\lib\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\km.js"
+    },
+    {
+      "Id": "D:\\SanPhamChauPhu\\SanPhamChauPhu\\wwwroot\\lib\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\ko.js",
+      "PackagePath": "staticwebassets\\lib\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\ko.js"
+    },
+    {
+      "Id": "D:\\SanPhamChauPhu\\SanPhamChauPhu\\wwwroot\\lib\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\ku.js",
+      "PackagePath": "staticwebassets\\lib\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\ku.js"
+    },
+    {
+      "Id": "D:\\SanPhamChauPhu\\SanPhamChauPhu\\wwwroot\\lib\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\lt.js",
+      "PackagePath": "staticwebassets\\lib\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\lt.js"
+    },
+    {
+      "Id": "D:\\SanPhamChauPhu\\SanPhamChauPhu\\wwwroot\\lib\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\lv.js",
+      "PackagePath": "staticwebassets\\lib\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\lv.js"
+    },
+    {
+      "Id": "D:\\SanPhamChauPhu\\SanPhamChauPhu\\wwwroot\\lib\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\nb.js",
+      "PackagePath": "staticwebassets\\lib\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\nb.js"
+    },
+    {
+      "Id": "D:\\SanPhamChauPhu\\SanPhamChauPhu\\wwwroot\\lib\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\nl.js",
+      "PackagePath": "staticwebassets\\lib\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\nl.js"
+    },
+    {
+      "Id": "D:\\SanPhamChauPhu\\SanPhamChauPhu\\wwwroot\\lib\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\no.js",
+      "PackagePath": "staticwebassets\\lib\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\no.js"
+    },
+    {
+      "Id": "D:\\SanPhamChauPhu\\SanPhamChauPhu\\wwwroot\\lib\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\oc.js",
+      "PackagePath": "staticwebassets\\lib\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\oc.js"
+    },
+    {
+      "Id": "D:\\SanPhamChauPhu\\SanPhamChauPhu\\wwwroot\\lib\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\pl.js",
+      "PackagePath": "staticwebassets\\lib\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\pl.js"
+    },
+    {
+      "Id": "D:\\SanPhamChauPhu\\SanPhamChauPhu\\wwwroot\\lib\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\pt-br.js",
+      "PackagePath": "staticwebassets\\lib\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\pt-br.js"
+    },
+    {
+      "Id": "D:\\SanPhamChauPhu\\SanPhamChauPhu\\wwwroot\\lib\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\pt.js",
+      "PackagePath": "staticwebassets\\lib\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\pt.js"
+    },
+    {
+      "Id": "D:\\SanPhamChauPhu\\SanPhamChauPhu\\wwwroot\\lib\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\ro.js",
+      "PackagePath": "staticwebassets\\lib\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\ro.js"
+    },
+    {
+      "Id": "D:\\SanPhamChauPhu\\SanPhamChauPhu\\wwwroot\\lib\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\ru.js",
+      "PackagePath": "staticwebassets\\lib\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\ru.js"
+    },
+    {
+      "Id": "D:\\SanPhamChauPhu\\SanPhamChauPhu\\wwwroot\\lib\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\si.js",
+      "PackagePath": "staticwebassets\\lib\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\si.js"
+    },
+    {
+      "Id": "D:\\SanPhamChauPhu\\SanPhamChauPhu\\wwwroot\\lib\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\sk.js",
+      "PackagePath": "staticwebassets\\lib\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\sk.js"
+    },
+    {
+      "Id": "D:\\SanPhamChauPhu\\SanPhamChauPhu\\wwwroot\\lib\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\sl.js",
+      "PackagePath": "staticwebassets\\lib\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\sl.js"
+    },
+    {
+      "Id": "D:\\SanPhamChauPhu\\SanPhamChauPhu\\wwwroot\\lib\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\sq.js",
+      "PackagePath": "staticwebassets\\lib\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\sq.js"
+    },
+    {
+      "Id": "D:\\SanPhamChauPhu\\SanPhamChauPhu\\wwwroot\\lib\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\sr-latn.js",
+      "PackagePath": "staticwebassets\\lib\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\sr-latn.js"
+    },
+    {
+      "Id": "D:\\SanPhamChauPhu\\SanPhamChauPhu\\wwwroot\\lib\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\sr.js",
+      "PackagePath": "staticwebassets\\lib\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\sr.js"
+    },
+    {
+      "Id": "D:\\SanPhamChauPhu\\SanPhamChauPhu\\wwwroot\\lib\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\sv.js",
+      "PackagePath": "staticwebassets\\lib\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\sv.js"
+    },
+    {
+      "Id": "D:\\SanPhamChauPhu\\SanPhamChauPhu\\wwwroot\\lib\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\th.js",
+      "PackagePath": "staticwebassets\\lib\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\th.js"
+    },
+    {
+      "Id": "D:\\SanPhamChauPhu\\SanPhamChauPhu\\wwwroot\\lib\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\tr.js",
+      "PackagePath": "staticwebassets\\lib\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\tr.js"
+    },
+    {
+      "Id": "D:\\SanPhamChauPhu\\SanPhamChauPhu\\wwwroot\\lib\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\tt.js",
+      "PackagePath": "staticwebassets\\lib\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\tt.js"
+    },
+    {
+      "Id": "D:\\SanPhamChauPhu\\SanPhamChauPhu\\wwwroot\\lib\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\ug.js",
+      "PackagePath": "staticwebassets\\lib\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\ug.js"
+    },
+    {
+      "Id": "D:\\SanPhamChauPhu\\SanPhamChauPhu\\wwwroot\\lib\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\uk.js",
+      "PackagePath": "staticwebassets\\lib\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\uk.js"
+    },
+    {
+      "Id": "D:\\SanPhamChauPhu\\SanPhamChauPhu\\wwwroot\\lib\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\vi.js",
+      "PackagePath": "staticwebassets\\lib\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\vi.js"
+    },
+    {
+      "Id": "D:\\SanPhamChauPhu\\SanPhamChauPhu\\wwwroot\\lib\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\zh-cn.js",
+      "PackagePath": "staticwebassets\\lib\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\zh-cn.js"
+    },
+    {
+      "Id": "D:\\SanPhamChauPhu\\SanPhamChauPhu\\wwwroot\\lib\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\zh.js",
+      "PackagePath": "staticwebassets\\lib\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\zh.js"
+    },
+    {
+      "Id": "D:\\SanPhamChauPhu\\SanPhamChauPhu\\wwwroot\\lib\\ckeditor\\plugins\\specialchar\\dialogs\\specialchar.js",
+      "PackagePath": "staticwebassets\\lib\\ckeditor\\plugins\\specialchar\\dialogs\\specialchar.js"
+    },
+    {
+      "Id": "D:\\SanPhamChauPhu\\SanPhamChauPhu\\wwwroot\\lib\\ckeditor\\plugins\\table\\dialogs\\table.js",
+      "PackagePath": "staticwebassets\\lib\\ckeditor\\plugins\\table\\dialogs\\table.js"
+    },
+    {
+      "Id": "D:\\SanPhamChauPhu\\SanPhamChauPhu\\wwwroot\\lib\\ckeditor\\plugins\\tableselection\\styles\\tableselection.css",
+      "PackagePath": "staticwebassets\\lib\\ckeditor\\plugins\\tableselection\\styles\\tableselection.css"
+    },
+    {
+      "Id": "D:\\SanPhamChauPhu\\SanPhamChauPhu\\wwwroot\\lib\\ckeditor\\plugins\\tabletools\\dialogs\\tableCell.js",
+      "PackagePath": "staticwebassets\\lib\\ckeditor\\plugins\\tabletools\\dialogs\\tableCell.js"
+    },
+    {
+      "Id": "D:\\SanPhamChauPhu\\SanPhamChauPhu\\wwwroot\\lib\\ckeditor\\plugins\\templates\\dialogs\\templates.css",
+      "PackagePath": "staticwebassets\\lib\\ckeditor\\plugins\\templates\\dialogs\\templates.css"
+    },
+    {
+      "Id": "D:\\SanPhamChauPhu\\SanPhamChauPhu\\wwwroot\\lib\\ckeditor\\plugins\\templates\\dialogs\\templates.js",
+      "PackagePath": "staticwebassets\\lib\\ckeditor\\plugins\\templates\\dialogs\\templates.js"
+    },
+    {
+      "Id": "D:\\SanPhamChauPhu\\SanPhamChauPhu\\wwwroot\\lib\\ckeditor\\plugins\\templates\\templates\\default.js",
+      "PackagePath": "staticwebassets\\lib\\ckeditor\\plugins\\templates\\templates\\default.js"
+    },
+    {
+      "Id": "D:\\SanPhamChauPhu\\SanPhamChauPhu\\wwwroot\\lib\\ckeditor\\plugins\\templates\\templates\\images\\template1.gif",
+      "PackagePath": "staticwebassets\\lib\\ckeditor\\plugins\\templates\\templates\\images\\template1.gif"
+    },
+    {
+      "Id": "D:\\SanPhamChauPhu\\SanPhamChauPhu\\wwwroot\\lib\\ckeditor\\plugins\\templates\\templates\\images\\template2.gif",
+      "PackagePath": "staticwebassets\\lib\\ckeditor\\plugins\\templates\\templates\\images\\template2.gif"
+    },
+    {
+      "Id": "D:\\SanPhamChauPhu\\SanPhamChauPhu\\wwwroot\\lib\\ckeditor\\plugins\\templates\\templates\\images\\template3.gif",
+      "PackagePath": "staticwebassets\\lib\\ckeditor\\plugins\\templates\\templates\\images\\template3.gif"
+    },
+    {
+      "Id": "D:\\SanPhamChauPhu\\SanPhamChauPhu\\wwwroot\\lib\\ckeditor\\plugins\\widget\\images\\handle.png",
+      "PackagePath": "staticwebassets\\lib\\ckeditor\\plugins\\widget\\images\\handle.png"
+    },
+    {
+      "Id": "D:\\SanPhamChauPhu\\SanPhamChauPhu\\wwwroot\\lib\\ckeditor\\plugins\\wsc\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\ckeditor\\plugins\\wsc\\LICENSE.md"
+    },
+    {
+      "Id": "D:\\SanPhamChauPhu\\SanPhamChauPhu\\wwwroot\\lib\\ckeditor\\plugins\\wsc\\README.md",
+      "PackagePath": "staticwebassets\\lib\\ckeditor\\plugins\\wsc\\README.md"
+    },
+    {
+      "Id": "D:\\SanPhamChauPhu\\SanPhamChauPhu\\wwwroot\\lib\\ckeditor\\plugins\\wsc\\dialogs\\ciframe.html",
+      "PackagePath": "staticwebassets\\lib\\ckeditor\\plugins\\wsc\\dialogs\\ciframe.html"
+    },
+    {
+      "Id": "D:\\SanPhamChauPhu\\SanPhamChauPhu\\wwwroot\\lib\\ckeditor\\plugins\\wsc\\dialogs\\tmpFrameset.html",
+      "PackagePath": "staticwebassets\\lib\\ckeditor\\plugins\\wsc\\dialogs\\tmpFrameset.html"
+    },
+    {
+      "Id": "D:\\SanPhamChauPhu\\SanPhamChauPhu\\wwwroot\\lib\\ckeditor\\plugins\\wsc\\dialogs\\wsc.css",
+      "PackagePath": "staticwebassets\\lib\\ckeditor\\plugins\\wsc\\dialogs\\wsc.css"
+    },
+    {
+      "Id": "D:\\SanPhamChauPhu\\SanPhamChauPhu\\wwwroot\\lib\\ckeditor\\plugins\\wsc\\dialogs\\wsc.js",
+      "PackagePath": "staticwebassets\\lib\\ckeditor\\plugins\\wsc\\dialogs\\wsc.js"
+    },
+    {
+      "Id": "D:\\SanPhamChauPhu\\SanPhamChauPhu\\wwwroot\\lib\\ckeditor\\plugins\\wsc\\dialogs\\wsc_ie.js",
+      "PackagePath": "staticwebassets\\lib\\ckeditor\\plugins\\wsc\\dialogs\\wsc_ie.js"
+    },
+    {
+      "Id": "D:\\SanPhamChauPhu\\SanPhamChauPhu\\wwwroot\\lib\\ckeditor\\plugins\\wsc\\skins\\moono-lisa\\wsc.css",
+      "PackagePath": "staticwebassets\\lib\\ckeditor\\plugins\\wsc\\skins\\moono-lisa\\wsc.css"
+    },
+    {
+      "Id": "D:\\SanPhamChauPhu\\SanPhamChauPhu\\wwwroot\\lib\\ckeditor\\samples\\css\\samples.css",
+      "PackagePath": "staticwebassets\\lib\\ckeditor\\samples\\css\\samples.css"
+    },
+    {
+      "Id": "D:\\SanPhamChauPhu\\SanPhamChauPhu\\wwwroot\\lib\\ckeditor\\samples\\img\\github-top.png",
+      "PackagePath": "staticwebassets\\lib\\ckeditor\\samples\\img\\github-top.png"
+    },
+    {
+      "Id": "D:\\SanPhamChauPhu\\SanPhamChauPhu\\wwwroot\\lib\\ckeditor\\samples\\img\\header-bg.png",
+      "PackagePath": "staticwebassets\\lib\\ckeditor\\samples\\img\\header-bg.png"
+    },
+    {
+      "Id": "D:\\SanPhamChauPhu\\SanPhamChauPhu\\wwwroot\\lib\\ckeditor\\samples\\img\\header-separator.png",
+      "PackagePath": "staticwebassets\\lib\\ckeditor\\samples\\img\\header-separator.png"
+    },
+    {
+      "Id": "D:\\SanPhamChauPhu\\SanPhamChauPhu\\wwwroot\\lib\\ckeditor\\samples\\img\\logo.png",
+      "PackagePath": "staticwebassets\\lib\\ckeditor\\samples\\img\\logo.png"
+    },
+    {
+      "Id": "D:\\SanPhamChauPhu\\SanPhamChauPhu\\wwwroot\\lib\\ckeditor\\samples\\img\\logo.svg",
+      "PackagePath": "staticwebassets\\lib\\ckeditor\\samples\\img\\logo.svg"
+    },
+    {
+      "Id": "D:\\SanPhamChauPhu\\SanPhamChauPhu\\wwwroot\\lib\\ckeditor\\samples\\img\\navigation-tip.png",
+      "PackagePath": "staticwebassets\\lib\\ckeditor\\samples\\img\\navigation-tip.png"
+    },
+    {
+      "Id": "D:\\SanPhamChauPhu\\SanPhamChauPhu\\wwwroot\\lib\\ckeditor\\samples\\index.html",
+      "PackagePath": "staticwebassets\\lib\\ckeditor\\samples\\index.html"
+    },
+    {
+      "Id": "D:\\SanPhamChauPhu\\SanPhamChauPhu\\wwwroot\\lib\\ckeditor\\samples\\js\\sample.js",
+      "PackagePath": "staticwebassets\\lib\\ckeditor\\samples\\js\\sample.js"
+    },
+    {
+      "Id": "D:\\SanPhamChauPhu\\SanPhamChauPhu\\wwwroot\\lib\\ckeditor\\samples\\js\\sf.js",
+      "PackagePath": "staticwebassets\\lib\\ckeditor\\samples\\js\\sf.js"
+    },
+    {
+      "Id": "D:\\SanPhamChauPhu\\SanPhamChauPhu\\wwwroot\\lib\\ckeditor\\samples\\old\\ajax.html",
+      "PackagePath": "staticwebassets\\lib\\ckeditor\\samples\\old\\ajax.html"
+    },
+    {
+      "Id": "D:\\SanPhamChauPhu\\SanPhamChauPhu\\wwwroot\\lib\\ckeditor\\samples\\old\\api.html",
+      "PackagePath": "staticwebassets\\lib\\ckeditor\\samples\\old\\api.html"
+    },
+    {
+      "Id": "D:\\SanPhamChauPhu\\SanPhamChauPhu\\wwwroot\\lib\\ckeditor\\samples\\old\\appendto.html",
+      "PackagePath": "staticwebassets\\lib\\ckeditor\\samples\\old\\appendto.html"
+    },
+    {
+      "Id": "D:\\SanPhamChauPhu\\SanPhamChauPhu\\wwwroot\\lib\\ckeditor\\samples\\old\\assets\\inlineall\\logo.png",
+      "PackagePath": "staticwebassets\\lib\\ckeditor\\samples\\old\\assets\\inlineall\\logo.png"
+    },
+    {
+      "Id": "D:\\SanPhamChauPhu\\SanPhamChauPhu\\wwwroot\\lib\\ckeditor\\samples\\old\\assets\\outputxhtml\\outputxhtml.css",
+      "PackagePath": "staticwebassets\\lib\\ckeditor\\samples\\old\\assets\\outputxhtml\\outputxhtml.css"
+    },
+    {
+      "Id": "D:\\SanPhamChauPhu\\SanPhamChauPhu\\wwwroot\\lib\\ckeditor\\samples\\old\\assets\\posteddata.php",
+      "PackagePath": "staticwebassets\\lib\\ckeditor\\samples\\old\\assets\\posteddata.php"
+    },
+    {
+      "Id": "D:\\SanPhamChauPhu\\SanPhamChauPhu\\wwwroot\\lib\\ckeditor\\samples\\old\\assets\\sample.jpg",
+      "PackagePath": "staticwebassets\\lib\\ckeditor\\samples\\old\\assets\\sample.jpg"
+    },
+    {
+      "Id": "D:\\SanPhamChauPhu\\SanPhamChauPhu\\wwwroot\\lib\\ckeditor\\samples\\old\\assets\\uilanguages\\languages.js",
+      "PackagePath": "staticwebassets\\lib\\ckeditor\\samples\\old\\assets\\uilanguages\\languages.js"
+    },
+    {
+      "Id": "D:\\SanPhamChauPhu\\SanPhamChauPhu\\wwwroot\\lib\\ckeditor\\samples\\old\\datafiltering.html",
+      "PackagePath": "staticwebassets\\lib\\ckeditor\\samples\\old\\datafiltering.html"
+    },
+    {
+      "Id": "D:\\SanPhamChauPhu\\SanPhamChauPhu\\wwwroot\\lib\\ckeditor\\samples\\old\\dialog\\assets\\my_dialog.js",
+      "PackagePath": "staticwebassets\\lib\\ckeditor\\samples\\old\\dialog\\assets\\my_dialog.js"
+    },
+    {
+      "Id": "D:\\SanPhamChauPhu\\SanPhamChauPhu\\wwwroot\\lib\\ckeditor\\samples\\old\\dialog\\dialog.html",
+      "PackagePath": "staticwebassets\\lib\\ckeditor\\samples\\old\\dialog\\dialog.html"
+    },
+    {
+      "Id": "D:\\SanPhamChauPhu\\SanPhamChauPhu\\wwwroot\\lib\\ckeditor\\samples\\old\\divreplace.html",
+      "PackagePath": "staticwebassets\\lib\\ckeditor\\samples\\old\\divreplace.html"
+    },
+    {
+      "Id": "D:\\SanPhamChauPhu\\SanPhamChauPhu\\wwwroot\\lib\\ckeditor\\samples\\old\\enterkey\\enterkey.html",
+      "PackagePath": "staticwebassets\\lib\\ckeditor\\samples\\old\\enterkey\\enterkey.html"
+    },
+    {
+      "Id": "D:\\SanPhamChauPhu\\SanPhamChauPhu\\wwwroot\\lib\\ckeditor\\samples\\old\\htmlwriter\\assets\\outputforflash\\outputforflash.fla",
+      "PackagePath": "staticwebassets\\lib\\ckeditor\\samples\\old\\htmlwriter\\assets\\outputforflash\\outputforflash.fla"
+    },
+    {
+      "Id": "D:\\SanPhamChauPhu\\SanPhamChauPhu\\wwwroot\\lib\\ckeditor\\samples\\old\\htmlwriter\\assets\\outputforflash\\outputforflash.swf",
+      "PackagePath": "staticwebassets\\lib\\ckeditor\\samples\\old\\htmlwriter\\assets\\outputforflash\\outputforflash.swf"
+    },
+    {
+      "Id": "D:\\SanPhamChauPhu\\SanPhamChauPhu\\wwwroot\\lib\\ckeditor\\samples\\old\\htmlwriter\\assets\\outputforflash\\swfobject.js",
+      "PackagePath": "staticwebassets\\lib\\ckeditor\\samples\\old\\htmlwriter\\assets\\outputforflash\\swfobject.js"
+    },
+    {
+      "Id": "D:\\SanPhamChauPhu\\SanPhamChauPhu\\wwwroot\\lib\\ckeditor\\samples\\old\\htmlwriter\\outputforflash.html",
+      "PackagePath": "staticwebassets\\lib\\ckeditor\\samples\\old\\htmlwriter\\outputforflash.html"
+    },
+    {
+      "Id": "D:\\SanPhamChauPhu\\SanPhamChauPhu\\wwwroot\\lib\\ckeditor\\samples\\old\\htmlwriter\\outputhtml.html",
+      "PackagePath": "staticwebassets\\lib\\ckeditor\\samples\\old\\htmlwriter\\outputhtml.html"
+    },
+    {
+      "Id": "D:\\SanPhamChauPhu\\SanPhamChauPhu\\wwwroot\\lib\\ckeditor\\samples\\old\\index.html",
+      "PackagePath": "staticwebassets\\lib\\ckeditor\\samples\\old\\index.html"
+    },
+    {
+      "Id": "D:\\SanPhamChauPhu\\SanPhamChauPhu\\wwwroot\\lib\\ckeditor\\samples\\old\\inlineall.html",
+      "PackagePath": "staticwebassets\\lib\\ckeditor\\samples\\old\\inlineall.html"
+    },
+    {
+      "Id": "D:\\SanPhamChauPhu\\SanPhamChauPhu\\wwwroot\\lib\\ckeditor\\samples\\old\\inlinebycode.html",
+      "PackagePath": "staticwebassets\\lib\\ckeditor\\samples\\old\\inlinebycode.html"
+    },
+    {
+      "Id": "D:\\SanPhamChauPhu\\SanPhamChauPhu\\wwwroot\\lib\\ckeditor\\samples\\old\\inlinetextarea.html",
+      "PackagePath": "staticwebassets\\lib\\ckeditor\\samples\\old\\inlinetextarea.html"
+    },
+    {
+      "Id": "D:\\SanPhamChauPhu\\SanPhamChauPhu\\wwwroot\\lib\\ckeditor\\samples\\old\\jquery.html",
+      "PackagePath": "staticwebassets\\lib\\ckeditor\\samples\\old\\jquery.html"
+    },
+    {
+      "Id": "D:\\SanPhamChauPhu\\SanPhamChauPhu\\wwwroot\\lib\\ckeditor\\samples\\old\\magicline\\magicline.html",
+      "PackagePath": "staticwebassets\\lib\\ckeditor\\samples\\old\\magicline\\magicline.html"
+    },
+    {
+      "Id": "D:\\SanPhamChauPhu\\SanPhamChauPhu\\wwwroot\\lib\\ckeditor\\samples\\old\\readonly.html",
+      "PackagePath": "staticwebassets\\lib\\ckeditor\\samples\\old\\readonly.html"
+    },
+    {
+      "Id": "D:\\SanPhamChauPhu\\SanPhamChauPhu\\wwwroot\\lib\\ckeditor\\samples\\old\\replacebyclass.html",
+      "PackagePath": "staticwebassets\\lib\\ckeditor\\samples\\old\\replacebyclass.html"
+    },
+    {
+      "Id": "D:\\SanPhamChauPhu\\SanPhamChauPhu\\wwwroot\\lib\\ckeditor\\samples\\old\\replacebycode.html",
+      "PackagePath": "staticwebassets\\lib\\ckeditor\\samples\\old\\replacebycode.html"
+    },
+    {
+      "Id": "D:\\SanPhamChauPhu\\SanPhamChauPhu\\wwwroot\\lib\\ckeditor\\samples\\old\\sample.css",
+      "PackagePath": "staticwebassets\\lib\\ckeditor\\samples\\old\\sample.css"
+    },
+    {
+      "Id": "D:\\SanPhamChauPhu\\SanPhamChauPhu\\wwwroot\\lib\\ckeditor\\samples\\old\\sample.js",
+      "PackagePath": "staticwebassets\\lib\\ckeditor\\samples\\old\\sample.js"
+    },
+    {
+      "Id": "D:\\SanPhamChauPhu\\SanPhamChauPhu\\wwwroot\\lib\\ckeditor\\samples\\old\\sample_posteddata.php",
+      "PackagePath": "staticwebassets\\lib\\ckeditor\\samples\\old\\sample_posteddata.php"
+    },
+    {
+      "Id": "D:\\SanPhamChauPhu\\SanPhamChauPhu\\wwwroot\\lib\\ckeditor\\samples\\old\\tabindex.html",
+      "PackagePath": "staticwebassets\\lib\\ckeditor\\samples\\old\\tabindex.html"
+    },
+    {
+      "Id": "D:\\SanPhamChauPhu\\SanPhamChauPhu\\wwwroot\\lib\\ckeditor\\samples\\old\\toolbar\\toolbar.html",
+      "PackagePath": "staticwebassets\\lib\\ckeditor\\samples\\old\\toolbar\\toolbar.html"
+    },
+    {
+      "Id": "D:\\SanPhamChauPhu\\SanPhamChauPhu\\wwwroot\\lib\\ckeditor\\samples\\old\\uicolor.html",
+      "PackagePath": "staticwebassets\\lib\\ckeditor\\samples\\old\\uicolor.html"
+    },
+    {
+      "Id": "D:\\SanPhamChauPhu\\SanPhamChauPhu\\wwwroot\\lib\\ckeditor\\samples\\old\\uilanguages.html",
+      "PackagePath": "staticwebassets\\lib\\ckeditor\\samples\\old\\uilanguages.html"
+    },
+    {
+      "Id": "D:\\SanPhamChauPhu\\SanPhamChauPhu\\wwwroot\\lib\\ckeditor\\samples\\old\\wysiwygarea\\fullpage.html",
+      "PackagePath": "staticwebassets\\lib\\ckeditor\\samples\\old\\wysiwygarea\\fullpage.html"
+    },
+    {
+      "Id": "D:\\SanPhamChauPhu\\SanPhamChauPhu\\wwwroot\\lib\\ckeditor\\samples\\old\\xhtmlstyle.html",
+      "PackagePath": "staticwebassets\\lib\\ckeditor\\samples\\old\\xhtmlstyle.html"
+    },
+    {
+      "Id": "D:\\SanPhamChauPhu\\SanPhamChauPhu\\wwwroot\\lib\\ckeditor\\samples\\toolbarconfigurator\\css\\fontello.css",
+      "PackagePath": "staticwebassets\\lib\\ckeditor\\samples\\toolbarconfigurator\\css\\fontello.css"
+    },
+    {
+      "Id": "D:\\SanPhamChauPhu\\SanPhamChauPhu\\wwwroot\\lib\\ckeditor\\samples\\toolbarconfigurator\\font\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\ckeditor\\samples\\toolbarconfigurator\\font\\LICENSE.txt"
+    },
+    {
+      "Id": "D:\\SanPhamChauPhu\\SanPhamChauPhu\\wwwroot\\lib\\ckeditor\\samples\\toolbarconfigurator\\font\\config.json",
+      "PackagePath": "staticwebassets\\lib\\ckeditor\\samples\\toolbarconfigurator\\font\\config.json"
+    },
+    {
+      "Id": "D:\\SanPhamChauPhu\\SanPhamChauPhu\\wwwroot\\lib\\ckeditor\\samples\\toolbarconfigurator\\font\\fontello.eot",
+      "PackagePath": "staticwebassets\\lib\\ckeditor\\samples\\toolbarconfigurator\\font\\fontello.eot"
+    },
+    {
+      "Id": "D:\\SanPhamChauPhu\\SanPhamChauPhu\\wwwroot\\lib\\ckeditor\\samples\\toolbarconfigurator\\font\\fontello.svg",
+      "PackagePath": "staticwebassets\\lib\\ckeditor\\samples\\toolbarconfigurator\\font\\fontello.svg"
+    },
+    {
+      "Id": "D:\\SanPhamChauPhu\\SanPhamChauPhu\\wwwroot\\lib\\ckeditor\\samples\\toolbarconfigurator\\font\\fontello.ttf",
+      "PackagePath": "staticwebassets\\lib\\ckeditor\\samples\\toolbarconfigurator\\font\\fontello.ttf"
+    },
+    {
+      "Id": "D:\\SanPhamChauPhu\\SanPhamChauPhu\\wwwroot\\lib\\ckeditor\\samples\\toolbarconfigurator\\font\\fontello.woff",
+      "PackagePath": "staticwebassets\\lib\\ckeditor\\samples\\toolbarconfigurator\\font\\fontello.woff"
+    },
+    {
+      "Id": "D:\\SanPhamChauPhu\\SanPhamChauPhu\\wwwroot\\lib\\ckeditor\\samples\\toolbarconfigurator\\index.html",
+      "PackagePath": "staticwebassets\\lib\\ckeditor\\samples\\toolbarconfigurator\\index.html"
+    },
+    {
+      "Id": "D:\\SanPhamChauPhu\\SanPhamChauPhu\\wwwroot\\lib\\ckeditor\\samples\\toolbarconfigurator\\js\\abstracttoolbarmodifier.js",
+      "PackagePath": "staticwebassets\\lib\\ckeditor\\samples\\toolbarconfigurator\\js\\abstracttoolbarmodifier.js"
+    },
+    {
+      "Id": "D:\\SanPhamChauPhu\\SanPhamChauPhu\\wwwroot\\lib\\ckeditor\\samples\\toolbarconfigurator\\js\\fulltoolbareditor.js",
+      "PackagePath": "staticwebassets\\lib\\ckeditor\\samples\\toolbarconfigurator\\js\\fulltoolbareditor.js"
+    },
+    {
+      "Id": "D:\\SanPhamChauPhu\\SanPhamChauPhu\\wwwroot\\lib\\ckeditor\\samples\\toolbarconfigurator\\js\\toolbarmodifier.js",
+      "PackagePath": "staticwebassets\\lib\\ckeditor\\samples\\toolbarconfigurator\\js\\toolbarmodifier.js"
+    },
+    {
+      "Id": "D:\\SanPhamChauPhu\\SanPhamChauPhu\\wwwroot\\lib\\ckeditor\\samples\\toolbarconfigurator\\js\\toolbartextmodifier.js",
+      "PackagePath": "staticwebassets\\lib\\ckeditor\\samples\\toolbarconfigurator\\js\\toolbartextmodifier.js"
+    },
+    {
+      "Id": "D:\\SanPhamChauPhu\\SanPhamChauPhu\\wwwroot\\lib\\ckeditor\\samples\\toolbarconfigurator\\lib\\codemirror\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\ckeditor\\samples\\toolbarconfigurator\\lib\\codemirror"
+    },
+    {
+      "Id": "D:\\SanPhamChauPhu\\SanPhamChauPhu\\wwwroot\\lib\\ckeditor\\samples\\toolbarconfigurator\\lib\\codemirror\\codemirror.css",
+      "PackagePath": "staticwebassets\\lib\\ckeditor\\samples\\toolbarconfigurator\\lib\\codemirror\\codemirror.css"
+    },
+    {
+      "Id": "D:\\SanPhamChauPhu\\SanPhamChauPhu\\wwwroot\\lib\\ckeditor\\samples\\toolbarconfigurator\\lib\\codemirror\\codemirror.js",
+      "PackagePath": "staticwebassets\\lib\\ckeditor\\samples\\toolbarconfigurator\\lib\\codemirror\\codemirror.js"
+    },
+    {
+      "Id": "D:\\SanPhamChauPhu\\SanPhamChauPhu\\wwwroot\\lib\\ckeditor\\samples\\toolbarconfigurator\\lib\\codemirror\\javascript.js",
+      "PackagePath": "staticwebassets\\lib\\ckeditor\\samples\\toolbarconfigurator\\lib\\codemirror\\javascript.js"
+    },
+    {
+      "Id": "D:\\SanPhamChauPhu\\SanPhamChauPhu\\wwwroot\\lib\\ckeditor\\samples\\toolbarconfigurator\\lib\\codemirror\\neo.css",
+      "PackagePath": "staticwebassets\\lib\\ckeditor\\samples\\toolbarconfigurator\\lib\\codemirror\\neo.css"
+    },
+    {
+      "Id": "D:\\SanPhamChauPhu\\SanPhamChauPhu\\wwwroot\\lib\\ckeditor\\samples\\toolbarconfigurator\\lib\\codemirror\\show-hint.css",
+      "PackagePath": "staticwebassets\\lib\\ckeditor\\samples\\toolbarconfigurator\\lib\\codemirror\\show-hint.css"
+    },
+    {
+      "Id": "D:\\SanPhamChauPhu\\SanPhamChauPhu\\wwwroot\\lib\\ckeditor\\samples\\toolbarconfigurator\\lib\\codemirror\\show-hint.js",
+      "PackagePath": "staticwebassets\\lib\\ckeditor\\samples\\toolbarconfigurator\\lib\\codemirror\\show-hint.js"
+    },
+    {
+      "Id": "D:\\SanPhamChauPhu\\SanPhamChauPhu\\wwwroot\\lib\\ckeditor\\skins\\moono-lisa\\dialog.css",
+      "PackagePath": "staticwebassets\\lib\\ckeditor\\skins\\moono-lisa\\dialog.css"
+    },
+    {
+      "Id": "D:\\SanPhamChauPhu\\SanPhamChauPhu\\wwwroot\\lib\\ckeditor\\skins\\moono-lisa\\dialog_ie.css",
+      "PackagePath": "staticwebassets\\lib\\ckeditor\\skins\\moono-lisa\\dialog_ie.css"
+    },
+    {
+      "Id": "D:\\SanPhamChauPhu\\SanPhamChauPhu\\wwwroot\\lib\\ckeditor\\skins\\moono-lisa\\dialog_ie8.css",
+      "PackagePath": "staticwebassets\\lib\\ckeditor\\skins\\moono-lisa\\dialog_ie8.css"
+    },
+    {
+      "Id": "D:\\SanPhamChauPhu\\SanPhamChauPhu\\wwwroot\\lib\\ckeditor\\skins\\moono-lisa\\dialog_iequirks.css",
+      "PackagePath": "staticwebassets\\lib\\ckeditor\\skins\\moono-lisa\\dialog_iequirks.css"
+    },
+    {
+      "Id": "D:\\SanPhamChauPhu\\SanPhamChauPhu\\wwwroot\\lib\\ckeditor\\skins\\moono-lisa\\editor.css",
+      "PackagePath": "staticwebassets\\lib\\ckeditor\\skins\\moono-lisa\\editor.css"
+    },
+    {
+      "Id": "D:\\SanPhamChauPhu\\SanPhamChauPhu\\wwwroot\\lib\\ckeditor\\skins\\moono-lisa\\editor_gecko.css",
+      "PackagePath": "staticwebassets\\lib\\ckeditor\\skins\\moono-lisa\\editor_gecko.css"
+    },
+    {
+      "Id": "D:\\SanPhamChauPhu\\SanPhamChauPhu\\wwwroot\\lib\\ckeditor\\skins\\moono-lisa\\editor_ie.css",
+      "PackagePath": "staticwebassets\\lib\\ckeditor\\skins\\moono-lisa\\editor_ie.css"
+    },
+    {
+      "Id": "D:\\SanPhamChauPhu\\SanPhamChauPhu\\wwwroot\\lib\\ckeditor\\skins\\moono-lisa\\editor_ie8.css",
+      "PackagePath": "staticwebassets\\lib\\ckeditor\\skins\\moono-lisa\\editor_ie8.css"
+    },
+    {
+      "Id": "D:\\SanPhamChauPhu\\SanPhamChauPhu\\wwwroot\\lib\\ckeditor\\skins\\moono-lisa\\editor_iequirks.css",
+      "PackagePath": "staticwebassets\\lib\\ckeditor\\skins\\moono-lisa\\editor_iequirks.css"
+    },
+    {
+      "Id": "D:\\SanPhamChauPhu\\SanPhamChauPhu\\wwwroot\\lib\\ckeditor\\skins\\moono-lisa\\icons.png",
+      "PackagePath": "staticwebassets\\lib\\ckeditor\\skins\\moono-lisa\\icons.png"
+    },
+    {
+      "Id": "D:\\SanPhamChauPhu\\SanPhamChauPhu\\wwwroot\\lib\\ckeditor\\skins\\moono-lisa\\icons_hidpi.png",
+      "PackagePath": "staticwebassets\\lib\\ckeditor\\skins\\moono-lisa\\icons_hidpi.png"
+    },
+    {
+      "Id": "D:\\SanPhamChauPhu\\SanPhamChauPhu\\wwwroot\\lib\\ckeditor\\skins\\moono-lisa\\images\\arrow.png",
+      "PackagePath": "staticwebassets\\lib\\ckeditor\\skins\\moono-lisa\\images\\arrow.png"
+    },
+    {
+      "Id": "D:\\SanPhamChauPhu\\SanPhamChauPhu\\wwwroot\\lib\\ckeditor\\skins\\moono-lisa\\images\\close.png",
+      "PackagePath": "staticwebassets\\lib\\ckeditor\\skins\\moono-lisa\\images\\close.png"
+    },
+    {
+      "Id": "D:\\SanPhamChauPhu\\SanPhamChauPhu\\wwwroot\\lib\\ckeditor\\skins\\moono-lisa\\images\\hidpi\\close.png",
+      "PackagePath": "staticwebassets\\lib\\ckeditor\\skins\\moono-lisa\\images\\hidpi\\close.png"
+    },
+    {
+      "Id": "D:\\SanPhamChauPhu\\SanPhamChauPhu\\wwwroot\\lib\\ckeditor\\skins\\moono-lisa\\images\\hidpi\\lock-open.png",
+      "PackagePath": "staticwebassets\\lib\\ckeditor\\skins\\moono-lisa\\images\\hidpi\\lock-open.png"
+    },
+    {
+      "Id": "D:\\SanPhamChauPhu\\SanPhamChauPhu\\wwwroot\\lib\\ckeditor\\skins\\moono-lisa\\images\\hidpi\\lock.png",
+      "PackagePath": "staticwebassets\\lib\\ckeditor\\skins\\moono-lisa\\images\\hidpi\\lock.png"
+    },
+    {
+      "Id": "D:\\SanPhamChauPhu\\SanPhamChauPhu\\wwwroot\\lib\\ckeditor\\skins\\moono-lisa\\images\\hidpi\\refresh.png",
+      "PackagePath": "staticwebassets\\lib\\ckeditor\\skins\\moono-lisa\\images\\hidpi\\refresh.png"
+    },
+    {
+      "Id": "D:\\SanPhamChauPhu\\SanPhamChauPhu\\wwwroot\\lib\\ckeditor\\skins\\moono-lisa\\images\\lock-open.png",
+      "PackagePath": "staticwebassets\\lib\\ckeditor\\skins\\moono-lisa\\images\\lock-open.png"
+    },
+    {
+      "Id": "D:\\SanPhamChauPhu\\SanPhamChauPhu\\wwwroot\\lib\\ckeditor\\skins\\moono-lisa\\images\\lock.png",
+      "PackagePath": "staticwebassets\\lib\\ckeditor\\skins\\moono-lisa\\images\\lock.png"
+    },
+    {
+      "Id": "D:\\SanPhamChauPhu\\SanPhamChauPhu\\wwwroot\\lib\\ckeditor\\skins\\moono-lisa\\images\\refresh.png",
+      "PackagePath": "staticwebassets\\lib\\ckeditor\\skins\\moono-lisa\\images\\refresh.png"
+    },
+    {
+      "Id": "D:\\SanPhamChauPhu\\SanPhamChauPhu\\wwwroot\\lib\\ckeditor\\skins\\moono-lisa\\images\\spinner.gif",
+      "PackagePath": "staticwebassets\\lib\\ckeditor\\skins\\moono-lisa\\images\\spinner.gif"
+    },
+    {
+      "Id": "D:\\SanPhamChauPhu\\SanPhamChauPhu\\wwwroot\\lib\\ckeditor\\skins\\moono-lisa\\readme.md",
+      "PackagePath": "staticwebassets\\lib\\ckeditor\\skins\\moono-lisa\\readme.md"
+    },
+    {
+      "Id": "D:\\SanPhamChauPhu\\SanPhamChauPhu\\wwwroot\\lib\\ckeditor\\styles.js",
+      "PackagePath": "staticwebassets\\lib\\ckeditor\\styles.js"
+    },
+    {
+      "Id": "D:\\SanPhamChauPhu\\SanPhamChauPhu\\wwwroot\\lib\\ckeditor\\vendor\\promise.js",
+      "PackagePath": "staticwebassets\\lib\\ckeditor\\vendor\\promise.js"
+    },
+    {
+      "Id": "D:\\SanPhamChauPhu\\SanPhamChauPhu\\wwwroot\\lib\\icofont\\fonts\\icofont.woff",
+      "PackagePath": "staticwebassets\\lib\\icofont\\fonts\\icofont.woff"
+    },
+    {
+      "Id": "D:\\SanPhamChauPhu\\SanPhamChauPhu\\wwwroot\\lib\\icofont\\fonts\\icofont.woff2",
+      "PackagePath": "staticwebassets\\lib\\icofont\\fonts\\icofont.woff2"
+    },
+    {
+      "Id": "D:\\SanPhamChauPhu\\SanPhamChauPhu\\wwwroot\\lib\\icofont\\icofont.min.css",
+      "PackagePath": "staticwebassets\\lib\\icofont\\icofont.min.css"
+    },
+    {
+      "Id": "D:\\SanPhamChauPhu\\SanPhamChauPhu\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "D:\\SanPhamChauPhu\\SanPhamChauPhu\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "D:\\SanPhamChauPhu\\SanPhamChauPhu\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "D:\\SanPhamChauPhu\\SanPhamChauPhu\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "D:\\SanPhamChauPhu\\SanPhamChauPhu\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "D:\\SanPhamChauPhu\\SanPhamChauPhu\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "D:\\SanPhamChauPhu\\SanPhamChauPhu\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "D:\\SanPhamChauPhu\\SanPhamChauPhu\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "D:\\SanPhamChauPhu\\SanPhamChauPhu\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "D:\\SanPhamChauPhu\\SanPhamChauPhu\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "D:\\SanPhamChauPhu\\SanPhamChauPhu\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "D:\\SanPhamChauPhu\\SanPhamChauPhu\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "D:\\SanPhamChauPhu\\SanPhamChauPhu\\wwwroot\\lib\\light-gallery\\css\\lg-fb-comment-box.css",
+      "PackagePath": "staticwebassets\\lib\\light-gallery\\css\\lg-fb-comment-box.css"
+    },
+    {
+      "Id": "D:\\SanPhamChauPhu\\SanPhamChauPhu\\wwwroot\\lib\\light-gallery\\css\\lg-fb-comment-box.min.css",
+      "PackagePath": "staticwebassets\\lib\\light-gallery\\css\\lg-fb-comment-box.min.css"
+    },
+    {
+      "Id": "D:\\SanPhamChauPhu\\SanPhamChauPhu\\wwwroot\\lib\\light-gallery\\css\\lg-transitions.css",
+      "PackagePath": "staticwebassets\\lib\\light-gallery\\css\\lg-transitions.css"
+    },
+    {
+      "Id": "D:\\SanPhamChauPhu\\SanPhamChauPhu\\wwwroot\\lib\\light-gallery\\css\\lg-transitions.min.css",
+      "PackagePath": "staticwebassets\\lib\\light-gallery\\css\\lg-transitions.min.css"
+    },
+    {
+      "Id": "D:\\SanPhamChauPhu\\SanPhamChauPhu\\wwwroot\\lib\\light-gallery\\css\\lightgallery.css",
+      "PackagePath": "staticwebassets\\lib\\light-gallery\\css\\lightgallery.css"
+    },
+    {
+      "Id": "D:\\SanPhamChauPhu\\SanPhamChauPhu\\wwwroot\\lib\\light-gallery\\css\\lightgallery.min.css",
+      "PackagePath": "staticwebassets\\lib\\light-gallery\\css\\lightgallery.min.css"
+    },
+    {
+      "Id": "D:\\SanPhamChauPhu\\SanPhamChauPhu\\wwwroot\\lib\\light-gallery\\fonts\\lg.svg",
+      "PackagePath": "staticwebassets\\lib\\light-gallery\\fonts\\lg.svg"
+    },
+    {
+      "Id": "D:\\SanPhamChauPhu\\SanPhamChauPhu\\wwwroot\\lib\\light-gallery\\fonts\\lg.ttf",
+      "PackagePath": "staticwebassets\\lib\\light-gallery\\fonts\\lg.ttf"
+    },
+    {
+      "Id": "D:\\SanPhamChauPhu\\SanPhamChauPhu\\wwwroot\\lib\\light-gallery\\fonts\\lg.woff",
+      "PackagePath": "staticwebassets\\lib\\light-gallery\\fonts\\lg.woff"
+    },
+    {
+      "Id": "D:\\SanPhamChauPhu\\SanPhamChauPhu\\wwwroot\\lib\\light-gallery\\img\\loading.gif",
+      "PackagePath": "staticwebassets\\lib\\light-gallery\\img\\loading.gif"
+    },
+    {
+      "Id": "D:\\SanPhamChauPhu\\SanPhamChauPhu\\wwwroot\\lib\\light-gallery\\img\\video-play.png",
+      "PackagePath": "staticwebassets\\lib\\light-gallery\\img\\video-play.png"
+    },
+    {
+      "Id": "D:\\SanPhamChauPhu\\SanPhamChauPhu\\wwwroot\\lib\\light-gallery\\img\\vimeo-play.png",
+      "PackagePath": "staticwebassets\\lib\\light-gallery\\img\\vimeo-play.png"
+    },
+    {
+      "Id": "D:\\SanPhamChauPhu\\SanPhamChauPhu\\wwwroot\\lib\\light-gallery\\img\\youtube-play.png",
+      "PackagePath": "staticwebassets\\lib\\light-gallery\\img\\youtube-play.png"
+    },
+    {
+      "Id": "D:\\SanPhamChauPhu\\SanPhamChauPhu\\wwwroot\\lib\\light-gallery\\js\\lightgallery-all.js",
+      "PackagePath": "staticwebassets\\lib\\light-gallery\\js\\lightgallery-all.js"
+    },
+    {
+      "Id": "D:\\SanPhamChauPhu\\SanPhamChauPhu\\wwwroot\\lib\\light-gallery\\js\\lightgallery-all.min.js",
+      "PackagePath": "staticwebassets\\lib\\light-gallery\\js\\lightgallery-all.min.js"
+    },
+    {
+      "Id": "D:\\SanPhamChauPhu\\SanPhamChauPhu\\wwwroot\\lib\\light-gallery\\js\\lightgallery.js",
+      "PackagePath": "staticwebassets\\lib\\light-gallery\\js\\lightgallery.js"
+    },
+    {
+      "Id": "D:\\SanPhamChauPhu\\SanPhamChauPhu\\wwwroot\\lib\\light-gallery\\js\\lightgallery.min.js",
+      "PackagePath": "staticwebassets\\lib\\light-gallery\\js\\lightgallery.min.js"
+    },
+    {
+      "Id": "D:\\SanPhamChauPhu\\SanPhamChauPhu\\wwwroot\\lib\\light-gallery\\lib\\jquery.mousewheel.min.js",
+      "PackagePath": "staticwebassets\\lib\\light-gallery\\lib\\jquery.mousewheel.min.js"
+    },
+    {
+      "Id": "D:\\SanPhamChauPhu\\SanPhamChauPhu\\wwwroot\\lib\\light-gallery\\lib\\lg.png",
+      "PackagePath": "staticwebassets\\lib\\light-gallery\\lib\\lg.png"
+    },
+    {
+      "Id": "D:\\SanPhamChauPhu\\SanPhamChauPhu\\wwwroot\\lib\\light-gallery\\lib\\picturefill.min.js",
+      "PackagePath": "staticwebassets\\lib\\light-gallery\\lib\\picturefill.min.js"
+    },
+    {
+      "Id": "D:\\SanPhamChauPhu\\SanPhamChauPhu\\wwwroot\\lib\\owl-carousel-2-2.3.4\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\owl-carousel-2-2.3.4"
+    },
+    {
+      "Id": "D:\\SanPhamChauPhu\\SanPhamChauPhu\\wwwroot\\lib\\owl-carousel-2-2.3.4\\README.md",
+      "PackagePath": "staticwebassets\\lib\\owl-carousel-2-2.3.4\\README.md"
+    },
+    {
+      "Id": "D:\\SanPhamChauPhu\\SanPhamChauPhu\\wwwroot\\lib\\owl-carousel-2-2.3.4\\assets\\ajax-loader.gif",
+      "PackagePath": "staticwebassets\\lib\\owl-carousel-2-2.3.4\\assets\\ajax-loader.gif"
+    },
+    {
+      "Id": "D:\\SanPhamChauPhu\\SanPhamChauPhu\\wwwroot\\lib\\owl-carousel-2-2.3.4\\assets\\owl.carousel.css",
+      "PackagePath": "staticwebassets\\lib\\owl-carousel-2-2.3.4\\assets\\owl.carousel.css"
+    },
+    {
+      "Id": "D:\\SanPhamChauPhu\\SanPhamChauPhu\\wwwroot\\lib\\owl-carousel-2-2.3.4\\assets\\owl.carousel.min.css",
+      "PackagePath": "staticwebassets\\lib\\owl-carousel-2-2.3.4\\assets\\owl.carousel.min.css"
+    },
+    {
+      "Id": "D:\\SanPhamChauPhu\\SanPhamChauPhu\\wwwroot\\lib\\owl-carousel-2-2.3.4\\assets\\owl.theme.default.css",
+      "PackagePath": "staticwebassets\\lib\\owl-carousel-2-2.3.4\\assets\\owl.theme.default.css"
+    },
+    {
+      "Id": "D:\\SanPhamChauPhu\\SanPhamChauPhu\\wwwroot\\lib\\owl-carousel-2-2.3.4\\assets\\owl.theme.default.min.css",
+      "PackagePath": "staticwebassets\\lib\\owl-carousel-2-2.3.4\\assets\\owl.theme.default.min.css"
+    },
+    {
+      "Id": "D:\\SanPhamChauPhu\\SanPhamChauPhu\\wwwroot\\lib\\owl-carousel-2-2.3.4\\assets\\owl.theme.green.css",
+      "PackagePath": "staticwebassets\\lib\\owl-carousel-2-2.3.4\\assets\\owl.theme.green.css"
+    },
+    {
+      "Id": "D:\\SanPhamChauPhu\\SanPhamChauPhu\\wwwroot\\lib\\owl-carousel-2-2.3.4\\assets\\owl.theme.green.min.css",
+      "PackagePath": "staticwebassets\\lib\\owl-carousel-2-2.3.4\\assets\\owl.theme.green.min.css"
+    },
+    {
+      "Id": "D:\\SanPhamChauPhu\\SanPhamChauPhu\\wwwroot\\lib\\owl-carousel-2-2.3.4\\assets\\owl.video.play.png",
+      "PackagePath": "staticwebassets\\lib\\owl-carousel-2-2.3.4\\assets\\owl.video.play.png"
+    },
+    {
+      "Id": "D:\\SanPhamChauPhu\\SanPhamChauPhu\\wwwroot\\lib\\owl-carousel-2-2.3.4\\owl.carousel.js",
+      "PackagePath": "staticwebassets\\lib\\owl-carousel-2-2.3.4\\owl.carousel.js"
+    },
+    {
+      "Id": "D:\\SanPhamChauPhu\\SanPhamChauPhu\\wwwroot\\lib\\owl-carousel-2-2.3.4\\owl.carousel.min.js",
+      "PackagePath": "staticwebassets\\lib\\owl-carousel-2-2.3.4\\owl.carousel.min.js"
+    },
+    {
+      "Id": "D:\\SanPhamChauPhu\\SanPhamChauPhu\\wwwroot\\lib\\select2-bootstrap-5-theme\\select2-bootstrap-5-theme.css",
+      "PackagePath": "staticwebassets\\lib\\select2-bootstrap-5-theme\\select2-bootstrap-5-theme.css"
+    },
+    {
+      "Id": "D:\\SanPhamChauPhu\\SanPhamChauPhu\\wwwroot\\lib\\select2-bootstrap-5-theme\\select2-bootstrap-5-theme.min.css",
+      "PackagePath": "staticwebassets\\lib\\select2-bootstrap-5-theme\\select2-bootstrap-5-theme.min.css"
+    },
+    {
+      "Id": "D:\\SanPhamChauPhu\\SanPhamChauPhu\\wwwroot\\lib\\select2-bootstrap-5-theme\\select2-bootstrap-5-theme.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\select2-bootstrap-5-theme\\select2-bootstrap-5-theme.rtl.css"
+    },
+    {
+      "Id": "D:\\SanPhamChauPhu\\SanPhamChauPhu\\wwwroot\\lib\\select2-bootstrap-5-theme\\select2-bootstrap-5-theme.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\select2-bootstrap-5-theme\\select2-bootstrap-5-theme.rtl.min.css"
+    },
+    {
+      "Id": "D:\\SanPhamChauPhu\\SanPhamChauPhu\\wwwroot\\lib\\select2\\css\\select2.css",
+      "PackagePath": "staticwebassets\\lib\\select2\\css\\select2.css"
+    },
+    {
+      "Id": "D:\\SanPhamChauPhu\\SanPhamChauPhu\\wwwroot\\lib\\select2\\css\\select2.min.css",
+      "PackagePath": "staticwebassets\\lib\\select2\\css\\select2.min.css"
+    },
+    {
+      "Id": "D:\\SanPhamChauPhu\\SanPhamChauPhu\\wwwroot\\lib\\select2\\js\\i18n\\af.js",
+      "PackagePath": "staticwebassets\\lib\\select2\\js\\i18n\\af.js"
+    },
+    {
+      "Id": "D:\\SanPhamChauPhu\\SanPhamChauPhu\\wwwroot\\lib\\select2\\js\\i18n\\ar.js",
+      "PackagePath": "staticwebassets\\lib\\select2\\js\\i18n\\ar.js"
+    },
+    {
+      "Id": "D:\\SanPhamChauPhu\\SanPhamChauPhu\\wwwroot\\lib\\select2\\js\\i18n\\az.js",
+      "PackagePath": "staticwebassets\\lib\\select2\\js\\i18n\\az.js"
+    },
+    {
+      "Id": "D:\\SanPhamChauPhu\\SanPhamChauPhu\\wwwroot\\lib\\select2\\js\\i18n\\bg.js",
+      "PackagePath": "staticwebassets\\lib\\select2\\js\\i18n\\bg.js"
+    },
+    {
+      "Id": "D:\\SanPhamChauPhu\\SanPhamChauPhu\\wwwroot\\lib\\select2\\js\\i18n\\bn.js",
+      "PackagePath": "staticwebassets\\lib\\select2\\js\\i18n\\bn.js"
+    },
+    {
+      "Id": "D:\\SanPhamChauPhu\\SanPhamChauPhu\\wwwroot\\lib\\select2\\js\\i18n\\bs.js",
+      "PackagePath": "staticwebassets\\lib\\select2\\js\\i18n\\bs.js"
+    },
+    {
+      "Id": "D:\\SanPhamChauPhu\\SanPhamChauPhu\\wwwroot\\lib\\select2\\js\\i18n\\build.txt",
+      "PackagePath": "staticwebassets\\lib\\select2\\js\\i18n\\build.txt"
+    },
+    {
+      "Id": "D:\\SanPhamChauPhu\\SanPhamChauPhu\\wwwroot\\lib\\select2\\js\\i18n\\ca.js",
+      "PackagePath": "staticwebassets\\lib\\select2\\js\\i18n\\ca.js"
+    },
+    {
+      "Id": "D:\\SanPhamChauPhu\\SanPhamChauPhu\\wwwroot\\lib\\select2\\js\\i18n\\cs.js",
+      "PackagePath": "staticwebassets\\lib\\select2\\js\\i18n\\cs.js"
+    },
+    {
+      "Id": "D:\\SanPhamChauPhu\\SanPhamChauPhu\\wwwroot\\lib\\select2\\js\\i18n\\da.js",
+      "PackagePath": "staticwebassets\\lib\\select2\\js\\i18n\\da.js"
+    },
+    {
+      "Id": "D:\\SanPhamChauPhu\\SanPhamChauPhu\\wwwroot\\lib\\select2\\js\\i18n\\de.js",
+      "PackagePath": "staticwebassets\\lib\\select2\\js\\i18n\\de.js"
+    },
+    {
+      "Id": "D:\\SanPhamChauPhu\\SanPhamChauPhu\\wwwroot\\lib\\select2\\js\\i18n\\dsb.js",
+      "PackagePath": "staticwebassets\\lib\\select2\\js\\i18n\\dsb.js"
+    },
+    {
+      "Id": "D:\\SanPhamChauPhu\\SanPhamChauPhu\\wwwroot\\lib\\select2\\js\\i18n\\el.js",
+      "PackagePath": "staticwebassets\\lib\\select2\\js\\i18n\\el.js"
+    },
+    {
+      "Id": "D:\\SanPhamChauPhu\\SanPhamChauPhu\\wwwroot\\lib\\select2\\js\\i18n\\en.js",
+      "PackagePath": "staticwebassets\\lib\\select2\\js\\i18n\\en.js"
+    },
+    {
+      "Id": "D:\\SanPhamChauPhu\\SanPhamChauPhu\\wwwroot\\lib\\select2\\js\\i18n\\es.js",
+      "PackagePath": "staticwebassets\\lib\\select2\\js\\i18n\\es.js"
+    },
+    {
+      "Id": "D:\\SanPhamChauPhu\\SanPhamChauPhu\\wwwroot\\lib\\select2\\js\\i18n\\et.js",
+      "PackagePath": "staticwebassets\\lib\\select2\\js\\i18n\\et.js"
+    },
+    {
+      "Id": "D:\\SanPhamChauPhu\\SanPhamChauPhu\\wwwroot\\lib\\select2\\js\\i18n\\eu.js",
+      "PackagePath": "staticwebassets\\lib\\select2\\js\\i18n\\eu.js"
+    },
+    {
+      "Id": "D:\\SanPhamChauPhu\\SanPhamChauPhu\\wwwroot\\lib\\select2\\js\\i18n\\fa.js",
+      "PackagePath": "staticwebassets\\lib\\select2\\js\\i18n\\fa.js"
+    },
+    {
+      "Id": "D:\\SanPhamChauPhu\\SanPhamChauPhu\\wwwroot\\lib\\select2\\js\\i18n\\fi.js",
+      "PackagePath": "staticwebassets\\lib\\select2\\js\\i18n\\fi.js"
+    },
+    {
+      "Id": "D:\\SanPhamChauPhu\\SanPhamChauPhu\\wwwroot\\lib\\select2\\js\\i18n\\fr.js",
+      "PackagePath": "staticwebassets\\lib\\select2\\js\\i18n\\fr.js"
+    },
+    {
+      "Id": "D:\\SanPhamChauPhu\\SanPhamChauPhu\\wwwroot\\lib\\select2\\js\\i18n\\gl.js",
+      "PackagePath": "staticwebassets\\lib\\select2\\js\\i18n\\gl.js"
+    },
+    {
+      "Id": "D:\\SanPhamChauPhu\\SanPhamChauPhu\\wwwroot\\lib\\select2\\js\\i18n\\he.js",
+      "PackagePath": "staticwebassets\\lib\\select2\\js\\i18n\\he.js"
+    },
+    {
+      "Id": "D:\\SanPhamChauPhu\\SanPhamChauPhu\\wwwroot\\lib\\select2\\js\\i18n\\hi.js",
+      "PackagePath": "staticwebassets\\lib\\select2\\js\\i18n\\hi.js"
+    },
+    {
+      "Id": "D:\\SanPhamChauPhu\\SanPhamChauPhu\\wwwroot\\lib\\select2\\js\\i18n\\hr.js",
+      "PackagePath": "staticwebassets\\lib\\select2\\js\\i18n\\hr.js"
+    },
+    {
+      "Id": "D:\\SanPhamChauPhu\\SanPhamChauPhu\\wwwroot\\lib\\select2\\js\\i18n\\hsb.js",
+      "PackagePath": "staticwebassets\\lib\\select2\\js\\i18n\\hsb.js"
+    },
+    {
+      "Id": "D:\\SanPhamChauPhu\\SanPhamChauPhu\\wwwroot\\lib\\select2\\js\\i18n\\hu.js",
+      "PackagePath": "staticwebassets\\lib\\select2\\js\\i18n\\hu.js"
+    },
+    {
+      "Id": "D:\\SanPhamChauPhu\\SanPhamChauPhu\\wwwroot\\lib\\select2\\js\\i18n\\hy.js",
+      "PackagePath": "staticwebassets\\lib\\select2\\js\\i18n\\hy.js"
+    },
+    {
+      "Id": "D:\\SanPhamChauPhu\\SanPhamChauPhu\\wwwroot\\lib\\select2\\js\\i18n\\id.js",
+      "PackagePath": "staticwebassets\\lib\\select2\\js\\i18n\\id.js"
+    },
+    {
+      "Id": "D:\\SanPhamChauPhu\\SanPhamChauPhu\\wwwroot\\lib\\select2\\js\\i18n\\is.js",
+      "PackagePath": "staticwebassets\\lib\\select2\\js\\i18n\\is.js"
+    },
+    {
+      "Id": "D:\\SanPhamChauPhu\\SanPhamChauPhu\\wwwroot\\lib\\select2\\js\\i18n\\it.js",
+      "PackagePath": "staticwebassets\\lib\\select2\\js\\i18n\\it.js"
+    },
+    {
+      "Id": "D:\\SanPhamChauPhu\\SanPhamChauPhu\\wwwroot\\lib\\select2\\js\\i18n\\ja.js",
+      "PackagePath": "staticwebassets\\lib\\select2\\js\\i18n\\ja.js"
+    },
+    {
+      "Id": "D:\\SanPhamChauPhu\\SanPhamChauPhu\\wwwroot\\lib\\select2\\js\\i18n\\ka.js",
+      "PackagePath": "staticwebassets\\lib\\select2\\js\\i18n\\ka.js"
+    },
+    {
+      "Id": "D:\\SanPhamChauPhu\\SanPhamChauPhu\\wwwroot\\lib\\select2\\js\\i18n\\km.js",
+      "PackagePath": "staticwebassets\\lib\\select2\\js\\i18n\\km.js"
+    },
+    {
+      "Id": "D:\\SanPhamChauPhu\\SanPhamChauPhu\\wwwroot\\lib\\select2\\js\\i18n\\ko.js",
+      "PackagePath": "staticwebassets\\lib\\select2\\js\\i18n\\ko.js"
+    },
+    {
+      "Id": "D:\\SanPhamChauPhu\\SanPhamChauPhu\\wwwroot\\lib\\select2\\js\\i18n\\lt.js",
+      "PackagePath": "staticwebassets\\lib\\select2\\js\\i18n\\lt.js"
+    },
+    {
+      "Id": "D:\\SanPhamChauPhu\\SanPhamChauPhu\\wwwroot\\lib\\select2\\js\\i18n\\lv.js",
+      "PackagePath": "staticwebassets\\lib\\select2\\js\\i18n\\lv.js"
+    },
+    {
+      "Id": "D:\\SanPhamChauPhu\\SanPhamChauPhu\\wwwroot\\lib\\select2\\js\\i18n\\mk.js",
+      "PackagePath": "staticwebassets\\lib\\select2\\js\\i18n\\mk.js"
+    },
+    {
+      "Id": "D:\\SanPhamChauPhu\\SanPhamChauPhu\\wwwroot\\lib\\select2\\js\\i18n\\ms.js",
+      "PackagePath": "staticwebassets\\lib\\select2\\js\\i18n\\ms.js"
+    },
+    {
+      "Id": "D:\\SanPhamChauPhu\\SanPhamChauPhu\\wwwroot\\lib\\select2\\js\\i18n\\nb.js",
+      "PackagePath": "staticwebassets\\lib\\select2\\js\\i18n\\nb.js"
+    },
+    {
+      "Id": "D:\\SanPhamChauPhu\\SanPhamChauPhu\\wwwroot\\lib\\select2\\js\\i18n\\ne.js",
+      "PackagePath": "staticwebassets\\lib\\select2\\js\\i18n\\ne.js"
+    },
+    {
+      "Id": "D:\\SanPhamChauPhu\\SanPhamChauPhu\\wwwroot\\lib\\select2\\js\\i18n\\nl.js",
+      "PackagePath": "staticwebassets\\lib\\select2\\js\\i18n\\nl.js"
+    },
+    {
+      "Id": "D:\\SanPhamChauPhu\\SanPhamChauPhu\\wwwroot\\lib\\select2\\js\\i18n\\pl.js",
+      "PackagePath": "staticwebassets\\lib\\select2\\js\\i18n\\pl.js"
+    },
+    {
+      "Id": "D:\\SanPhamChauPhu\\SanPhamChauPhu\\wwwroot\\lib\\select2\\js\\i18n\\ps.js",
+      "PackagePath": "staticwebassets\\lib\\select2\\js\\i18n\\ps.js"
+    },
+    {
+      "Id": "D:\\SanPhamChauPhu\\SanPhamChauPhu\\wwwroot\\lib\\select2\\js\\i18n\\pt-BR.js",
+      "PackagePath": "staticwebassets\\lib\\select2\\js\\i18n\\pt-BR.js"
+    },
+    {
+      "Id": "D:\\SanPhamChauPhu\\SanPhamChauPhu\\wwwroot\\lib\\select2\\js\\i18n\\pt.js",
+      "PackagePath": "staticwebassets\\lib\\select2\\js\\i18n\\pt.js"
+    },
+    {
+      "Id": "D:\\SanPhamChauPhu\\SanPhamChauPhu\\wwwroot\\lib\\select2\\js\\i18n\\ro.js",
+      "PackagePath": "staticwebassets\\lib\\select2\\js\\i18n\\ro.js"
+    },
+    {
+      "Id": "D:\\SanPhamChauPhu\\SanPhamChauPhu\\wwwroot\\lib\\select2\\js\\i18n\\ru.js",
+      "PackagePath": "staticwebassets\\lib\\select2\\js\\i18n\\ru.js"
+    },
+    {
+      "Id": "D:\\SanPhamChauPhu\\SanPhamChauPhu\\wwwroot\\lib\\select2\\js\\i18n\\sk.js",
+      "PackagePath": "staticwebassets\\lib\\select2\\js\\i18n\\sk.js"
+    },
+    {
+      "Id": "D:\\SanPhamChauPhu\\SanPhamChauPhu\\wwwroot\\lib\\select2\\js\\i18n\\sl.js",
+      "PackagePath": "staticwebassets\\lib\\select2\\js\\i18n\\sl.js"
+    },
+    {
+      "Id": "D:\\SanPhamChauPhu\\SanPhamChauPhu\\wwwroot\\lib\\select2\\js\\i18n\\sq.js",
+      "PackagePath": "staticwebassets\\lib\\select2\\js\\i18n\\sq.js"
+    },
+    {
+      "Id": "D:\\SanPhamChauPhu\\SanPhamChauPhu\\wwwroot\\lib\\select2\\js\\i18n\\sr-Cyrl.js",
+      "PackagePath": "staticwebassets\\lib\\select2\\js\\i18n\\sr-Cyrl.js"
+    },
+    {
+      "Id": "D:\\SanPhamChauPhu\\SanPhamChauPhu\\wwwroot\\lib\\select2\\js\\i18n\\sr.js",
+      "PackagePath": "staticwebassets\\lib\\select2\\js\\i18n\\sr.js"
+    },
+    {
+      "Id": "D:\\SanPhamChauPhu\\SanPhamChauPhu\\wwwroot\\lib\\select2\\js\\i18n\\sv.js",
+      "PackagePath": "staticwebassets\\lib\\select2\\js\\i18n\\sv.js"
+    },
+    {
+      "Id": "D:\\SanPhamChauPhu\\SanPhamChauPhu\\wwwroot\\lib\\select2\\js\\i18n\\th.js",
+      "PackagePath": "staticwebassets\\lib\\select2\\js\\i18n\\th.js"
+    },
+    {
+      "Id": "D:\\SanPhamChauPhu\\SanPhamChauPhu\\wwwroot\\lib\\select2\\js\\i18n\\tk.js",
+      "PackagePath": "staticwebassets\\lib\\select2\\js\\i18n\\tk.js"
+    },
+    {
+      "Id": "D:\\SanPhamChauPhu\\SanPhamChauPhu\\wwwroot\\lib\\select2\\js\\i18n\\tr.js",
+      "PackagePath": "staticwebassets\\lib\\select2\\js\\i18n\\tr.js"
+    },
+    {
+      "Id": "D:\\SanPhamChauPhu\\SanPhamChauPhu\\wwwroot\\lib\\select2\\js\\i18n\\uk.js",
+      "PackagePath": "staticwebassets\\lib\\select2\\js\\i18n\\uk.js"
+    },
+    {
+      "Id": "D:\\SanPhamChauPhu\\SanPhamChauPhu\\wwwroot\\lib\\select2\\js\\i18n\\vi.js",
+      "PackagePath": "staticwebassets\\lib\\select2\\js\\i18n\\vi.js"
+    },
+    {
+      "Id": "D:\\SanPhamChauPhu\\SanPhamChauPhu\\wwwroot\\lib\\select2\\js\\i18n\\zh-CN.js",
+      "PackagePath": "staticwebassets\\lib\\select2\\js\\i18n\\zh-CN.js"
+    },
+    {
+      "Id": "D:\\SanPhamChauPhu\\SanPhamChauPhu\\wwwroot\\lib\\select2\\js\\i18n\\zh-TW.js",
+      "PackagePath": "staticwebassets\\lib\\select2\\js\\i18n\\zh-TW.js"
+    },
+    {
+      "Id": "D:\\SanPhamChauPhu\\SanPhamChauPhu\\wwwroot\\lib\\select2\\js\\select2.full.js",
+      "PackagePath": "staticwebassets\\lib\\select2\\js\\select2.full.js"
+    },
+    {
+      "Id": "D:\\SanPhamChauPhu\\SanPhamChauPhu\\wwwroot\\lib\\select2\\js\\select2.full.min.js",
+      "PackagePath": "staticwebassets\\lib\\select2\\js\\select2.full.min.js"
+    },
+    {
+      "Id": "D:\\SanPhamChauPhu\\SanPhamChauPhu\\wwwroot\\lib\\select2\\js\\select2.js",
+      "PackagePath": "staticwebassets\\lib\\select2\\js\\select2.js"
+    },
+    {
+      "Id": "D:\\SanPhamChauPhu\\SanPhamChauPhu\\wwwroot\\lib\\select2\\js\\select2.min.js",
+      "PackagePath": "staticwebassets\\lib\\select2\\js\\select2.min.js"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.SanPhamChauPhu.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.build.SanPhamChauPhu.props",
+      "PackagePath": "build\\SanPhamChauPhu.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildMultiTargeting.SanPhamChauPhu.props",
+      "PackagePath": "buildMultiTargeting\\SanPhamChauPhu.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildTransitive.SanPhamChauPhu.props",
+      "PackagePath": "buildTransitive\\SanPhamChauPhu.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

@@ -1,0 +1,186 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>@ViewData["Title"] - Sản phẩm Châu Phú</title>
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Glassmorphism Navbar HTML CSS | Codehal</title>
+    
+    <!-- Google Fonts -->
+    <link href="https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;1,100;1,200;1,300;1,400;1,500;1,600;1,700&display=swap" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css2?family=Source+Serif+Pro:ital,wght@0,200;0,300;0,400;0,600;0,700;1,200;1,300;1,400;1,600;1,700&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" />
+    <link rel="shortcut icon" type="image/png" href="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRed5cx1q7tOln6BBN3MkCSPz4_BvoGkT8C40a0oYCHsA&s" />
+    <link rel="stylesheet" href="~/lib/bootstrap/dist/css/bootstrap.min.css" />
+    <link rel="stylesheet" href="~/css/site.css" asp-append-version="true" />
+    <link rel="stylesheet" href="~/lib/icofont/icofont.min.css" />
+    <link rel="stylesheet" href="~/lib/select2/css/select2.min.css" />
+    <link rel="stylesheet" href="~/lib/select2-bootstrap-5-theme/select2-bootstrap-5-theme.min.css" />
+    <link rel="stylesheet" href="~/lib/boxicons/css/boxicons.min.css" />
+    <link rel="stylesheet" href="style.css">
+
+    @await RenderSectionAsync("Styles", required: false)
+
+</head>
+
+<body>
+
+    <header id="header">
+        <div class="container">
+            <div class="d-flex align-items-center py-2">
+                <div class="logo me-auto">
+                    <a class="d-flex align-items-center" href="/">
+                        <img src="./img/logo.png" alt="logo" />
+                        <span class="ms-2 text-uppercase">Sản phẩm Châu Phú</span>
+                    </a>
+
+                </div>
+                @* @await Component.InvokeAsync("HomeMenu") *@
+                <div class="user-tools d-none d-xl-flex align-items-center">
+                    <a href="/wishlist" class="btn">
+                        <i class="icofont-heart"></i> Yêu thích
+                        <span id="wishlist-badge" class="badge bg-danger"></span>
+                    </a>
+                    <a href="/shopping/cart" class="btn">
+                        <i class="icofont-cart"></i> Giỏ hàng
+                        <span id="cart-badge" class="badge bg-danger"></span>
+                    </a>
+                    <div class="dropdown">
+                        <button class="btn" type="button" id="btn-context" data-bs-toggle="dropdown" aria-expanded="false">
+                            <i class="bx bx-dots-vertical-rounded" style="line-height: 1.5"></i>
+                        </button>
+                        <ul class="dropdown-menu" aria-labelledby="btn-context">
+                            <li><a href="/order/my-request" class="dropdown-item">My order request</a></li>
+                        </ul>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="background-primary menu-container">
+            <div class="container">
+                <div class="d-flex justify-content-between align-items-center">
+                    <nav class="nav-menu d-none d-xl-block">
+                        <ul>
+                            <li class="active">
+                                <a href="/home">Trang chủ</a>
+                            </li>
+                            <li>
+                                <a href="/home">Giới thiệu</a>
+                            </li>
+                            <li class="drop-down">
+                                <a href="/category?s=nail-art">Tin tức</a>
+                                <ul>
+                                    <li><a href="">Về Sản Phẩm - Làng Nghề</a></li>
+                                    <li><a href="">Về Du Lịch</a></li>
+                                    <li><a href="">Về Các Chính Sách Hỗ Trợ Văn Bản</a></li>
+                                    <li><a href="">Thông Tin Cần Biết Khác</a></li>
+                                </ul>
+                            </li>
+                            <li class="drop-down">
+                                <a href="/category?s=nail-art">Sản Phẩm</a>
+                                <ul>
+                                    <li><a href="">Thực Phẩm</a></li>
+                                    <li><a href="">Tiểu Thủ Công Nghiệp</a></li>
+                                    <li><a href="">Nông Sản</a></li>
+                                </ul>
+                            </li>
+                            <li><a href="/category?s=gel-polish">Video Giới Thiệu</a></li>
+                            <li><a href="">Liên hệ</a></li>
+                        </ul>
+                    </nav>
+                    <form class="bs-form-custom" method="get" action="/home">
+                        <div class="input-group">
+                            <input type="text" class="form-control" placeholder="Tìm kiếm ở đây" name="k" value="">
+                            <button class="btn btn-search" type="submit"><i class="icofont-search-1"></i></button>
+                        </div>
+                    </form>
+                </div>
+            </div>
+        </div>
+    </header>
+
+    <main role="main" class="mh-500">
+        @RenderBody()
+    </main>
+
+    <footer class="footer bg-light pt-4">
+        <div class="footer-top">
+            <div class="container">
+                <div class="row">
+                    <div class="col-sm-12 col-md-12 col-xl-5">
+                        <h1 class="mb-4">Thông tin liên hệ</h1>
+                        <p><b>Chịu trách nhiệm nội dung:</b> Ủy ban nhân dân huyện Châu Phú</p>
+                        <p><b>Địa chỉ:</b> Ấp Vĩnh Thành thị trấn Cái Dầu, Châu Phú, An Giang</p>
+                        <p><b>Điện thoại:</b> 02963 688 314</p>
+                        <p><b>Fax:</b> 02963 688 635</p>
+                        <p><b>Email:</b> chauphu@angiang.gov.vn</p>
+                    </div>
+                    <div class="col-sm-12 col-md-12 col-xl-3">
+                        <h1 class="mb-4">Danh mục sản phẩm</h1>
+                        <li><b> Tiểu thủ công nghiệp </b></li>
+                        <li><b> Nông sản </b></li>
+                        <li><b> Thực phẩm </b></li>
+                        <div class="elementor-widget-container">
+                            <a href="https://tinnhiemmang.vn/danh-ba-tin-nhiem/chauphuangianggovvn-1634291156" title="Chứng nhận tín nhiệm mạng" target="_blank">
+                                <img src="https://tinnhiemmang.vn/handle_cert?id=sanphamchomoi.vn" width="150px" height="auto" alt="Chung nhan Tin Nhiem Mang">
+                            </a>
+                        </div>
+                    </div>
+                    <div class="col-sm-12 col-md-12 col-xl-4">
+                        <h1 class="mb-4">&nbsp;</h1>
+                        <div class="dropdown">
+                            <button onclick="toggleDropdown()" class="dropdown-toggle">Liên kết Website</button>
+                            <div class="dropdown-menu" aria-labelledby="dropdownMenuButton">
+                                <a class="dropdown-item" href="#">Cổng TTĐ Huyện Châu Phú</a>
+                                <a class="dropdown-item" href="#">Sản phẩm An Giang</a>
+                                <a class="dropdown-item" href="Sàn giao dịch công nghệ An Giang">Sàn giao dịch công nghệ An Giang</a>
+                            </div>
+                        </div>
+                       
+                        <div id="mvctable">
+                            <img data-src="https://sanphamchomoi.vn/wp-content/plugins/mechanic-visitor-counter/counter/mvctotal.png" class="ls-is-cached lazyloaded" src="https://sanphamchomoi.vn/wp-content/plugins/mechanic-visitor-counter/counter/mvctotal.png">
+                            <noscript><img src='https://sanphamchomoi.vn/wp-content/plugins/mechanic-visitor-counter/counter/mvctotal.png'></noscript> Lượt truy cập : 39057
+                            <br>
+                            <img data-src="https://sanphamchomoi.vn/wp-content/plugins/mechanic-visitor-counter/counter/mvcyear.png" class="ls-is-cached lazyloaded" src="https://sanphamchomoi.vn/wp-content/plugins/mechanic-visitor-counter/counter/mvcyear.png">
+                            <noscript><img src='https://sanphamchomoi.vn/wp-content/plugins/mechanic-visitor-counter/counter/mvcyear.png'></noscript> Truy cập trong năm : 7171
+                            <br>
+
+                            <img data-src="https://sanphamchomoi.vn/wp-content/plugins/mechanic-visitor-counter/counter/mvcmonth.png" class=" ls-is-cached lazyloaded" src="https://sanphamchomoi.vn/wp-content/plugins/mechanic-visitor-counter/counter/mvcmonth.png">
+                            <noscript><img src='https://sanphamchomoi.vn/wp-content/plugins/mechanic-visitor-counter/counter/mvcmonth.png'></noscript> Truy cập trong tháng : 382
+                            <br>
+
+                            <img data-src="https://sanphamchomoi.vn/wp-content/plugins/mechanic-visitor-counter/counter/mvcvisit.png" class=" ls-is-cached lazyloaded" src="https://sanphamchomoi.vn/wp-content/plugins/mechanic-visitor-counter/counter/mvcvisit.png">
+                            <noscript><img src='https://sanphamchomoi.vn/wp-content/plugins/mechanic-visitor-counter/counter/mvcvisit.png'></noscript> Hôm nay : 29
+                            <br>
+
+                            <img data-src="https://sanphamchomoi.vn/wp-content/plugins/mechanic-visitor-counter/counter/mvconline.png" class=" ls-is-cached lazyloaded" src="https://sanphamchomoi.vn/wp-content/plugins/mechanic-visitor-counter/counter/mvconline.png">
+                            <noscript><img src='https://sanphamchomoi.vn/wp-content/plugins/mechanic-visitor-counter/counter/mvconline.png'></noscript>Đang Online : 1
+                        </div>
+                </div>
+            </div>
+        </div>
+        <div class="footer-bottom">
+            <p class="fw-bold background-primary text-center text-white py-2 mb-0">© Bản quyền thuộc UBND huyện Châu Phú tỉnh An Giang</p>
+        </div>
+    </footer>
+
+    <script src="~/lib/jquery/dist/jquery.min.js"></script>
+    <script src="~/lib/bootstrap/dist/js/bootstrap.bundle.min.js"></script>
+    <script src="~/lib/select2/js/select2.full.min.js"></script>
+    <script src="~/js/site.js" asp-append-version="true"></script>
+    <script type="text/javascript">
+        $(document).ready(() => {
+            // Initialize Select2 Theme
+            $('.select2bs5').select2({
+                theme: 'bootstrap-5'
+            });
+
+            // Add red star for label that form element is required
+            $('form [required]').prev('label').append(' <span class="text-danger">*</span>');
+        });
+    </script>
+    @await RenderSectionAsync("Scripts", required: false)
+</body>
+</html>
